@@ -24,3 +24,4 @@ https://618b88f69e53b.streamlock.net/THDT/thdttv/chunklist.m3u8
 #EXTINF:-1 group-title="THDT" tvg-logo="https://i.imgur.com/WXebESa.png",Đồng Tháp 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 10.0) AppleWebKit/537.36 (KHTML, like Gecko) 130.0.6723.116/10.0 TV Safari/537.36
 https://618b88f69e53b.streamlock.net/THDT2/thdttv2/chunklist.m3u8
+EXTINF:-1 tvg-id="cinemaworldhd" group-title="KÊNH CÓ NHIỀU LƯỢT XEM CAO NHẤT" group-title="KÊNH PHIM TRUYỆN" tvg-id="http://iptvzin.asuscomm.com:9876/rtp/232.84.2.172:10840 và https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Cinema%20World%20HD.png",CINEMA WORLD HD https://HaNoiIPTV.short.gy/HaNoiIPTV-Cinema_World_HD
