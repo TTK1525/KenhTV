@@ -1,30 +1,30 @@
 #EXTM3U url-tvg="https://epg.io.vn/epg.xml"
 #EXTM3U url-tvg="https://lichphatsong.io.vn/epg.xml"
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV1.png",VTV1 HD
+#EXTINF:-1 tvg-id="VTV1 HD" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV1.png",VTV1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 10.0) AppleWebKit/537.36 (KHTML, like Gecko) 130.0.6723.116/10.0 TV Safari/537.36
 https://vips-livecdn.fptplay.net/live/media/vtv1/live247-hls-avc/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV6.png",VTV6 HD
+#EXTINF:-1 tvg-id="VTV6 HD" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV6.png",VTV6 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 10.0) AppleWebKit/537.36 (KHTML, like Gecko) 130.0.6723.116/10.0 TV Safari/537.36
 https://vips-livecdn.fptplay.net/live/media/vtv6/live247-hls-avc/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gvPtTR2.png",Vĩnh Long 1 HD
+#EXTINF:-1 tvg-id="THVL1" tvg-logo="https://i.imgur.com/gvPtTR2.png",Vĩnh Long 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 10.0) AppleWebKit/537.36 (KHTML, like Gecko) 130.0.6723.116/10.0 TV Safari/537.36
 https://live.fptplay53.net/epzhd2/vinhlong1_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wYadDFn.png",Vĩnh Long 2 HD
+#EXTINF:-1 tvg-id="THVL2" tvg-logo="https://i.imgur.com/wYadDFn.png",Vĩnh Long 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 10.0) AppleWebKit/537.36 (KHTML, like Gecko) 130.0.6723.116/10.0 TV Safari/537.36
 https://live.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B8S0dyG.png",Vĩnh Long 3 HD
+#EXTINF:-1 tvg-id="THVL3" tvg-logo="https://i.imgur.com/B8S0dyG.png",Vĩnh Long 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 10.0) AppleWebKit/537.36 (KHTML, like Gecko) 130.0.6723.116/10.0 TV Safari/537.36
 https://live.fptplay53.net/epzhd2/vinhlong3_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xYalJzh.png",Vĩnh Long 4 HD
+#EXTINF:-1 tvg-id="THVL4" tvg-logo="https://i.imgur.com/xYalJzh.png",Vĩnh Long 4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 10.0) AppleWebKit/537.36 (KHTML, like Gecko) 130.0.6723.116/10.0 TV Safari/537.36
 https://live.fptplay53.net/epzhd2/vinhlong4-hd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/THVL5_VinhLong.png",Vĩnh Long 5 HD
+#EXTINF:-1 tvg-id="THVL5" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/THVL5_VinhLong.png",Vĩnh Long 5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 10.0) AppleWebKit/537.36 (KHTML, like Gecko) 130.0.6723.116/10.0 TV Safari/537.36
 https://live.fptplay53.net/epzhd2/vinhlong5hd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UfOw13y.png",Đồng Tháp 1 HD
+#EXTINF:-1 tvg-id="THDT1" tvg-logo="https://i.imgur.com/UfOw13y.png",Đồng Tháp 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 10.0) AppleWebKit/537.36 (KHTML, like Gecko) 130.0.6723.116/10.0 TV Safari/537.36
 https://live.fptplay53.net/epzhd2/dongthap01_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WXebESa.png",Đồng Tháp 2 HD
+#EXTINF:-1 tvg-id="THDT2" tvg-logo="https://i.imgur.com/WXebESa.png",Đồng Tháp 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 10.0) AppleWebKit/537.36 (KHTML, like Gecko) 130.0.6723.116/10.0 TV Safari/537.36
 https://live.fptplay53.net/epzhd2/mientaythdt02_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ANTV HD" tvg-logo="https://freem3u.xyz/static/images/thietyeu/antv.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/anninhtv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", ANTV HD
