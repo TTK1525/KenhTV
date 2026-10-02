@@ -2,7 +2,7 @@
 #EXTM3U url-tvg="https://epg.io.vn/epg.xml"
 #EXTM3U url-tvg="https://lichphatsong.io.vn/epg.xml"
 
-#EXTINF:-1 tvg-id="VTV1 HD" group-title="🇻🇳VN" group-title="Việt Nam" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV1.png",VTV1 HD
+#EXTINF:-1 tvg-id="VTV1 HD" group-title="🇻🇳VN" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV1.png",VTV1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://vips-livecdn.fptplay.net/live/media/vtv1/live247-hls-avc/index.m3u8
 
@@ -18,7 +18,7 @@ https://live.fptplay53.net/epzhd2/dongthap01_vhls.smil/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live.fptplay53.net/epzhd2/mientaythdt02_vhls.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="THVL1" tvg-logo="https://i.imgur.com/gvPtTR2.png",Vĩnh Long 1 HD
+#EXTINF:-1 tvg-id="THVL1" group-title="🇻🇳VN" tvg-logo="https://i.imgur.com/gvPtTR2.png",Vĩnh Long 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live.fptplay53.net/epzhd2/vinhlong1_vhls.smil/chunklist.m3u8
 
