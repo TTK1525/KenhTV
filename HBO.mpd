@@ -2,7 +2,7 @@
 #EXTM3U url-tvg="https://epg.io.vn/epg.xml"
 #EXTM3U url-tvg="https://lichphatsong.io.vn/epg.xml"
 
-mpd
+
 #EXTINF:-1 tvg-id="sctv9" group-title="SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv9.png", SCTV9
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
