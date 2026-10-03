@@ -150,7 +150,7 @@ https://livevlisctcdnw.seenow.vn/mean/BM1/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://livevlisctcdnw.seenow.vn/mean/BOXHIT/manifest.mpd
 
-#EXTINF:-1 tvg-id="hollywoodclassic" group-title="🌏 Quốc Tế" tvg-logo="https://s2.edge.cdn.sctvonline.vn/cdn-cgi/edge/v3/1791034103/APdEq4ID6DzYzBoE8eOAzVPQhj4/imaginary.endpoint.cdn.sctvonline.vn/nginx.s2.edge.cdn.sctvonline.vn/tenants/none_tenant/photos/hwc-2021_df4ce62c.jpg", Hollywood Classics HD
+#EXTINF:-1 tvg-id="hollywoodclassic" group-title="🌏 Quốc Tế" tvg-logo="https://imgur.com/ClKBSSK.png", Hollywood Classics HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
