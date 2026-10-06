@@ -2,7 +2,7 @@
 #EXTM3U url-tvg="https://lichphatsong.io.vn/epg.xml"
 
 ## 📺 TV Menu
-## 📺 Tv 360
+## 📺 Tv 360(
 ## 📺 This TV is supervised and managed by e.g.T'Law
 #EXTINF:-1 tvg-id="tv360plus1" group-title="Sự Kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/15/22/1776266760359/ba1ca843cd06_480_270.png", TV360+1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
