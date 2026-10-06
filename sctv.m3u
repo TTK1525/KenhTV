@@ -1,3 +1,6 @@
+#EXTM3U url-tvg="https://epg.io.vn/epg.xml"
+#EXTM3U url-tvg="https://lichphatsong.io.vn/epg.xml"
+
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vietng228/m3u/refs/heads/main/logos/sctv1hd.png", SCTV1
 https://vmttv.dpdns.org/VTVGo/?sctv1
 #EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vietng228/m3u/refs/heads/main/logos/sctv2hd.png", SCTV2 - TODAY TV
