@@ -5,11 +5,11 @@
 ## 📺 🇻🇳 Việt Nam and 🌏 Thế Giới
 ## 📺 This TV is supervised and managed by e.g.T'Law
 
-#EXTINF:-1 tvg-id="VTV1 HD" group-title="🇻🇳 Việt Nam ☭" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV1.png",VTV1 HD
+#EXTINF:-1 tvg-id="VTV1 HD" group-title="🇻🇳 Việt Nam ☭" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV1%20HD%20•%20Bản%20tinh%20chỉnh.png",VTV1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://vips-livecdn.fptplay.net/live/media/vtv1/live247-hls-avc/index.m3u8
 
-#EXTINF:-1 tvg-id="VTV6 HD" group-title="🇻🇳 Việt Nam ☭" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV6.png",VTV6 HD
+#EXTINF:-1 tvg-id="VTV6 HD" group-title="🇻🇳 Việt Nam ☭" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV6%20HD%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh.png",VTV6 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://vips-livecdn.fptplay.net/live/media/vtv6/live247-hls-avc/index.m3u8
 
