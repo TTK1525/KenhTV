@@ -25,11 +25,11 @@ https://618b88f69e53b.streamlock.net/THDT2/thdttv2/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="THVL1" group-title="🇻🇳 Việt Nam ☭" tvg-logo="https://i.imgur.com/gvPtTR2.png",Vĩnh Long 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live-a.fptplay53.net/live/media/vinhlong1/live247-hls-avc/vinhlong1-avc1_5600000=10000-mp4a_131600=20000.m3u8
+https://dethich.pw/thvl1/index.m3u8
 
 #EXTINF:-1 tvg-id="THVL2" group-title="🇻🇳 Việt Nam ☭" tvg-logo="https://i.imgur.com/wYadDFn.png",Vĩnh Long 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist.m3u8
+https://dethich.pw/thvl2/index.m3u8
 
 #EXTINF:-1 tvg-id="THVL3" group-title="🇻🇳 Việt Nam ☭" tvg-logo="https://i.imgur.com/B8S0dyG.png",Vĩnh Long 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -37,7 +37,7 @@ https://vips-livecdn.fptplay.net/live/media/vinhlong3/live247-hls-avc/vinhlong3-
 
 #EXTINF:-1 tvg-id="THVL4" tvg-link="http://iptvzin.asuscomm.com:9876/rtp/232.84.3.160:10912 và http://iptvquan.duckdns.org:9876/udp/225.1.2.25:30120 và https://tthd.site/360/220/index.m3u8" group-title="🇻🇳 Việt Nam ☭" tvg-logo="https://i.imgur.com/xYalJzh.png",Vĩnh Long 4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.fptplay53.net/epzhd2/vinhlong4-hd_vhls.smil/chunklist.m3u8
+https://dethich.pw/thvl4/index.m3u8
 
 #EXTINF:-1 tvg-id="THVL5" group-title="🇻🇳 Việt Nam ☭" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/THVL5_VinhLong.png",Vĩnh Long 5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -72,11 +72,11 @@ https://freem3u.xyz/api/live/play.m3u8?vid=192
 
 #EXTINF:-1 tvg-id="HTV7HD" group-title="🇻🇳 Việt Nam ☭" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_htv7-hd_16565582880.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv7hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.fptplay53.net/live/media/htv7/live247-hls-avc/htv7-avc1_5600000=10000-mp4a_131600=20000.m3u8
+https://dethich.pw/htv7/index.m3u8
 
 #EXTINF:-1 tvg-id="HTVCPHIM" group-title="🇻🇳 Việt Nam ☭" tvg-logo="https://imgur.com/P0wqvmu.png" , HTVC Phim
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist_b5000000.m3u8
+https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/05/thumbnail-live_1791180747848.jpg", Sự Kiện 1
 https://vips-livecdn.fptplay.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
