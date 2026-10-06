@@ -6,73 +6,57 @@
 ## 📺 This TV is supervised and managed by e.g.T'Law
 
 #EXTINF:-1 tvg-id="VTV1 HD" group-title="🇻🇳 Việt Nam ☭" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV1.png",VTV1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://vips-livecdn.fptplay.net/live/media/vtv1/live247-hls-avc/index.m3u8
 
 #EXTINF:-1 tvg-id="VTV6 HD" group-title="🇻🇳 Việt Nam ☭" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV6.png",VTV6 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://vips-livecdn.fptplay.net/live/media/vtv6/live247-hls-avc/index.m3u8
 
 #EXTINF:-1 tvg-id="THDT1" group-title="🇻🇳 Việt Nam ☭" tvg-logo="https://i.imgur.com/UfOw13y.png",Đồng Tháp 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://liveh34.vtvprime.vn/hls/DONGTHAPTV/index.m3u8
 #https://618b88f69e53b.streamlock.net/THDT/thdttv/chunklist.m3u8
 ##https://live.fptplay53.net/epzhd2/dongthap01_vhls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="THDT2" group-title="🇻🇳 Việt Nam ☭" tvg-logo="https://i.imgur.com/WXebESa.png",Đồng Tháp 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://618b88f69e53b.streamlock.net/THDT2/thdttv2/chunklist.m3u8
 ##https://live.fptplay53.net/epzhd2/mientaythdt02_vhls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="THVL1" group-title="🇻🇳 Việt Nam ☭" tvg-logo="https://i.imgur.com/gvPtTR2.png",Vĩnh Long 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://livecdn-vthcm-bp.vieon.vn/239c4b68c2e3b9d9c32c1104c5bb8a96/1791393875000/livetv/group-02/b39935eee4d0c52fd9a5357c4ade8cc2/playlist.m3u8?c=a
 
 #EXTINF:-1 tvg-id="THVL2" group-title="🇻🇳 Việt Nam ☭" tvg-logo="https://i.imgur.com/wYadDFn.png",Vĩnh Long 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://dethich.pw/thvl2/index.m3u8
 
 #EXTINF:-1 tvg-id="THVL3" group-title="🇻🇳 Việt Nam ☭" tvg-logo="https://i.imgur.com/B8S0dyG.png",Vĩnh Long 3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://vips-livecdn.fptplay.net/live/media/vinhlong3/live247-hls-avc/vinhlong3-avc1_5600000=10000-mp4a_131600=20000.m3u8
 
 #EXTINF:-1 tvg-id="THVL4" tvg-link="http://iptvzin.asuscomm.com:9876/rtp/232.84.3.160:10912 và http://iptvquan.duckdns.org:9876/udp/225.1.2.25:30120 và https://tthd.site/360/220/index.m3u8" group-title="🇻🇳 Việt Nam ☭" tvg-logo="https://i.imgur.com/xYalJzh.png",Vĩnh Long 4 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://dethich.pw/thvl4/index.m3u8
 
 #EXTINF:-1 tvg-id="THVL5" group-title="🇻🇳 Việt Nam ☭" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/THVL5_VinhLong.png",Vĩnh Long 5 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://freem3u.xyz/api/live/play.m3u8?vid=91
 ##https://live.fptplay53.net/epzhd2/vinhlong5hd_vhls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="ANTV HD" group-title="🇻🇳 Việt Nam ☭" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ANTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20C%C3%B4ng%20an%20Nh%C3%A2n%20d%C3%A2n%20HD.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/anninhtv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", ANTV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://liveh12.vtvprime.vn/hls/ANNINHTV/index.m3u8
 
 #EXTINF:-1 tvg-id="QPVN HD" group-title="🇻🇳 Việt Nam ☭" tvg-logo="https://freem3u.xyz/static/images/thietyeu/qpvn.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/quocphongvnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", QPVN HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://vips-livecdn.fptplay.net/live/media/quocphongvn/live-hls-avc/quocphongvn-avc1_4000000=10000-mp4a_131600=20000.m3u8
 ##https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Onviegiaitri" group-title="🇻🇳 Việt Nam ☭" tvg-logo="https://i.imgur.com/7GSKm46.png", ON Vie Giải Trí
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://freem3u.xyz/api/live/play.m3u8?vid=180
 
 #EXTINF:-1 tvg-id="Onbibi" group-title="🇻🇳 Việt Nam ☭" tvg-logo="https://i.imgur.com/YFmPo7l.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=205&time=${start}&offset=${duration}", On BiBi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://freem3u.xyz/api/live/play.m3u8?vid=178
 
 #EXTINF:-1 tvg-id="Onkids" group-title="🇻🇳 Việt Nam ☭" tvg-logo="https://i.imgur.com/Y2SzhHG.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab21-cartoon-kid/${start}/${offset}", On Kids
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://freem3u.xyz/api/live/play.m3u8?vid=179
 
 #EXTINF:-1 tvg-id="HTV3HD" group-title="🇻🇳 Việt Nam ☭" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_htv3_165655827991.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv3_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://freem3u.xyz/api/live/play.m3u8?vid=192
 ##https://live.fptplay53.net/epzhd1/htv3_hls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="HTV7HD" group-title="🇻🇳 Việt Nam ☭" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_htv7-hd_16565582880.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv7hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV7 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://dethich.pw/htv7/index.m3u8
 
 #EXTINF:-1 tvg-id="HTVCPHIM" group-title="🇻🇳 Việt Nam ☭" tvg-logo="https://imgur.com/P0wqvmu.png" , HTVC Phim
