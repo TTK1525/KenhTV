@@ -27,7 +27,7 @@ https://livevliatmcdw.seenow.vn/live/data8/HAY_TV/Live_DASHDRM/HAY_TV.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Sports_News_du_phong
+https://livesct.vtvprime.vn/livesnv2/THETHAO_TINTUC_HD/manifest.mpd
 
 #EXTINF:-1 tvg-id="onviegiaitri" group-title="VTVcab" tvg-logo="https://i.imgur.com/7GSKm46.png", ON Vie Giải Trí HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
