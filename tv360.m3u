@@ -174,7 +174,23 @@ https://vmttv.dpdns.org/tv360/?id=360-bundesliga
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=360-golf
 #EXTINF:-1 group-title="Thể Thao" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/16/15/177632805669/a8c9881d6b08_640_360.png", 360 Tennis
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/skysports-football.png" group-title="XemTV",Sky Sports Football
+https://vmttv.dpdns.org/tv360/?id=360-tennis
+
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://vn.xemtv.net/image/skysports-football.png", Sky Sports Football
 https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vmttv.dpdns.org/tv360/?id=360-tennis
+
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-plus-icon-uk.png" group-title="Sports",Sky Sports +
+http://ts360.xyz:80/live/147777664532/672a54c4716b9.28147/2614.ts
+
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/belgium/dazn-1-be.png" group-title="Sports",DAZN 1
+https://1nyaler.streamhostingcdn.top/stream/7/index.m3u8
+
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/belgium/dazn-2-be.png" group-title="Sports",DAZN 2
+https://1nyaler.streamhostingcdn.top/stream/8/index.m3u8
+
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/belgium/dazn-3-be.png" group-title="Sports",DAZN 3
+https://1nyaler.streamhostingcdn.top/stream/9/index.m3u8
+
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/0F0BFEF7-EEB2-4AAE-8F98-637B07E19326/3-1x1.png" group-title="Sports",UEFA Champions League
+https://amd-mediator-eolq3tk4la-uk.a.run.app/cbs/map.m3u8?imafw__fw_did=&imafw__fw_is_lat=&imafw__fw_vcid2=&imafw__fw_app_bundle=web.localnow&imafw__fw_us_privacy=1YNY&am.originUrl=https%3A%2F%2Fdai.google.com%2Flinear%2Fhls%2Fevent%2FydKcHHYQSt27vbSP38xMVw%2Fmaster.m3u8&imafw_csid=desktop_web&app_version=0.0.0&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fuefa-champions-league&height=1080&ip_addr=50.44.92.162&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F145.0.0.0%20Safari%2F537.36&width=1920
