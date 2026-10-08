@@ -30,12 +30,13 @@ https://618b88f69e53b.streamlock.net/THDT2/thdttv2/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="thvl1" group-title="🇻🇳 Việt Nam ☭" tvg-logo="https://i.imgur.com/gvPtTR2.png",Vĩnh Long 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-vthcm-bp.vieon.vn/239c4b68c2e3b9d9c32c1104c5bb8a96/1791393875000/livetv/group-02/b39935eee4d0c52fd9a5357c4ade8cc2/playlist.m3u8?c=a
+https://vips-livecdn.fptplay.net/live/media/vinhlong1/live247-hls-avc/vinhlong1-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
+#https://livecdn-vthcm-bp.vieon.vn/239c4b68c2e3b9d9c32c1104c5bb8a96/1791393875000/livetv/group-02/b39935eee4d0c52fd9a5357c4ade8cc2/playlist.m3u8?c=a
 
 #EXTINF:-1 tvg-id="thvl2" group-title="🇻🇳 Việt Nam ☭" tvg-logo="https://i.imgur.com/wYadDFn.png",Vĩnh Long 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live.fptplay53.net/live/media/vinhlong2/live247-hls-avc/vinhlong2-avc1_3800000=10000-mp4a_131600=20000.m3u8
-#https://dethich.pw/thvl2/index.m3u8
+https://vips-livecdn.fptplay.net/live/media/vinhlong2/live247-hls-avc/vinhlong2-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
+#https://live.fptplay53.net/live/media/vinhlong2/live247-hls-avc/vinhlong2-avc1_3800000=10000-mp4a_131600=20000.m3u8
 
 #EXTINF:-1 tvg-id="thvl3" group-title="🇻🇳 Việt Nam ☭" tvg-logo="https://i.imgur.com/B8S0dyG.png",Vĩnh Long 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
