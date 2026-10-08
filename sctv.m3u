@@ -19,7 +19,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=232
 #EXTINF:-1 tvg-id="sctv7hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vietng228/m3u/refs/heads/main/logos/sctv7hd.png", SCTV7 HD
 https://vmttv.dpdns.org/VTVGo/?sctv7
 #EXTINF:-1 tvg-id="sctv8hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vietng228/m3u/refs/heads/main/logos/sctv8hd.png", SCTV8 HD
-https://vips-livecdn.fptplay.net/live/media/event-04/hls_avc_v6/index.m3u8VTVGo/?sctv8
+https://vmttv.dpdns.org/VTVGo/?sctv8
 #EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vietng228/m3u/refs/heads/main/logos/sctv9hd.png", SCTV9 HD
 https://vmttv.dpdns.org/VTVGo/?sctv9
 #EXTINF:-1 group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vietng228/m3u/refs/heads/main/logos/sctv10hd.png", SCTV10 HD
