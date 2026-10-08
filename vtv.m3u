@@ -22,10 +22,10 @@ https://vips-livecdn.fptplay.net/live/media/vtv4/live247-hls-avc/index.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🇻🇳 VTV ♻️" tvg-logo="https://i.postimg.cc/ZC91vWVM/V5.png",VTV5 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://vips-livecdn.fptplay.net/live/media/vtv5/live247-hls-avc/index.m3u8
-#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="🇻🇳 VTV ♻️" tvg-logo="https://i.postimg.cc/68ngzDsM/V5TNB.png",VTV5 TÃ‚Y NAM BÃ”Ì£ HD
+#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="🇻🇳 VTV ♻️" tvg-logo="https://i.postimg.cc/68ngzDsM/V5TNB.png",VTV5 TÂY NSM BỘ HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://vips-livecdn.fptplay.net/live/media/vtv5tnb/live-hls-avc/index.m3u8
-#EXTINF:-1 tvg-id="vtv5hdtn" group-title="🇻🇳 VTV ♻️" tvg-logo="https://i.postimg.cc/HcZhVm5d/V5TN.png",VTV5 TÃ‚Y NGUYÃŠN HD
+#EXTINF:-1 tvg-id="vtv5hdtn" group-title="🇻🇳 VTV ♻️" tvg-logo="https://i.postimg.cc/HcZhVm5d/V5TN.png",VTV5 TÂY NGUYÊN HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://vips-livecdn.fptplay.net/live/media/vtv5tn/live-hls-avc/index.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" group-title="🇻🇳 VTV ♻️" tvg-logo="https://i.postimg.cc/t7Jc81QZ/V6.png",VTV6 HD
@@ -37,6 +37,6 @@ https://vips-livecdn.fptplay.net/live/media/vtv7/live247-hls-avc/index.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="🇻🇳 VTV ♻️" tvg-logo="https://i.postimg.cc/phT0NSS6/V9.png",VTV9 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://vips-livecdn.fptplay.net/live/media/vtv9/live247-hls-avc/index.m3u8
-#EXTINF:-1 tvg-id="vtv10hd" group-title=🇻🇳 VTV ♻️" tvg-logo="https://i.postimg.cc/4nY8BrVK/V10.png",VTV10 HD
+#EXTINF:-1 tvg-id="vtv10hd" group-title="🇻🇳 VTV ♻️" tvg-logo="https://i.postimg.cc/4nY8BrVK/V10.png",VTV10 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://vips-livecdn.fptplay.net/live/media/vtv10/live247-hls-avc/index.m3u8
