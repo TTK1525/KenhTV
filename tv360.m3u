@@ -110,7 +110,7 @@ https://vmttv.dpdns.org/tv360/?id=tv360-14
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c305b22dfd6d55e3998ab279cc98e0d3:12998335c7da89877aa1b1d50f1ec174
 https://vmttv.dpdns.org/tv360/?id=tv360-15
-#EXTINF:-1 tvg-id="tv360promo" group-title="Sự Kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/09/17/17/175810574912/a5f8181388ab_640_360.png", TV360 Promo
+#EXTINF:-1 tvg-id="tv360pluspromo" group-title="Sự Kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/09/17/17/175810574912/a5f8181388ab_640_360.png", TV360 Promo
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=9904
 #EXTINF:-1 group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2025/11/27/14/1764229355411/83a9c979634e_180_180.png", TV360 Livestream
@@ -259,7 +259,7 @@ https://vmttv.dpdns.org/tv360/?id=360-golf
 #EXTINF:-1 group-title="Thể Thao" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/16/15/177632805669/a8c9881d6b08_640_360.png", 360 Tennis
 https://vmttv.dpdns.org/tv360/?id=360-tennis
 
-#EXTINF:-1 group-title="Live Sports" tvg-logo="https://vn.xemtv.net/image/skysports-football.png", Sky Sports Football
+#EXTINF:-1 tvg-id="skysportsfootball" group-title="Live Sports" tvg-logo="https://vn.xemtv.net/image/skysports-football.png", Sky Sports Football
 https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-plus-icon-uk.png" group-title="Sports",Sky Sports +
