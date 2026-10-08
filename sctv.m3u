@@ -1,5 +1,8 @@
-#EXTM3U url-tvg="https://epg.io.vn/epg.xml"
-#EXTM3U url-tvg="https://lichphatsong.io.vn/epg.xml"
+#EXTM3U url-tvg="https://epg.io.vn/epg.xml" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="https://epg.io.vn/epgc.xml" tvg-shift=0 m3uautoload=2
+
+	----Đường dẫn mang tính chất copy---
+	----Không khuyến khích sử dụng---
 
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vietng228/m3u/refs/heads/main/logos/sctv1hd.png", SCTV1 HD
 https://vmttv.dpdns.org/VTVGo/?sctv1
