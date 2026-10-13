@@ -3,9 +3,14 @@
 
 	## 📺 TV Menu
 	## 📺 ALLTV
-	## 📺 This TV is supervised and managed by e.g.T'Law
-	----Đường dẫn mang tính chất copy---
-	----Không khuyến khích sử dụng---
+	## 📺 This TV is supervised and managed by e.g.T'Khang
+	----Đường dẫn chỉ mang tính chất tham khảo----
+	----Không khuyến khích sử dụng----
+
+						---KÊNH 🇭🇰 TVB VN---
+
+	#EXTINF:-1 tvg-id="tvbvn" group-title="🇭🇰 TVB" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/TVB%20Vietnam%20Banner_Side.jpg", TVB VIỆT NAM
+	https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
 
 			---KÊNH 🇻🇳 ANTV/QPVN---
 
