@@ -31,7 +31,9 @@
 	#EXTINF:-1 tvg-id="vietnamtoday" group-title="🇻🇳 VTV " tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV_VietnamToday.png", Vietnam Today HD
 	#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 	#https://vips-livecdn.fptplay.net/live/media/vietnamtoday/live-hls-avc/vietnamtoday-avc1_4000000=10000-mp4a_131600=20000.m3u8
-	https://vips-livecdn.fptplay.net/live/media/vietnamtoday/live-hls-avc/vietnamtoday-avc1_4000000=10000-mp4a_140800_vie=20000.m3u8?sign=1792080947-MDc1OTczMzQ-0-5296ed45801e5d904307db15a6ec020f
+	#https://vips-livecdn.fptplay.net/live/media/vietnamtoday/live-hls-avc/vietnamtoday-avc1_4000000=10000-mp4a_140800_vie=20000.m3u8?sign=1792080947-MDc1OTczMzQ-0-5296ed45801e5d904307db15a6ec020f
+	https://freem3u.xyz/api/live/play.m3u8?vid=9951
+
 
 	#EXTINF:-1 tvg-id="vtv1hd" group-title="🇻🇳 VTV " group-logo="https://i.postimg.cc/k2RqCj0D/VTV.png" tvg-logo="https://i.postimg.cc/F1FvzstX/V1.png",VTV1 HD
 	#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
