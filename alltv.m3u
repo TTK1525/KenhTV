@@ -8,7 +8,7 @@
 	----Đường dẫn chỉ mang tính chất tham khảo----
 	----Không khuyến khích sử dụng----
 
-						---KÊNH 🇭🇰 TVB VN---
+			---KÊNH 🇭🇰 TVB VN---
 
 	#EXTINF:-1 tvg-id="tvbvn" group-title="🇭🇰 TVB" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/TVB%20Vietnam%20Banner_Side.jpg", TVB VIỆT NAM
 	#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
@@ -34,7 +34,6 @@
 	#https://vips-livecdn.fptplay.net/live/media/vietnamtoday/live-hls-avc/vietnamtoday-avc1_4000000=10000-mp4a_131600=20000.m3u8
 	#https://vips-livecdn.fptplay.net/live/media/vietnamtoday/live-hls-avc/vietnamtoday-avc1_4000000=10000-mp4a_140800_vie=20000.m3u8?sign=1792080947-MDc1OTczMzQ-0-5296ed45801e5d904307db15a6ec020f
 	https://freem3u.xyz/api/live/play.m3u8?vid=9951
-
 
 	#EXTINF:-1 tvg-id="vtv1hd" group-title="🇻🇳 VTV " group-logo="https://i.postimg.cc/k2RqCj0D/VTV.png" tvg-logo="https://i.postimg.cc/F1FvzstX/V1.png",VTV1 HD
 	#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
@@ -209,7 +208,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=14
 #EXTINF:-1 tvg-id="htvcplushd" group-title="🇻🇳 HTV | HTVC" tvg-logo="https://i.imgur.com/SQ9cLJj.png", HTVC Plus HD
 https://freem3u.xyz/api/live/play.m3u8?vid=132
 
-			---KÊNH 🇻🇳 ĐỊA PHƯƠNG---
+			---KÊNH 🇻🇳 ĐỊA PHƯƠNG CHỌN LỌC---
 
 #EXTINF:-1 tvg-id="dongthap1" group-title="🇻🇳 THDT | THVL" tvg-logo="https://i.imgur.com/UfOw13y.png",Đồng Tháp 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -364,7 +363,7 @@ https://tv.vietanhtv.top/vieon/vieon.php?id=dong-nai-3
 	#https://freem3u.xyz/api/live/play.m3u8?vid=71
 
 
----KÊNH 🇻🇳 SCTV ---
+			---KÊNH 🇻🇳 SCTV ---
 #EXTINF:-1 tvg-id="sctv1hd" group-title="🇻🇳 SCTV" tvg-logo="https://raw.githubusercontent.com/vietng228/m3u/refs/heads/main/logos/sctv1hd.png", SCTV1 HD
 https://vmttv.dpdns.org/VTVGo/?sctv1
 #EXTINF:-1 tvg-id="sctv2hd" group-title="🇻🇳 SCTV" tvg-logo="https://raw.githubusercontent.com/vietng228/m3u/refs/heads/main/logos/sctv2hd.png", SCTV2 HD
