@@ -63,12 +63,14 @@
 	#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="🇻🇳 VTV " tvg-logo="https://i.postimg.cc/68ngzDsM/V5TNB.png",VTV5 TÂY NAM BỘ HD
 	#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 	#https://vips-livecdn.fptplay.net/live/media/vtv5tnb/live-hls-avc/index.m3u8
-	https://live-a.fptplay53.net/live/media/vtv5tnb/live-hls-avc/vtv5tnb-avc1_4000000=10000-mp4a_140800_vie=20000.m3u8?sign=1792081054-MDc1OTczMzQ-0-a3430445c2acf1793fd5a97cc3152200
+	#https://live-a.fptplay53.net/live/media/vtv5tnb/live-hls-avc/vtv5tnb-avc1_4000000=10000-mp4a_140800_vie=20000.m3u8?sign=1792081054-MDc1OTczMzQ-0-a3430445c2acf1793fd5a97cc3152200
+	https://vmttv.dpdns.org/tv360/?id=vtv5-tay-nam-bo
 
 	#EXTINF:-1 tvg-id="vtv5hdtn" group-title="🇻🇳 VTV " tvg-logo="https://i.postimg.cc/HcZhVm5d/V5TN.png",VTV5 TÂY NGUYÊN HD
 	#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 	#https://vips-livecdn.fptplay.net/live/media/vtv5tn/live-hls-avc/index.m3u8
-	https://vips-livecdn.fptplay.net/live/media/vtv5tn/live-hls-avc/vtv5tn-avc1_4000000=10000-mp4a_140800_vie=20000.m3u8?sign=1792081150-MDc1OTczMzQ-0-a37c4116131957f2cb782cb076bf2b96
+	#https://vips-livecdn.fptplay.net/live/media/vtv5tn/live-hls-avc/vtv5tn-avc1_4000000=10000-mp4a_140800_vie=20000.m3u8?sign=1792081150-MDc1OTczMzQ-0-a37c4116131957f2cb782cb076bf2b96
+	https://vmttv.dpdns.org/tv360/?id=vtv5-tay-nguyen
 
 	#EXTINF:-1 tvg-id="vtv6hd" group-title="🇻🇳 VTV " tvg-logo="https://i.postimg.cc/t7Jc81QZ/V6.png",VTV6 HD
 	#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
