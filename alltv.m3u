@@ -162,76 +162,81 @@ https://vietanhtv.id.vn/sctv/sctv-4k/index.m3u8
 	#EXTINF:-1 tvg-id="vietnamtoday" group-title="🇻🇳 VTV | VTVcab" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV_VietnamToday.png", Vietnam Today HD
 	#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 	#KODIPROP:inputstream.adaptive.manifest_type=hls
-	https://freem3u.xyz/api/live/play.m3u8?vid=9951
+	https://vietmitv.id.vn/c.php?k=45a10e5
+	#https://freem3u.xyz/api/live/play.m3u8?vid=9951
 
 	#EXTINF:-1 tvg-id="vtv1hd" group-title="🇻🇳 VTV | VTVcab" group-logo="https://i.postimg.cc/k2RqCj0D/VTV.png" tvg-logo="https://i.postimg.cc/F1FvzstX/V1.png",VTV1 HD
 	#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 	#KODIPROP:inputstream.adaptive.manifest_type=hls
-	https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv1/master.m3u8
+	https://vietmitv.id.vn/c.php?k=91fda8c
+	#https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv1/master.m3u8
 
 	#EXTINF:-1 tvg-id="vtv2hd" group-title="🇻🇳 VTV | VTVcab" tvg-logo="https://i.postimg.cc/yDR4tDRm/V2.png",VTV2 HD
 	#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 	#KODIPROP:inputstream.adaptive.manifest_type=hls
-	https://vmttv.dpdns.org/tv360/?id=vtv2
+	https://vietmitv.id.vn/c.php?k=f545cd4
+	#https://vmttv.dpdns.org/tv360/?id=vtv2
 	#https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv2/master.m3u8
 	
 	#EXTINF:-1 tvg-id="vtv3hd" group-title="🇻🇳 VTV | VTVcab" tvg-logo="https://i.postimg.cc/B8cWZRM0/V3.png",VTV3 HD
 	#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 	#KODIPROP:inputstream.adaptive.manifest_type=hls
-	https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv3/master.m3u8
+	https://vietmitv.id.vn/c.php?k=4eb5844
+	#https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv3/master.m3u8
 
 	#EXTINF:-1 tvg-id="vtv4hd" group-title="🇻🇳 VTV | VTVcab" tvg-logo="https://i.postimg.cc/Wqzxnzj0/V4.png",VTV4 HD
 	#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 	#KODIPROP:inputstream.adaptive.manifest_type=hls
-	#https://dethich.pw/vtv4/index.m3u8
-	https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv4/master.m3u8
+	https://vietmitv.id.vn/c.php?k=a5c26d0
+	#https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv4/master.m3u8
 
 	#EXTINF:-1 tvg-id="vtv5hd" group-title="🇻🇳 VTV | VTVcab" tvg-logo="https://i.postimg.cc/ZC91vWVM/V5.png",VTV5 HD
 	#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 	#KODIPROP:inputstream.adaptive.manifest_type=hls
-	https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv5/master.m3u8
+	https://vietmitv.id.vn/c.php?k=ae8ecf4
+	#https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv5/master.m3u8
 
 	#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="🇻🇳 VTV | VTVcab" tvg-logo="https://i.postimg.cc/68ngzDsM/V5TNB.png",VTV5 TÂY NAM BỘ HD
 	#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 	#KODIPROP:inputstream.adaptive.manifest_type=hls
-	https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv5tnb/master.m3u8
-	#https://vmttv.dpdns.org/tv360/?id=vtv5-tay-nam-bo
+	#https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv5tnb/master.m3u8
+	https://vietmitv.id.vn/c.php?k=844f585
 
 	#EXTINF:-1 tvg-id="vtv5hdtn" group-title="🇻🇳 VTV | VTVcab" tvg-logo="https://i.postimg.cc/HcZhVm5d/V5TN.png",VTV5 TÂY NGUYÊN HD
 	#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 	#KODIPROP:inputstream.adaptive.manifest_type=hls
-	https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv5tnb/master.m3u8
-	#https://vmttv.dpdns.org/tv360/?id=vtv5-tay-nguyen
+	#https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv5tnb/master.m3u8
+	https://vietmitv.id.vn/c.php?k=f954fd8
 
 	#EXTINF:-1 tvg-id="vtv6hd" group-title="🇻🇳 VTV | VTVcab" tvg-logo="https://i.postimg.cc/t7Jc81QZ/V6.png",VTV6 HD
 	#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 	#KODIPROP:inputstream.adaptive.manifest_type=hls
-	https://vmttv.dpdns.org/tv360/?id=vtv6
+	https://vietmitv.id.vn/c.php?k=b70d018
 	#https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv6__vtv720p-h264/index.m3u8
 
 	#EXTINF:-1 tvg-id="vtv7hd" group-title="🇻🇳 VTV | VTVcab" tvg-logo="https://i.postimg.cc/ykSbYwN8/V7.png",VTV7 HD
 	#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 	#KODIPROP:inputstream.adaptive.manifest_type=hls
-	https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv7/master.m3u8
-	#https://dethich.pw/vtv7/index.m3u8
+	#https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv7/master.m3u8
+	https://vietmitv.id.vn/c.php?k=7997b8a
 
 	#EXTINF:-1 tvg-id="vtv8hd" group-title="🇻🇳 VTV | VTVcab" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV8.png" catchup="default" catchup-days="2", VTV8 HD
 	#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 	#KODIPROP:inputstream.adaptive.manifest_type=hls
-	https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv8/master.m3u8
-	#https://dethich.pw/vtv8/index.m3u8
+	#https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv8/master.m3u8
+	https://vietmitv.id.vn/c.php?k=561dba2
 
 	#EXTINF:-1 tvg-id="vtv9hd" group-title="🇻🇳 VTV | VTVcab" tvg-logo="https://i.postimg.cc/phT0NSS6/V9.png",VTV9 HD
 	#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 	#KODIPROP:inputstream.adaptive.manifest_type=hls
-	https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv9/master.m3u8
-	#https://dethich.pw/vtv9/index.m3u8
+	#https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv9/master.m3u8
+	https://vietmitv.id.vn/c.php?k=74d6bd9
 
 	#EXTINF:-1 tvg-id="vtv10hd" group-title="🇻🇳 VTV | VTVcab" tvg-logo="https://i.postimg.cc/4nY8BrVK/V10.png",VTV10 HD
 	#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 	#KODIPROP:inputstream.adaptive.manifest_type=hls
-	https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv6/master.m3u8
-	#https://dethich.pw/vtv10/index.m3u8
+	#https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv6/master.m3u8
+	https://vietmitv.id.vn/c.php?k=4802025
 
 			---KÊNH 🇻🇳 VTVCAB---
 
@@ -255,13 +260,14 @@ https://livevlisctcdnw.seenow.vn/Live_DASHDRM2/THETHAO_HD/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339
 https://livevliatmcdw.seenow.vn/live/data8/HAY_TV/Live_DASHDRM/HAY_TV.mpd
-#
-EXTINF:-1  tvg-id="onsportsnews" group-title="🇻🇳 VTV | VTVcab" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ON%20Sports%20News%20HD.png",ON Sports News FHD
+
+#EXTINF:-1  tvg-id="onsportsnews" group-title="🇻🇳 VTV | VTVcab" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ON%20Sports%20News%20HD.png",ON Sports News FHD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339
-https://livesct.vtvprime.vn/livesnv2/THETHAO_TINTUC_HD/manifest.mpd
+https://vietmitv.id.vn/c.php?k=aac3295
+#https://livesct.vtvprime.vn/livesnv2/THETHAO_TINTUC_HD/manifest.mpd
 
 #EXTINF:-1 tvg-id="onviegiaitri" group-title="🇻🇳 VTV | VTVcab" tvg-logo="https://i.imgur.com/7GSKm46.png", ON Vie Giải Trí HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
