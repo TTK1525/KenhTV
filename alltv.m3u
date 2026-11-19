@@ -1,5 +1,6 @@
-#EXTM3U url-tvg="https://epg.io.vn/epg.xml" tvg-shift=0 m3uautoload=1
-#EXTM3U url-tvg="https://epg.io.vn/epgc.xml" tvg-shift=0 m3uautoload=2
+#EXTM3U url-tvg="https://lichphatsong.io.vn/epg.xml" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="https://epg.io.vn/epg.xml" tvg-shift=0 m3uautoload=2
+#EXTM3U url-tvg="https://epg.io.vn/epgc.xml" tvg-shift=0 m3uautoload=3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-VERSION:3
@@ -13,77 +14,92 @@
 
 #EXTINF:-1 tvg-id="tvbvn" group-title="🇻🇳 TVB | SCTV" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/TVB%20Vietnam%20Banner_Side.jpg", TVB VIỆT NAM
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+#KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
 
 			---KÊNH 🇻🇳 SCTV ---
 #EXTINF:-1 tvg-id="sctv1hd" group-title="🇻🇳 TVB | SCTV" tvg-logo="https://raw.githubusercontent.com/vietng228/m3u/refs/heads/main/logos/sctv1hd.png", SCTV1 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+#KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://vmttv.dpdns.org/VTVGo/?sctv1
 
 #EXTINF:-1 tvg-id="sctv2hd" group-title="🇻🇳 TVB | SCTV" tvg-logo="https://raw.githubusercontent.com/vietng228/m3u/refs/heads/main/logos/sctv2hd.png", SCTV2 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+#KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://freem3u.xyz/api/live/play.m3u8?vid=201
 
 #EXTINF:-1 tvg-id="sctv3" group-title="🇻🇳 TVB | SCTV" tvg-logo="https://raw.githubusercontent.com/vietng228/m3u/refs/heads/main/logos/sctv3hd.png", SCTV3 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+#KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://vmttv.dpdns.org/VTVGo/?sctv3
 
 #EXTINF:-1 tvg-id="sctv4hd" group-title="🇻🇳 TVB | SCTV" tvg-logo="https://raw.githubusercontent.com/vietng228/m3u/refs/heads/main/logos/sctv4hd.png", SCTV4 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+#KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://vmttv.dpdns.org/VTVGo/?sctv4
 
 #EXTINF:-1 tvg-id="sctv5hd" group-title="🇻🇳 TVB | SCTV" tvg-logo="https://raw.githubusercontent.com/vietng228/m3u/refs/heads/main/logos/sctv5hd.png", SCTV5 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+#KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://vmttv.dpdns.org/VTVGo/?sctv5
 
 #EXTINF:-1 tvg-id="sctv6hd" group-title="🇻🇳 TVB | SCTV" tvg-logo="https://raw.githubusercontent.com/vietng228/m3u/refs/heads/main/logos/sctv6hd.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", SCTV6 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+#KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://freem3u.xyz/api/live/play.m3u8?vid=232
 
 #EXTINF:-1 tvg-id="sctv7hd" group-title="🇻🇳 TVB | SCTV" tvg-logo="https://raw.githubusercontent.com/vietng228/m3u/refs/heads/main/logos/sctv7hd.png", SCTV7 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+#KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://vmttv.dpdns.org/VTVGo/?sctv7
 
 #EXTINF:-1 tvg-id="sctv8hd" group-title="🇻🇳 TVB | SCTV" tvg-logo="https://raw.githubusercontent.com/vietng228/m3u/refs/heads/main/logos/sctv8hd.png", SCTV8 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+#KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://vmttv.dpdns.org/VTVGo/?sctv8
 
 #EXTINF:-1 tvg-id="sctv9hd" group-title="🇻🇳 TVB | SCTV" tvg-logo="https://raw.githubusercontent.com/vietng228/m3u/refs/heads/main/logos/sctv9hd.png", SCTV9 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+#KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://vmttv.dpdns.org/VTVGo/?sctv9
 
 #EXTINF:-1 tvg-id="sctv10hd" group-title="🇻🇳 TVB | SCTV" tvg-logo="https://raw.githubusercontent.com/vietng228/m3u/refs/heads/main/logos/sctv10hd.png", SCTV10 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+#KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://vmttv.dpdns.org/VTVGo/?sctv10
 
 #EXTINF:-1 tvg-id="sctv11hd" group-title="🇻🇳 TVB | SCTV" tvg-logo="https://raw.githubusercontent.com/vietng228/m3u/refs/heads/main/logos/sctv11hd.png", SCTV11 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+#KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://vmttv.dpdns.org/VTVGo/?sctv11
 
 #EXTINF:-1 tvg-id="sctv12hd" group-title="🇻🇳 TVB | SCTV" tvg-logo="https://raw.githubusercontent.com/vietng228/m3u/refs/heads/main/logos/sctv12hd.png", SCTV12 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+#KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://vmttv.dpdns.org/VTVGo/?sctv12
 
 #EXTINF:-1 tvg-id="sctv13hd" group-title="🇻🇳 TVB | SCTV" tvg-logo="https://raw.githubusercontent.com/vietng228/m3u/refs/heads/main/logos/sctv13hd.png", SCTV13 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+#KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://vmttv.dpdns.org/VTVGo/?sctv13
 
 #EXTINF:-1 tvg-id="sctv14hd" group-title="🇻🇳 TVB | SCTV" tvg-logo="https://raw.githubusercontent.com/vietng228/m3u/refs/heads/main/logos/sctv14hd.png", SCTV14 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+#KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://vmttv.dpdns.org/VTVGo/?sctv14
 
@@ -96,6 +112,7 @@ https://liveatmvng.vtvprime.vn/live/data8/SCTV15HD/Live_DASHDRM/SCTV15HD.mpd
 
 #EXTINF:-1 tvg-id="sctv16hd" group-title="🇻🇳 TVB | SCTV" tvg-logo="https://raw.githubusercontent.com/vietng228/m3u/refs/heads/main/logos/sctv16hd.png", SCTV16 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+#KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://vmttv.dpdns.org/VTVGo/?sctv16
 
@@ -108,21 +125,25 @@ https://liveatmvng.vtvprime.vn/live/data8/SCTV17/Live_DASHDRM/SCTV17.mpd
 
 #EXTINF:-1 tvg-id="sctv18hd" group-title="🇻🇳 TVB | SCTV" tvg-logo="https://raw.githubusercontent.com/vietng228/m3u/refs/heads/main/logos/sctv18hd.png", SCTV18 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+#KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://vmttv.dpdns.org/VTVGo/?sctv18
 
 #EXTINF:-1 tvg-id="sctv19hd" group-title="🇻🇳 TVB | SCTV" tvg-logo="https://raw.githubusercontent.com/vietng228/m3u/refs/heads/main/logos/sctv19hd.png", SCTV19 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+#KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://vmttv.dpdns.org/VTVGo/?sctv19
 
 #EXTINF:-1 tvg-id="sctv20hd" group-title="🇻🇳 TVB | SCTV" tvg-logo="https://raw.githubusercontent.com/vietng228/m3u/refs/heads/main/logos/sctv20hd.png", SCTV20 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+#KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://vmttv.dpdns.org/VTVGo/?sctv20
 
 #EXTINF:-1 tvg-id="sctv21hd" group-title="🇻🇳 TVB | SCTV" tvg-logo="https://raw.githubusercontent.com/vietng228/m3u/refs/heads/main/logos/sctv21hd.png", SCTV21 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+#KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://vmttv.dpdns.org/VTVGo/?sctv21
 
@@ -135,11 +156,13 @@ https://liveatmvng.vtvprime.vn/live/data8/SCTV22/Live_DASHDRM/SCTV22.mpd
 
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="🇻🇳 TVB | SCTV" tvg-logo="https://raw.githubusercontent.com/vietng228/m3u/refs/heads/main/logos/sctvhdpth.png", SCTV Phim HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+#KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://vmttv.dpdns.org/VTVGo/?sctvphim
 
 #EXTINF:-1 tvg-id="sctv4k" group-title="🇻🇳 TVB | SCTV" tvg-logo="https://raw.githubusercontent.com/vietng228/m3u/refs/heads/main/logos/sctv4k.png", SCTV4K
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+#KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://vietanhtv.id.vn/sctv/sctv-4k/index.m3u8
 
