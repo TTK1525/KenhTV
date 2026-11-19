@@ -409,8 +409,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=132
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #https://liveh34.vtvprime.vn/hls/DONGTHAPTV/index.m3u8
-#https://618b88f69e53b.streamlock.net/THDT/thdttv/chunklist.m3u8
-https://vietmitv.id.vn/c.php?k=ef39d8c
+https://618b88f69e53b.streamlock.net/THDT/thdttv/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="dongthap2" group-title="🇻🇳 THDT | THVL" tvg-logo="https://i.imgur.com/WXebESa.png",Đồng Tháp 2 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
