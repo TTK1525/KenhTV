@@ -29,6 +29,12 @@ https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/dev1
 #KODIPROP:inputstream.adaptive.license_key=https://livesport.io.vn/ott/kids.xml
 https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
 
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" tvg-logo="https://livesport.io.vn/logo/sport/skepl.png" group-title="WORLD SPORTS 2" ,SKYSPORT EPL
+https://livesport.io.vn/ott/apo.php?id=skyepl
+
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" tvg-logo="https://livesport.io.vn/logo/sport/sktop.png" group-title="WORLD SPORTS 2" ,SKYSPORT TOP EVENT
+https://livesport.io.vn/ott/apo.php?id=skytop
+
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" tvg-logo="https://livesport.io.vn/logo/sport/dazn1de.png" group-title="WORLD SPORTS 2" ,DAZN1 DE
 https://livesport.io.vn/ott/apo.php?id=dazn1
 
