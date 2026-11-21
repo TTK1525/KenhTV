@@ -446,8 +446,8 @@ https://vietmitv.id.vn/c.php?k=ef39d8c
 #EXTINF:-1 tvg-id="dongthap2" group-title="🇻🇳 THDT | THVL" tvg-logo="https://i.imgur.com/WXebESa.png",Đồng Tháp 2 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#https://618b88f69e53b.streamlock.net/THDT2/thdttv2/chunklist.m3u8
-https://vietmitv.id.vn/c.php?k=8f9504a
+https://618b88f69e53b.streamlock.net/THDT2/thdttv2/chunklist.m3u8
+#https://vietmitv.id.vn/c.php?k=8f9504a
 
 #EXTINF:-1 tvg-id="thvl1" group-title="🇻🇳 THDT | THVL" tvg-logo="https://i.imgur.com/gvPtTR2.png",Vĩnh Long 1 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
@@ -476,8 +476,8 @@ https://vietmitv.id.vn/c.php?k=b128250
 #EXTINF:-1 tvg-id="thvl5" group-title="🇻🇳 THDT | THVL" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/THVL5_VinhLong.png",Vĩnh Long 5 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://vietmitv.id.vn/c.php?k=a0e1fce
-#https://freem3u.xyz/api/live/play.m3u8?vid=91
+#https://vietmitv.id.vn/c.php?k=a0e1fce
+https://freem3u.xyz/api/live/play.m3u8?vid=91
 
 	##EXTINF:-1 tvg-id="angiang1" group-title="🇻🇳 Tây Nam Bộ" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/ATV1_AnGiang.png", ATV1 - An Giang 1 HD
 	##EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
