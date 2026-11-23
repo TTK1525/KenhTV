@@ -3,8 +3,6 @@
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/2?exp=1795500218118&sig=-FR6Of10bZC_Gw9k_b9BBB
 https://rr1-ateme.tv360.vn/live/eds/154/HLS_Clean_MHL_2s/154.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzE1NC9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc5NTQ4NTE1Nn0.9LBxFU0Qv8PAab2kOupoP0Xly9FT4yLyeczXB9pu5IvjMxs1D5_eBOQj9udDOGX3RDsWdp_8TO8Pmn0C8B_iCw&screen=MHL&uid=294779473
 #EXTINF:-1 tvg-id="20" tvg-logo="https://img-evg1.tv360.vn/image1/2020_09_23/1600822516608/b33963dc0df8_480_270.png" group-title="TV360",ANTV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
