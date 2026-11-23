@@ -1,5 +1,8 @@
 #EXTM3U x-tvg-url="https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/epg.xml" url-tvg="https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/epg.xml"
 #EXTINF:-1 tvg-id="2" tvg-logo="https://img-evg1.tv360.vn/image1/2026/09/10/15/1789027955396/02dce36fc3ff_480_270.png" group-title="TV360",VTV1
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/2?exp=1795500218118&sig=-FR6Of10bZC_Gw9k_b9BBB
 https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/2?exp=1795500218118&sig=-FR6Of10bZC_Gw9k_b9BBB
