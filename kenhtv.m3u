@@ -31,7 +31,7 @@ https://liveh34.vtvprime.vn/hls/DONGTHAPTV/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #https://618b88f69e53b.streamlock.net/THDT2/thdttv2/chunklist.m3u8
 #https://live.fptplay53.net/epzhd2/mientaythdt02_vhls.smil/chunklist.m3u8
-https://fo-hlc.tv360.vn/bpk-tv/372/output/index.m3u8?
+https://fo-hlc.tv360.vn/bpk-tv/363/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTU0NjY2NDYsInVyaSI6Ii9icGstdHYvMzYzL291dHB1dC9pbmRleC5tM3U4In0.vxkF0LOG-irI15INq-RDFLtbFjT9VpjBRMW0hs1fT5s&minrate=0&maxrate=12000000&uid=294779473
 
 #EXTINF:-1 tvg-id="thvl1" group-title="🇻🇳 Việt Nam ☭" tvg-logo="https://i.imgur.com/gvPtTR2.png",Vĩnh Long 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -59,7 +59,7 @@ https://dethich.pw/thvl4/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #https://freem3u.xyz/api/live/play.m3u8?vid=91
 #https://live.fptplay53.net/epzhd2/vinhlong5hd_vhls.smil/chunklist.m3u8
-https://fo-hlc.tv360.vn/bpk-tv/423/output/index.m3u8?
+https://fo-hlc.tv360.vn/bpk-tv/423/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTU0NjY2MTksInVyaSI6Ii9icGstdHYvNDIzL291dHB1dC9pbmRleC5tM3U4In0.ezTZ_D6B7lpdesq_8Xi7lXs6IDEcvjXUrjx_iomyq0I&minrate=0&maxrate=12000000&uid=294779473
 
 
 #EXTINF:-1 tvg-id="hbo" group-title="🌏 Quốc Tế" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HBO%20HD.png", HBO HD
