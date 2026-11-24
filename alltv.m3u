@@ -491,8 +491,7 @@ https://vietmitv.id.vn/c.php?k=ef39d8c
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://fo-hlc.tv360.vn/bpk-tv/363/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTU0NjY2NDYsInVyaSI6Ii9icGstdHYvMzYzL291dHB1dC9pbmRleC5tM3U4In0.vxkF0LOG-irI15INq-RDFLtbFjT9VpjBRMW0hs1fT5s&minrate=0&maxrate=12000000&uid=294779473
-#https://618b88f69e53b.streamlock.net/THDT2/thdttv2/chunklist.m3u8
+https://618b88f69e53b.streamlock.net/THDT2/thdttv2/chunklist.m3u8
 #https://vietmitv.id.vn/c.php?k=8f9504a
 
 #EXTINF:-1 tvg-id="thvl1" group-title="🇻🇳 THDT | THVL" tvg-logo="https://i.imgur.com/gvPtTR2.png",Vĩnh Long 1 HD
