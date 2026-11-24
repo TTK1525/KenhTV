@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_AL1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_PT1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_NZ1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_CZ1.xml.gz"
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_AL1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_PT1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_NZ1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_CZ1.xml.gz"
 ##EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
 ##EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_AL1.xml.gz"
 ##EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
@@ -125,14 +125,14 @@ https://livesport.io.vn/ott/viptv.php?id=ele4
 https://livesport.io.vn/ott/viptv.php?id=ele5
 
 				-----SPAIN SPORTS-----
-#EXTINF:-1 tvg-id="DAZN.1.pt" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/Animated-Flag-Spain.gif" tvg-logo="https://livesport.io.vn/logo/sport/dazn1es.png" group-title="SPAIN SPORTS" ,DAZN 1
+##EXTINF:-1 tvg-id="DAZN.1.pt" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/Animated-Flag-Spain.gif" tvg-logo="https://livesport.io.vn/logo/sport/dazn1es.png" group-title="SPAIN SPORTS" ,DAZN 1
 https://livesport.io.vn/ott/viptv.php?id=dazn1es
 
-#EXTINF:-1 tvg-id="DAZN.2.pt" group-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Animated-Flag-Albania.gif" tvg-logo="https://livesport.io.vn/logo/sport/dazn2es.png" group-title="SPAIN SPORTS" ,DAZN 2
+##EXTINF:-1 tvg-id="DAZN.2.pt" group-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Animated-Flag-Albania.gif" tvg-logo="https://livesport.io.vn/logo/sport/dazn2es.png" group-title="SPAIN SPORTS" ,DAZN 2
 https://livesport.io.vn/ott/viptv.php?id=dazn2es
 
-#EXTINF:-1 tvg-id="DAZN.3.pt" group-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Animated-Flag-Albania.gif" tvg-logo="https://livesport.io.vn/logo/sport/dazn3es.png" group-title="SPAIN SPORTS" ,DAZN 3
+##EXTINF:-1 tvg-id="DAZN.3.pt" group-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Animated-Flag-Albania.gif" tvg-logo="https://livesport.io.vn/logo/sport/dazn3es.png" group-title="SPAIN SPORTS" ,DAZN 3
 https://livesport.io.vn/ott/viptv.php?id=dazn3es
 
-#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Animated-Flag-Albania.gif" tvg-logo="https://livesport.io.vn/logo/sport/daznlaliga.png" group-title="SPAIN SPORTS" ,DAZN LALIGA
+##EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Animated-Flag-Albania.gif" tvg-logo="https://livesport.io.vn/logo/sport/daznlaliga.png" group-title="SPAIN SPORTS" ,DAZN LALIGA
 https://livesport.io.vn/ott/viptv.php?id=daznlaliga
