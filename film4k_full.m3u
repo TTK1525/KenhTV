@@ -1,982 +1,949 @@
-#EXTM3U x-tvg-url="https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/epg.xml" url-tvg="https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/epg.xml"
+#EXTM3U x-tvg-url="https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/epg.xml" url-tvg="https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/epg.xml"
 #EXTINF:-1 tvg-id="2" tvg-logo="https://img-evg1.tv360.vn/image1/2026/09/10/15/1789027955396/02dce36fc3ff_480_270.png" group-title="TV360",VTV1
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/2?exp=1795500218118&sig=-FR6Of10bZC_Gw9k_b9BBB
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/2?exp=1795500218118&sig=-FR6Of10bZC_Gw9k_b9BBB
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/2?exp=1795546725926&sig=--Q3nf6l2WXABexVsvrKgI
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/2?exp=1795546725926&sig=--Q3nf6l2WXABexVsvrKgI
 #EXTINF:-1 tvg-id="20" tvg-logo="https://img-evg1.tv360.vn/image1/2020_09_23/1600822516608/b33963dc0df8_480_270.png" group-title="TV360",ANTV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/20?exp=1795500218118&sig=yYXoGCrGPKgrCcYK1_uTui
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/20?exp=1795500218118&sig=yYXoGCrGPKgrCcYK1_uTui
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/20?exp=1795546725926&sig=3g2IRALayrQP1kAIlj83uR
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/20?exp=1795546725926&sig=3g2IRALayrQP1kAIlj83uR
 #EXTINF:-1 tvg-id="19" tvg-logo="https://img-evg1.tv360.vn/image1/2020_09_23/1600822254297/3c150355b7f8_480_270.png" group-title="TV360",QPVN HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/19?exp=1795500218118&sig=0vzKFL2Y2PbXYWzRR9KRAe
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/19?exp=1795500218118&sig=0vzKFL2Y2PbXYWzRR9KRAe
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/19?exp=1795546725926&sig=DYxu7p7Sv04Ba0SQ4No0sn
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/19?exp=1795546725926&sig=DYxu7p7Sv04Ba0SQ4No0sn
 #EXTINF:-1 tvg-id="110" tvg-logo="https://img-evg1.tv360.vn/image1/2026/09/10/15/1789028197435/9250c116a95a_480_270.png" group-title="TV360",VTV5
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/110?exp=1795500218118&sig=lxrB4KTHpUOHVUFsumP1xV
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/110?exp=1795500218118&sig=lxrB4KTHpUOHVUFsumP1xV
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/110?exp=1795546725926&sig=xX5jlRRA-Sp9BFF_8Xau71
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/110?exp=1795546725926&sig=xX5jlRRA-Sp9BFF_8Xau71
 #EXTINF:-1 tvg-id="9951" tvg-logo="https://img-evg1.tv360.vn/image1/2025/12/05/09/1764903286193/46f72417f718_480_270.png" group-title="TV360",VIETNAM TODAY HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/9951?exp=1795500218118&sig=KDeedp1vnjUjsjaKCvqxSV
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/9951?exp=1795500218118&sig=KDeedp1vnjUjsjaKCvqxSV
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/9951?exp=1795546725926&sig=8NxFWrRzztrFjIwTUx-ynX
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/9951?exp=1795546725926&sig=8NxFWrRzztrFjIwTUx-ynX
 #EXTINF:-1 tvg-id="3" tvg-logo="https://img-evg1.tv360.vn/image1/2026/09/10/15/1789027996819/72d1db4aee30_480_270.png" group-title="TV360",VTV2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/3?exp=1795500218118&sig=4-WjSYaCkGxFNAYuDN_xWj
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/3?exp=1795500218118&sig=4-WjSYaCkGxFNAYuDN_xWj
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/3?exp=1795546725926&sig=yfFTQp8tHUqoZjgaXONKBg
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/3?exp=1795546725926&sig=yfFTQp8tHUqoZjgaXONKBg
 #EXTINF:-1 tvg-id="4" tvg-logo="https://img-evg1.tv360.vn/image1/2026/09/10/15/1789028028518/5e31c4d0e6df_480_270.png" group-title="TV360",VTV3
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/4?exp=1795500218118&sig=8w891ZD-n2Z5Il-5L8Fkym
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/4?exp=1795500218118&sig=8w891ZD-n2Z5Il-5L8Fkym
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/4?exp=1795546725926&sig=6On7KQWVlZoqXRmw44QWPg
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/4?exp=1795546725926&sig=6On7KQWVlZoqXRmw44QWPg
 #EXTINF:-1 tvg-id="108" tvg-logo="https://img-evg1.tv360.vn/image1/2026/09/10/15/1789028176727/7330e5a3b2d9_480_270.png" group-title="TV360",VTV4
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/108?exp=1795500218118&sig=LD3U9cYWfx3_REGzf2JPjB
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/108?exp=1795500218118&sig=LD3U9cYWfx3_REGzf2JPjB
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/108?exp=1795546725926&sig=gErMwtgmC0n3QJXo4lQRty
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/108?exp=1795546725926&sig=gErMwtgmC0n3QJXo4lQRty
 #EXTINF:-1 tvg-id="207" tvg-logo="https://img-evg1.tv360.vn/image1/2026/09/10/15/1789028476364/6cc9a1e13281_480_270.png" group-title="TV360",VTV5 Tây Nguyên
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/207?exp=1795500218118&sig=netZWVnucXoGlMrrSm0cGZ
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/207?exp=1795500218118&sig=netZWVnucXoGlMrrSm0cGZ
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/207?exp=1795546725926&sig=oOddhLNNwzldKXibRvnRaD
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/207?exp=1795546725926&sig=oOddhLNNwzldKXibRvnRaD
 #EXTINF:-1 tvg-id="157" tvg-logo="https://img-evg1.tv360.vn/image1/2026/09/10/15/1789028453349/679543a01193_480_270.png" group-title="TV360",VTV5 Tây Nam Bộ
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/157?exp=1795500218118&sig=nW4rfKt15WcnqOVlRaYO2k
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/157?exp=1795500218118&sig=nW4rfKt15WcnqOVlRaYO2k
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/157?exp=1795546725926&sig=lK9q7TxIRTADJ8_T1DVnVu
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/157?exp=1795546725926&sig=lK9q7TxIRTADJ8_T1DVnVu
 #EXTINF:-1 tvg-id="10043" tvg-logo="https://img-evg1.tv360.vn/image1/2026/09/10/15/1789028251332/3b8d99f01cf8_480_270.png" group-title="TV360",VTV6
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/10043?exp=1795500218118&sig=HR1Kw2IL7DNwzyK7yM3lvR
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/10043?exp=1795500218118&sig=HR1Kw2IL7DNwzyK7yM3lvR
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/10043?exp=1795546725926&sig=z6g2ZDrHTsyR8edZssyOSd
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/10043?exp=1795546725926&sig=z6g2ZDrHTsyR8edZssyOSd
 #EXTINF:-1 tvg-id="6" tvg-logo="https://img-evg1.tv360.vn/image1/2026/09/10/15/1789028340304/12d1ff56339c_480_270.png" group-title="TV360",VTV7
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/6?exp=1795500218118&sig=FzeWkRJ18HoR_dgIPMj9ue
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/6?exp=1795500218118&sig=FzeWkRJ18HoR_dgIPMj9ue
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/6?exp=1795546725926&sig=rpnGaCRywndJYIulNo2-gz
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/6?exp=1795546725926&sig=rpnGaCRywndJYIulNo2-gz
 #EXTINF:-1 tvg-id="115" tvg-logo="https://img-evg1.tv360.vn/image1/2026/09/10/15/1789028374733/17d3b1dcfa56_480_270.png" group-title="TV360",VTV8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/115?exp=1795500218118&sig=zIa_bt7MkxUC12aE9kRUT-
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/115?exp=1795500218118&sig=zIa_bt7MkxUC12aE9kRUT-
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/115?exp=1795546725926&sig=ZawXLGuFM3mKlxuWeQlFSp
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/115?exp=1795546725926&sig=ZawXLGuFM3mKlxuWeQlFSp
 #EXTINF:-1 tvg-id="8" tvg-logo="https://img-evg1.tv360.vn/image1/2026/09/10/15/1789028403548/13cc721d59b3_480_270.png" group-title="TV360",VTV9
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/8?exp=1795500218118&sig=aHOqB5Cn0xFX2orVb2bghK
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/8?exp=1795500218118&sig=aHOqB5Cn0xFX2orVb2bghK
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/8?exp=1795546725926&sig=JruFozSpPVAARA5dzXt9PC
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/8?exp=1795546725926&sig=JruFozSpPVAARA5dzXt9PC
 #EXTINF:-1 tvg-id="98" tvg-logo="https://img-evg1.tv360.vn/image1/2026/09/10/15/178902829313/9caa3cdd2362_480_270.png" group-title="TV360",VTV10
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/98?exp=1795500218118&sig=zlqqgLfRUAq3SGyZfRN7h8
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/98?exp=1795500218118&sig=zlqqgLfRUAq3SGyZfRN7h8
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/98?exp=1795546725926&sig=Wzty0vHlyBHNJC0Hyf3T3b
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/98?exp=1795546725926&sig=Wzty0vHlyBHNJC0Hyf3T3b
 #EXTINF:-1 tvg-id="2554" tvg-logo="https://img-evg1.tv360.vn/image1/2026/04/15/22/1776266760359/ba1ca843cd06_480_270.png" group-title="TV360",TV360+ 1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/2554?exp=1795500218118&sig=4LOUbjxc9ZQ5ceouGF8bGg
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/2554?exp=1795500218118&sig=4LOUbjxc9ZQ5ceouGF8bGg
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/2554?exp=1795546725926&sig=gjFIyKoutGsD01nd9en4Rd
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/2554?exp=1795546725926&sig=gjFIyKoutGsD01nd9en4Rd
 #EXTINF:-1 tvg-id="1" tvg-logo="https://img-evg1.tv360.vn/image1/2026/04/15/22/1776266826697/9647033848f3_480_270.png" group-title="TV360",TV360+ 2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/1?exp=1795500218118&sig=KFFWpoMxRU-dqDniXFKXeA
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/1?exp=1795500218118&sig=KFFWpoMxRU-dqDniXFKXeA
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/1?exp=1795546725926&sig=-liAXL4pD7LAo0GlMZHoiY
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/1?exp=1795546725926&sig=-liAXL4pD7LAo0GlMZHoiY
 #EXTINF:-1 tvg-id="148" tvg-logo="https://img-evg1.tv360.vn/image1/2026/04/15/22/1776266894249/af82cd28fcda_480_270.png" group-title="TV360",TV360+ 3
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/148?exp=1795500218118&sig=tzFXGRDNmSqqF9v9DyDqaW
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/148?exp=1795500218118&sig=tzFXGRDNmSqqF9v9DyDqaW
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/148?exp=1795546725926&sig=3imMFciDdoD9IpaeeHcKWD
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/148?exp=1795546725926&sig=3imMFciDdoD9IpaeeHcKWD
 #EXTINF:-1 tvg-id="2458" tvg-logo="https://img-evg1.tv360.vn/image1/2026/04/15/22/1776266956801/9a85754a5bd9_480_270.png" group-title="TV360",TV360+ 4
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/2458?exp=1795500218118&sig=ctTjoqSSgXIbOFisesYsfK
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/2458?exp=1795500218118&sig=ctTjoqSSgXIbOFisesYsfK
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/2458?exp=1795546725926&sig=9RoQFE5usWC4KoCPALGIFu
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/2458?exp=1795546725926&sig=9RoQFE5usWC4KoCPALGIFu
 #EXTINF:-1 tvg-id="9867" tvg-logo="https://img-evg1.tv360.vn/image1/2026/04/15/22/1776267019948/634cdb439c75_480_270.png" group-title="TV360",TV360+ 5
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/9867?exp=1795500218118&sig=_0yf68HXifWVksfn5bbGmx
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/9867?exp=1795500218118&sig=_0yf68HXifWVksfn5bbGmx
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/9867?exp=1795546725926&sig=oEvGgw-JItc_R4vdZ6gztE
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/9867?exp=1795546725926&sig=oEvGgw-JItc_R4vdZ6gztE
 #EXTINF:-1 tvg-id="9868" tvg-logo="https://img-evg1.tv360.vn/image1/2026/04/15/22/1776267080314/d06a99b5bd9c_480_270.png" group-title="TV360",TV360+ 6
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/9868?exp=1795500218118&sig=nRs7swsPui20dya2I-WO83
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/9868?exp=1795500218118&sig=nRs7swsPui20dya2I-WO83
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/9868?exp=1795546725926&sig=S-E4xM0_405q9VE3NopIKq
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/9868?exp=1795546725926&sig=S-E4xM0_405q9VE3NopIKq
 #EXTINF:-1 tvg-id="9869" tvg-logo="https://img-evg1.tv360.vn/image1/2026/04/15/22/177626714329/4631db40bb03_480_270.png" group-title="TV360",TV360+ 7
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/9869?exp=1795500218118&sig=4KzKJpx8uBKL1nPH6BhBbf
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/9869?exp=1795500218118&sig=4KzKJpx8uBKL1nPH6BhBbf
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/9869?exp=1795546725926&sig=6-oFRiJtYSKrLx9ml08NZk
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/9869?exp=1795546725926&sig=6-oFRiJtYSKrLx9ml08NZk
 #EXTINF:-1 tvg-id="9870" tvg-logo="https://img-evg1.tv360.vn/image1/2026/04/15/22/1776267211780/516c4028c806_480_270.png" group-title="TV360",TV360+ 8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/9870?exp=1795500218118&sig=NbLJVHmnDOoWpI0rm1hQqF
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/9870?exp=1795500218118&sig=NbLJVHmnDOoWpI0rm1hQqF
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/9870?exp=1795546725926&sig=FzYHUetU52bo4xnFGx5vvZ
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/9870?exp=1795546725926&sig=FzYHUetU52bo4xnFGx5vvZ
 #EXTINF:-1 tvg-id="9887" tvg-logo="https://img-evg1.tv360.vn/image1/2026/04/15/22/1776267283364/c30a206da84a_480_270.png" group-title="TV360",TV360+ 9
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/9887?exp=1795500218118&sig=c2tZ_VZu9OkYZguPIBFBBV
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/9887?exp=1795500218118&sig=c2tZ_VZu9OkYZguPIBFBBV
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/9887?exp=1795546725926&sig=3l3QbbBVxUOuTEZw3DzZdq
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/9887?exp=1795546725926&sig=3l3QbbBVxUOuTEZw3DzZdq
 #EXTINF:-1 tvg-id="9957" tvg-logo="https://img-evg1.tv360.vn/image1/2026/04/15/22/1776267388401/5f459b37721d_480_270.png" group-title="TV360",TV360+ 10
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/9957?exp=1795500218118&sig=hqPB_2sUlgTAcgVN9lxwG1
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/9957?exp=1795500218118&sig=hqPB_2sUlgTAcgVN9lxwG1
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/9957?exp=1795546725926&sig=GhXVXZT3cOceDnIFZyxM9y
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/9957?exp=1795546725926&sig=GhXVXZT3cOceDnIFZyxM9y
 #EXTINF:-1 tvg-id="9958" tvg-logo="https://img-evg1.tv360.vn/image1/2026/04/15/22/1776267558745/5fc303f5ba08_480_270.png" group-title="TV360",TV360+ 11
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/9958?exp=1795500218118&sig=loiPwVNioe4prtsea36zu9
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/9958?exp=1795500218118&sig=loiPwVNioe4prtsea36zu9
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/9958?exp=1795546725926&sig=uAdNXF8HW0TbZ9VyUZUDch
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/9958?exp=1795546725926&sig=uAdNXF8HW0TbZ9VyUZUDch
 #EXTINF:-1 tvg-id="10001" tvg-logo="https://img-evg1.tv360.vn/image1/2026/04/15/22/1776267662370/76b4144bff34_480_270.png" group-title="TV360",TV360+ 12
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/10001?exp=1795500218118&sig=K24ho--0-FdsSAfafz4h4s
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/10001?exp=1795500218118&sig=K24ho--0-FdsSAfafz4h4s
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/10001?exp=1795546725926&sig=rjjzYIybePae1t7nGhXwJ_
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/10001?exp=1795546725926&sig=rjjzYIybePae1t7nGhXwJ_
 #EXTINF:-1 tvg-id="10022" tvg-logo="https://img-evg1.tv360.vn/image1/2026/05/15/01/1778782670293/dd4067f28084_480_270.png" group-title="TV360",TV360+ 13
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/10022?exp=1795500218118&sig=Wy0rV2orKGpr3yuBpgG2cK
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/10022?exp=1795500218118&sig=Wy0rV2orKGpr3yuBpgG2cK
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/10022?exp=1795546725926&sig=q74z7ZkQ_QMI6gqVmtfLjJ
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/10022?exp=1795546725926&sig=q74z7ZkQ_QMI6gqVmtfLjJ
 #EXTINF:-1 tvg-id="10023" tvg-logo="https://img-evg1.tv360.vn/image1/2026/05/15/01/177878325467/bbecb3ccb477_480_270.png" group-title="TV360",TV360+ 14
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/10023?exp=1795500218118&sig=zOHD8xJVr-9Dz0pkS-HvPX
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/10023?exp=1795500218118&sig=zOHD8xJVr-9Dz0pkS-HvPX
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/10023?exp=1795546725926&sig=gqfIBZgDPzYX3pvzXkSGsT
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/10023?exp=1795546725926&sig=gqfIBZgDPzYX3pvzXkSGsT
 #EXTINF:-1 tvg-id="10024" tvg-logo="https://img-evg1.tv360.vn/image1/2026/05/15/01/1778783528367/ddfa21d56253_480_270.png" group-title="TV360",TV360+ 15
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/10024?exp=1795500218118&sig=_n55XynynhBOgACwiHb57I
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/10024?exp=1795500218118&sig=_n55XynynhBOgACwiHb57I
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/10024?exp=1795546725926&sig=ssRO-iRWPrZuMt59Pa8WvI
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/10024?exp=1795546725926&sig=ssRO-iRWPrZuMt59Pa8WvI
 #EXTINF:-1 tvg-id="9904" tvg-logo="https://img-evg1.tv360.vn/image1/2025/09/17/17/175810574912/a5f8181388ab_480_270.png" group-title="TV360",TV360
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/9904?exp=1795500218118&sig=djf12GDam9V91yD8iI6McZ
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/9904?exp=1795500218118&sig=djf12GDam9V91yD8iI6McZ
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/9904?exp=1795546725926&sig=i3hFxvlSRP2Cq_tz9BilG2
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/9904?exp=1795546725926&sig=i3hFxvlSRP2Cq_tz9BilG2
 #EXTINF:-1 tvg-id="9965" tvg-logo="https://img-evg1.tv360.vn/image1/2026/11/13/14/1794555156822/96350250891c_480_270.png" group-title="TV360",Livestream 01
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/9965?exp=1795500218118&sig=FTwG-BCDtqMN5PHmcRnkSa
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/9965?exp=1795500218118&sig=FTwG-BCDtqMN5PHmcRnkSa
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/9965?exp=1795546725926&sig=rqTnWsEPZhmjyWPD9i-tn4
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/9965?exp=1795546725926&sig=rqTnWsEPZhmjyWPD9i-tn4
 #EXTINF:-1 tvg-id="9902" tvg-logo="https://img-evg1.tv360.vn/image1/2026/04/07/15/1775549899305/f54a93a767c5_480_270.png" group-title="TV360",Phim Việt
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/9902?exp=1795500218118&sig=An6il1dcBnjpcZw5pMcHe1
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/9902?exp=1795500218118&sig=An6il1dcBnjpcZw5pMcHe1
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/9902?exp=1795546725926&sig=WaNgMvf3h8Jjc-4o35o9eA
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/9902?exp=1795546725926&sig=WaNgMvf3h8Jjc-4o35o9eA
 #EXTINF:-1 tvg-id="9903" tvg-logo="https://img-evg1.tv360.vn/image1/2026/04/09/08/1775697767861/9a6dc88794cf_480_270.png" group-title="TV360",Phim Âu Mỹ
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/9903?exp=1795500218118&sig=ByCHcWQV76K6JOX7PuZsoW
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/9903?exp=1795500218118&sig=ByCHcWQV76K6JOX7PuZsoW
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/9903?exp=1795546725927&sig=g0ijsxMvd4Dqd2YrlOt9Kd
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/9903?exp=1795546725927&sig=g0ijsxMvd4Dqd2YrlOt9Kd
 #EXTINF:-1 tvg-id="9934" tvg-logo="https://img-evg1.tv360.vn/image1/2026/08/03/16/178574886930/9daa0ca42fd8_480_270.png" group-title="TV360",Hoạt hình
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/9934?exp=1795500218118&sig=UNLM0BcUBc0_jWjkxOtm7S
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/9934?exp=1795500218118&sig=UNLM0BcUBc0_jWjkxOtm7S
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/9934?exp=1795546725927&sig=EWRWT4BqNEcm0s79AlXOOe
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/9934?exp=1795546725927&sig=EWRWT4BqNEcm0s79AlXOOe
 #EXTINF:-1 tvg-id="10008" tvg-logo="https://img-evg1.tv360.vn/image1/2026/04/09/08/1775697736867/3854900b7263_480_270.png" group-title="TV360",360 Hoa Ngữ
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/10008?exp=1795500218118&sig=CHMpFkG2ndCdP4nivqfAWs
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/10008?exp=1795500218118&sig=CHMpFkG2ndCdP4nivqfAWs
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/10008?exp=1795546725927&sig=wOI0L5xWUYXCi4ZbibtLFQ
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/10008?exp=1795546725927&sig=wOI0L5xWUYXCi4ZbibtLFQ
 #EXTINF:-1 tvg-id="10009" tvg-logo="https://img-evg1.tv360.vn/image1/2026/04/08/10/1775617851169/1f38a5af77c1_480_270.png" group-title="TV360",360 Hành động Châu Á
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/10009?exp=1795500218118&sig=eePaqiVEpqrfFIKXIes1Ju
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/10009?exp=1795500218118&sig=eePaqiVEpqrfFIKXIes1Ju
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/10009?exp=1795546725927&sig=lrQkVZctfGsibBQ-Oy05VM
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/10009?exp=1795546725927&sig=lrQkVZctfGsibBQ-Oy05VM
 #EXTINF:-1 tvg-id="10010" tvg-logo="https://img-evg1.tv360.vn/image1/2026/04/09/21/1775744591740/79928f9b003f_480_270.png" group-title="TV360",360 K-Drama
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/10010?exp=1795500218118&sig=9S9nF4MHt_d30Sy9-IisWW
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/10010?exp=1795500218118&sig=9S9nF4MHt_d30Sy9-IisWW
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/10010?exp=1795546725927&sig=BB8Ji1nGQjzZfNvJQWvGK8
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/10010?exp=1795546725927&sig=BB8Ji1nGQjzZfNvJQWvGK8
 #EXTINF:-1 tvg-id="10011" tvg-logo="https://img-evg1.tv360.vn/image1/2026/04/13/13/1776063183880/03439dc9da19_480_270.png" group-title="TV360",360 Hài -Tình cảm
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/10011?exp=1795500218118&sig=YsGIOh_M2bzAb769BkfkMz
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/10011?exp=1795500218118&sig=YsGIOh_M2bzAb769BkfkMz
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/10011?exp=1795546725927&sig=V7MpG2RQwuslB3uDpvPgUQ
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/10011?exp=1795546725927&sig=V7MpG2RQwuslB3uDpvPgUQ
 #EXTINF:-1 tvg-id="10013" tvg-logo="https://img-evg1.tv360.vn/image1/2026/04/13/13/1776063223569/462daff06d9d_480_270.png" group-title="TV360",360 Anime
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/10013?exp=1795500218118&sig=YldWizl3V75Qz52y5jnasM
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/10013?exp=1795500218118&sig=YldWizl3V75Qz52y5jnasM
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/10013?exp=1795546725927&sig=YZVH2hs7fdvh1U0PUgjNwB
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/10013?exp=1795546725927&sig=YZVH2hs7fdvh1U0PUgjNwB
 #EXTINF:-1 tvg-id="10045" tvg-logo="https://img-evg1.tv360.vn/image1/2026/06/18/13/1781765362332/737c1501b0c5_480_270.png" group-title="TV360",360 Thiếu Nhi
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/10045?exp=1795500218118&sig=4C62noVzE4p_gBdo-CsK21
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/10045?exp=1795500218118&sig=4C62noVzE4p_gBdo-CsK21
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/10045?exp=1795546725927&sig=b3vqoWu2WuXV-ljnkOKgIK
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/10045?exp=1795546725927&sig=b3vqoWu2WuXV-ljnkOKgIK
 #EXTINF:-1 tvg-id="10055" tvg-logo="https://img-evg1.tv360.vn/image1/2026/07/30/10/1785382803894/362700e9107b_480_270.png" group-title="TV360",360 Phim 4K
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/10055?exp=1795500218118&sig=yKbcjH6Sb1nR1iDPUGSWY0
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/10055?exp=1795500218118&sig=yKbcjH6Sb1nR1iDPUGSWY0
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/10055?exp=1795546725927&sig=9p8xPu0qb0ApPUT_EzIeZq
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/10055?exp=1795546725927&sig=9p8xPu0qb0ApPUT_EzIeZq
 #EXTINF:-1 tvg-id="10063" tvg-logo="https://img-evg1.tv360.vn/image1/2026/10/13/09/1791858575882/443f73b6662b_480_270.png" group-title="TV360",360 Karaoke Bolero
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/10063?exp=1795500218118&sig=ixZUbJOxMVaIOCeyMi1mIe
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/10063?exp=1795500218118&sig=ixZUbJOxMVaIOCeyMi1mIe
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/10063?exp=1795546725927&sig=Ysdz2Dc-rd9t7PKuPwxQjw
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/10063?exp=1795546725927&sig=Ysdz2Dc-rd9t7PKuPwxQjw
 #EXTINF:-1 tvg-id="10064" tvg-logo="https://img-evg1.tv360.vn/image1/2026/10/13/09/1791858821345/520250e785d1_480_270.png" group-title="TV360",360 Mr. Bean
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/10064?exp=1795500218118&sig=qKAbOXPgQzlVPuSs9FPFgZ
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/10064?exp=1795500218118&sig=qKAbOXPgQzlVPuSs9FPFgZ
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/10064?exp=1795546725927&sig=kK42wu43XufFNJjXIIZsc0
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/10064?exp=1795546725927&sig=kK42wu43XufFNJjXIIZsc0
 #EXTINF:-1 tvg-id="10065" tvg-logo="https://img-evg1.tv360.vn/image1/2026/10/13/09/1791859203131/6878ad4f88c0_480_270.png" group-title="TV360",360 Doraemon
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/10065?exp=1795500218118&sig=dhIcrLMjjpUvFYWDib0P4a
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/10065?exp=1795500218118&sig=dhIcrLMjjpUvFYWDib0P4a
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/10065?exp=1795546725927&sig=zysXYcaMBBdLLioIS5pyl9
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/10065?exp=1795546725927&sig=zysXYcaMBBdLLioIS5pyl9
 #EXTINF:-1 tvg-id="10066" tvg-logo="https://img-evg1.tv360.vn/image1/2026/10/13/09/1791859301551/c840fcf1e3e0_480_270.png" group-title="TV360",360 Thám tử Conan
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/10066?exp=1795500218118&sig=7G1KMfnk5xx5LVmdq4h7vV
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/10066?exp=1795500218118&sig=7G1KMfnk5xx5LVmdq4h7vV
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/10066?exp=1795546725927&sig=K1JHnvbP-hAlamyTsXuvVX
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/10066?exp=1795546725927&sig=K1JHnvbP-hAlamyTsXuvVX
 #EXTINF:-1 tvg-id="10067" tvg-logo="https://img-evg1.tv360.vn/image1/2026/10/13/09/1791859374603/b55409354603_480_270.png" group-title="TV360",360 Châu Tinh Trì
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/10067?exp=1795500218118&sig=2yA6vVg9K0WtA45lSm2L9J
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/10067?exp=1795500218118&sig=2yA6vVg9K0WtA45lSm2L9J
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/10067?exp=1795546725927&sig=6l5gy-orwTFZIr0sH8xz8R
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/10067?exp=1795546725927&sig=6l5gy-orwTFZIr0sH8xz8R
 #EXTINF:-1 tvg-id="10068" tvg-logo="https://img-evg1.tv360.vn/image1/2026/10/13/09/1791859801499/e3bcb47a3b1b_480_270.png" group-title="TV360",360 Sống khỏe
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/10068?exp=1795500218118&sig=sXPiPomMHX-859zV4n_DnU
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/10068?exp=1795500218118&sig=sXPiPomMHX-859zV4n_DnU
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/10068?exp=1795546725927&sig=5S8OTrycHTJ4GNK0-CgkBy
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/10068?exp=1795546725927&sig=5S8OTrycHTJ4GNK0-CgkBy
 #EXTINF:-1 tvg-id="10012" tvg-logo="https://img-evg1.tv360.vn/image1/2026/04/13/13/1776063200976/6ced2ef539a4_480_270.png" group-title="TV360",360 Phim Kinh điển
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/10012?exp=1795500218118&sig=yzvVx3YMAshu9AM41_F0NE
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/10012?exp=1795500218118&sig=yzvVx3YMAshu9AM41_F0NE
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/10012?exp=1795546725927&sig=BAWxTWs6dnrjZlT5lEBYry
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/10012?exp=1795546725927&sig=BAWxTWs6dnrjZlT5lEBYry
 #EXTINF:-1 tvg-id="10014" tvg-logo="https://img-evg1.tv360.vn/image1/2026/04/15/22/177626841934/e289a43bd190_480_270.png" group-title="TV360",360 C1 Châu Âu
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/10014?exp=1795500218118&sig=0fhqNx4ubZB45rnJkNDwNj
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/10014?exp=1795500218118&sig=0fhqNx4ubZB45rnJkNDwNj
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/10014?exp=1795546725927&sig=_yxZtVvRkMCKLPac828uT_
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/10014?exp=1795546725927&sig=_yxZtVvRkMCKLPac828uT_
 #EXTINF:-1 tvg-id="10015" tvg-logo="https://img-evg1.tv360.vn/image1/2026/04/15/23/1776269925378/3875f76de1cd_480_270.png" group-title="TV360",360 C2 Châu Âu
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/10015?exp=1795500218118&sig=HFuo7lg35k_V17I-31NJQe
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/10015?exp=1795500218118&sig=HFuo7lg35k_V17I-31NJQe
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/10015?exp=1795546725927&sig=vsDe-nVef8-SBmvf3kzPU2
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/10015?exp=1795546725927&sig=vsDe-nVef8-SBmvf3kzPU2
 #EXTINF:-1 tvg-id="10016" tvg-logo="https://img-evg1.tv360.vn/image1/2026/04/15/23/1776269965595/9f150757c9e3_480_270.png" group-title="TV360",360 C3 Châu Âu
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/10016?exp=1795500218118&sig=w3DhCd6ck6KosPxF3K5QjK
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/10016?exp=1795500218118&sig=w3DhCd6ck6KosPxF3K5QjK
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/10016?exp=1795546725927&sig=Bw4hq-Y8Yi-NbfeT70Rgi3
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/10016?exp=1795546725927&sig=Bw4hq-Y8Yi-NbfeT70Rgi3
 #EXTINF:-1 tvg-id="10017" tvg-logo="https://img-evg1.tv360.vn/image1/2026/04/16/00/1776274695415/4b2703dbb4c4_480_270.png" group-title="TV360",360 Thể Thao Châu Á
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/10017?exp=1795500218118&sig=utvaCfpuwrMxWrPHvW6dA1
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/10017?exp=1795500218118&sig=utvaCfpuwrMxWrPHvW6dA1
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/10017?exp=1795546725927&sig=E-2Tqlu-_LQsoro7gLqfPC
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/10017?exp=1795546725927&sig=E-2Tqlu-_LQsoro7gLqfPC
 #EXTINF:-1 tvg-id="10018" tvg-logo="https://img-evg1.tv360.vn/image1/2026/04/15/23/1776269172914/ceaa765c5dbe_480_270.png" group-title="TV360",360 Công Thức 1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/10018?exp=1795500218118&sig=qlMG790_pa5uuiTbAqJxmr
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/10018?exp=1795500218118&sig=qlMG790_pa5uuiTbAqJxmr
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/10018?exp=1795546725927&sig=lqTHnALe-RrzuiRVRKr6VF
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/10018?exp=1795546725927&sig=lqTHnALe-RrzuiRVRKr6VF
 #EXTINF:-1 tvg-id="10019" tvg-logo="https://img-evg1.tv360.vn/image1/2026/04/16/08/1776301510855/e14eaed5c4d8_480_270.png" group-title="TV360",360 Bundesliga
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/10019?exp=1795500218119&sig=agzJJ4KaVwxKOn8m2qlgbb
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/10019?exp=1795500218119&sig=agzJJ4KaVwxKOn8m2qlgbb
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/10019?exp=1795546725927&sig=V6HNs72enAMsftosiV7AAh
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/10019?exp=1795546725927&sig=V6HNs72enAMsftosiV7AAh
 #EXTINF:-1 tvg-id="10020" tvg-logo="https://img-evg1.tv360.vn/image1/2026/04/16/14/1776326073777/e6e315b781fb_480_270.png" group-title="TV360",360 Golf
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/10020?exp=1795500218119&sig=ctb_cWPkJxwsKQN2jd5EVI
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/10020?exp=1795500218119&sig=ctb_cWPkJxwsKQN2jd5EVI
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/10020?exp=1795546725927&sig=RmpB-ZkhlKbdblbpr7b0bX
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/10020?exp=1795546725927&sig=RmpB-ZkhlKbdblbpr7b0bX
 #EXTINF:-1 tvg-id="10021" tvg-logo="https://img-evg1.tv360.vn/image1/2026/04/16/15/177632805669/a8c9881d6b08_480_270.png" group-title="TV360",360 Tennis
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/10021?exp=1795500218119&sig=Pw23qf8bPKkuuXEPTvcJ3t
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/10021?exp=1795500218119&sig=Pw23qf8bPKkuuXEPTvcJ3t
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/10021?exp=1795546725927&sig=gmRUF2yEi8ldFhfvuVjuA_
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/10021?exp=1795546725927&sig=gmRUF2yEi8ldFhfvuVjuA_
 #EXTINF:-1 tvg-id="271" tvg-logo="https://img-evg1.tv360.vn/image1/2021/10/04/02/163329112517/6cb3ef1d12de_480_270.png" group-title="TV360",HBO
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/271?exp=1795500218119&sig=Jvk3ED0Dlb9SIAEHgUtS1M
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/271?exp=1795500218119&sig=Jvk3ED0Dlb9SIAEHgUtS1M
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/271?exp=1795546725927&sig=Nj3_qqJ3JN9NLC16C_6FNw
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/271?exp=1795546725927&sig=Nj3_qqJ3JN9NLC16C_6FNw
 #EXTINF:-1 tvg-id="239" tvg-logo="https://img-evg1.tv360.vn/image1/2025/12/30/23/1767113557980/0de97d4682ea_480_270.png" group-title="TV360",Cinemax
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/239?exp=1795500218119&sig=5p2wxyDwq8iKxZUAZxAnKM
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/239?exp=1795500218119&sig=5p2wxyDwq8iKxZUAZxAnKM
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/239?exp=1795546725927&sig=xeEXBiCydp9UrTucBN1hqK
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/239?exp=1795546725927&sig=xeEXBiCydp9UrTucBN1hqK
 #EXTINF:-1 tvg-id="273" tvg-logo="https://img-evg1.tv360.vn/image1/2021/09/30/17/1632996783674/68825acc06f6_480_270.png" group-title="TV360",Warner TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/273?exp=1795500218119&sig=bH4WvdZQI4JnBomvLDHwsv
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/273?exp=1795500218119&sig=bH4WvdZQI4JnBomvLDHwsv
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/273?exp=1795546725927&sig=5Tp12_rHQ6ahOXJB81eFE8
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/273?exp=1795546725927&sig=5Tp12_rHQ6ahOXJB81eFE8
 #EXTINF:-1 tvg-id="281" tvg-logo="https://img-evg1.tv360.vn/image1/2021/09/30/21/1633012168716/95bc496176f2_480_270.png" group-title="TV360",AXN
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/281?exp=1795500218119&sig=0vn4I6ajYHgrXvnVd3_bvj
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/281?exp=1795500218119&sig=0vn4I6ajYHgrXvnVd3_bvj
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/281?exp=1795546725927&sig=OL2leE1kZ6qcHfi_8DdqL0
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/281?exp=1795546725927&sig=OL2leE1kZ6qcHfi_8DdqL0
 #EXTINF:-1 tvg-id="159" tvg-logo="https://img-evg1.tv360.vn/image1/2025/12/31/00/1767114171189/011dc2ee60d6_480_270.png" group-title="TV360",Cinema World
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/159?exp=1795500218119&sig=fzdGHkSEc-hPZEYbtugNvS
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/159?exp=1795500218119&sig=fzdGHkSEc-hPZEYbtugNvS
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/159?exp=1795546725927&sig=C3ndRrM7jMZHnej5Ua3vcB
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/159?exp=1795546725927&sig=C3ndRrM7jMZHnej5Ua3vcB
 #EXTINF:-1 tvg-id="235" tvg-logo="https://img-evg1.tv360.vn/image1/2025/12/31/00/1767114503767/16fabdd762a9_480_270.png" group-title="TV360",DreamWorks
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/235?exp=1795500218119&sig=LfPmotUZdHd-eqtRzwwZ2M
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/235?exp=1795500218119&sig=LfPmotUZdHd-eqtRzwwZ2M
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/235?exp=1795546725927&sig=DckkQJS5e47U_k-KbWmZA9
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/235?exp=1795546725927&sig=DckkQJS5e47U_k-KbWmZA9
 #EXTINF:-1 tvg-id="277" tvg-logo="https://img-evg1.tv360.vn/image1/2021/09/30/17/16329991075/0c76e4e7e984_480_270.png" group-title="TV360",Cartoon
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/277?exp=1795500218119&sig=2NEmpDzPI6UVjbMn6eb0IH
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/277?exp=1795500218119&sig=2NEmpDzPI6UVjbMn6eb0IH
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/277?exp=1795546725927&sig=s08plE0PcENVfOk2GuFBmE
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/277?exp=1795546725927&sig=s08plE0PcENVfOk2GuFBmE
 #EXTINF:-1 tvg-id="163" tvg-logo="https://img-evg1.tv360.vn/image1/2025/12/31/00/1767114669220/2a4f94f276e2_480_270.png" group-title="TV360",FashionTV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/163?exp=1795500218119&sig=V9rfNxMuZ9YzWutY49p_OW
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/163?exp=1795500218119&sig=V9rfNxMuZ9YzWutY49p_OW
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/163?exp=1795546725927&sig=KmfJ9MiVS-Udzi9PNbngoj
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/163?exp=1795546725927&sig=KmfJ9MiVS-Udzi9PNbngoj
 #EXTINF:-1 tvg-id="237" tvg-logo="https://img-evg1.tv360.vn/image1/2025/12/31/00/1767115195629/60e0ef5853e1_480_270.png" group-title="TV360",Bloomberg
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/237?exp=1795500218119&sig=PJfTC99ZKUwdd_Di43gUCx
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/237?exp=1795500218119&sig=PJfTC99ZKUwdd_Di43gUCx
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/237?exp=1795546725927&sig=leDQQOBwTjc6htmaxT-nzT
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/237?exp=1795546725927&sig=leDQQOBwTjc6htmaxT-nzT
 #EXTINF:-1 tvg-id="279" tvg-logo="https://img-evg1.tv360.vn/image1/2021/09/30/17/1632999438220/cb5b2ef01b69_480_270.png" group-title="TV360",Discovery Channel
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/279?exp=1795500218119&sig=ya3WlHPmPD6mUkz45bu7hx
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/279?exp=1795500218119&sig=ya3WlHPmPD6mUkz45bu7hx
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/279?exp=1795546725927&sig=Wn3qTLKhobDyzzGAjQ8Bg0
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/279?exp=1795546725927&sig=Wn3qTLKhobDyzzGAjQ8Bg0
 #EXTINF:-1 tvg-id="275" tvg-logo="https://img-evg1.tv360.vn/image1/2021/10/01/08/1633052531161/ccb61db3f667_480_270.png" group-title="TV360",CNN
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/275?exp=1795500218119&sig=GYKajm7B1BpeNMtqTDXHc4
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/275?exp=1795500218119&sig=GYKajm7B1BpeNMtqTDXHc4
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/275?exp=1795546725927&sig=30gFod5L5BPslirq2PCC2r
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/275?exp=1795546725927&sig=30gFod5L5BPslirq2PCC2r
 #EXTINF:-1 tvg-id="283" tvg-logo="https://img-evg1.tv360.vn/image1/2021/09/30/21/1633012334655/9f82fec7aa58_480_270.png" group-title="TV360",ABC Australia
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/283?exp=1795500218119&sig=sA9K9isaabw-CAe3hYGfci
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/283?exp=1795500218119&sig=sA9K9isaabw-CAe3hYGfci
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/283?exp=1795546725927&sig=CROgCeM0rf8igF23OtZj62
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/283?exp=1795546725927&sig=CROgCeM0rf8igF23OtZj62
 #EXTINF:-1 tvg-id="216" tvg-logo="https://img-evg1.tv360.vn/image1/2020/11/12/10/1605151414697/e4570232b05d_480_270.png" group-title="TV360",Outdoor HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/216?exp=1795500218119&sig=pQY4wjiAEyEhjwnll6ciLw
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/216?exp=1795500218119&sig=pQY4wjiAEyEhjwnll6ciLw
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/216?exp=1795546725927&sig=YUOqydmpls4NMeO73IACtC
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/216?exp=1795546725927&sig=YUOqydmpls4NMeO73IACtC
 #EXTINF:-1 tvg-id="112" tvg-logo="https://img-evg1.tv360.vn/image1/2024/09/30/22/172770964477/d5bbdfff9927_480_270.png" group-title="TV360",Channel News Asia
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/112?exp=1795500218119&sig=STYUvBzHgqeogkT2zSX180
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/112?exp=1795500218119&sig=STYUvBzHgqeogkT2zSX180
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/112?exp=1795546725927&sig=L7Yv3WAs6ahD_yEBrMfg_4
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/112?exp=1795546725927&sig=L7Yv3WAs6ahD_yEBrMfg_4
 #EXTINF:-1 tvg-id="215" tvg-logo="https://img-evg1.tv360.vn/image1/2020_09_23/1600822480473/e6bb9f277480_480_270.png" group-title="TV360",AFN HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/215?exp=1795500218119&sig=g1fEAjmo_1gqbAQFt0dFDa
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/215?exp=1795500218119&sig=g1fEAjmo_1gqbAQFt0dFDa
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/215?exp=1795546725927&sig=vFAbcSkhFoR8FsZP3OKU4_
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/215?exp=1795546725927&sig=vFAbcSkhFoR8FsZP3OKU4_
 #EXTINF:-1 tvg-id="99" tvg-logo="https://img-evg1.tv360.vn/image1/2020_09_23/1600822040158/9eca53663279_480_270.png" group-title="TV360",HGTV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/99?exp=1795500218119&sig=Mo_B2MO_yYs5wLrvZHynjf
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/99?exp=1795500218119&sig=Mo_B2MO_yYs5wLrvZHynjf
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/99?exp=1795546725927&sig=47eIU1Lzi0HTEGxNn7Jh_I
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/99?exp=1795546725927&sig=47eIU1Lzi0HTEGxNn7Jh_I
 #EXTINF:-1 tvg-id="213" tvg-logo="https://img-evg1.tv360.vn/image1/2020_09_23/1600823332611/f8ac56be52c6_480_270.png" group-title="TV360",KBS World
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/213?exp=1795500218119&sig=7RzPfmdPwUvsUEOH1dZnK3
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/213?exp=1795500218119&sig=7RzPfmdPwUvsUEOH1dZnK3
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/213?exp=1795546725927&sig=PvwZyGl0P5KByKifBr8NRs
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/213?exp=1795546725927&sig=PvwZyGl0P5KByKifBr8NRs
 #EXTINF:-1 tvg-id="109" tvg-logo="https://img-evg1.tv360.vn/image1/2022/05/10/15/1652170991466/3334568ab702_480_270.png" group-title="TV360",DW
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/109?exp=1795500218119&sig=BOnBIiYBXvo8lBHgc_7sMr
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/109?exp=1795500218119&sig=BOnBIiYBXvo8lBHgc_7sMr
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/109?exp=1795546725927&sig=apYl33QxDu8TDXxs8fVd32
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/109?exp=1795546725927&sig=apYl33QxDu8TDXxs8fVd32
 #EXTINF:-1 tvg-id="106" tvg-logo="https://img-evg1.tv360.vn/image1/2020_09_23/1600823240223/dc739d55a0f5_480_270.png" group-title="TV360",NHK
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/106?exp=1795500218119&sig=pcO8uxQ2KtLtikyhKjFQly
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/106?exp=1795500218119&sig=pcO8uxQ2KtLtikyhKjFQly
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/106?exp=1795546725927&sig=m8dtlxe4k-0yxFHTpi1fyk
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/106?exp=1795546725927&sig=m8dtlxe4k-0yxFHTpi1fyk
 #EXTINF:-1 tvg-id="96" tvg-logo="https://img-evg1.tv360.vn/image1/2020_09_23/160082328472/0da91b00311f_480_270.png" group-title="TV360",France 24
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/96?exp=1795500218119&sig=hr5l2uBi_sW-g75iORnnj7
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/96?exp=1795500218119&sig=hr5l2uBi_sW-g75iORnnj7
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/96?exp=1795546725927&sig=woFmy954n4yp6Pb8RzXip8
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/96?exp=1795546725927&sig=woFmy954n4yp6Pb8RzXip8
 #EXTINF:-1 tvg-id="9852" tvg-logo="https://img-evg1.tv360.vn/image1/2024/05/03/23/1714753734110/8e356cdac7e9_480_270.png" group-title="TV360",TV5
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/9852?exp=1795500218119&sig=DvLBZWyiXwae_f9WsSI33s
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/9852?exp=1795500218119&sig=DvLBZWyiXwae_f9WsSI33s
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/9852?exp=1795546725927&sig=FrDtqbCoPlfsrX34FZexjF
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/9852?exp=1795546725927&sig=FrDtqbCoPlfsrX34FZexjF
 #EXTINF:-1 tvg-id="9855" tvg-logo="https://img-evg1.tv360.vn/image1/2026/03/29/23/1774802901669/9a839f2886f1_480_270.png" group-title="TV360",CNBC
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/9855?exp=1795500218119&sig=5GjZwvmZxPWLld79O93bCr
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/9855?exp=1795500218119&sig=5GjZwvmZxPWLld79O93bCr
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/9855?exp=1795546725927&sig=HO0_wI7VmtgAEjoM0TvfuX
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/9855?exp=1795546725927&sig=HO0_wI7VmtgAEjoM0TvfuX
 #EXTINF:-1 tvg-id="9856" tvg-logo="https://img-evg1.tv360.vn/image1/2026/04/20/14/177667111674/a2a11d8f4a75_480_270.png" group-title="TV360",History HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/9856?exp=1795500218119&sig=PcODz-X-PrLla0xuV-MVHE
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/9856?exp=1795500218119&sig=PcODz-X-PrLla0xuV-MVHE
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/9856?exp=1795546725927&sig=UeT7CgK5gctQXZ5TyhhK7t
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/9856?exp=1795546725927&sig=UeT7CgK5gctQXZ5TyhhK7t
 #EXTINF:-1 tvg-id="9901" tvg-logo="https://img-evg1.tv360.vn/image1/2025/01/24/22/1737733016558/b6a8f1955817_480_270.png" group-title="TV360",Kix
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/9901?exp=1795500218119&sig=eN9HIhkt2HP6s1GqyUS0vW
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/9901?exp=1795500218119&sig=eN9HIhkt2HP6s1GqyUS0vW
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/9901?exp=1795546725927&sig=jfgulWuNNQ_t5ElBgDkwnP
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/9901?exp=1795546725927&sig=jfgulWuNNQ_t5ElBgDkwnP
 #EXTINF:-1 tvg-id="10007" tvg-logo="https://img-evg1.tv360.vn/image1/2026/04/07/23/1775577775404/09de37d2a0ee_480_270.png" group-title="TV360",France 24 SD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/10007?exp=1795500218119&sig=w4n8tg7B5kCVZlMDAUaL1q
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/10007?exp=1795500218119&sig=w4n8tg7B5kCVZlMDAUaL1q
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/10007?exp=1795546725927&sig=dv2cs-dX8pzJ_S3Dc_Tc_O
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/10007?exp=1795546725927&sig=dv2cs-dX8pzJ_S3Dc_Tc_O
 #EXTINF:-1 tvg-id="111" tvg-logo="https://img-evg1.tv360.vn/image1/2020_09_23/1600823492603/d4586db1b09a_480_270.png" group-title="TV360",Arirang
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/111?exp=1795500218119&sig=gknKhyo1aRvsCPTyEN64h_
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/111?exp=1795500218119&sig=gknKhyo1aRvsCPTyEN64h_
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/111?exp=1795546725927&sig=Sz7OeJgRN_n2gkARubSWoA
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/111?exp=1795546725927&sig=Sz7OeJgRN_n2gkARubSWoA
 #EXTINF:-1 tvg-id="214" tvg-logo="https://img-evg1.tv360.vn/image1/2026/04/20/14/1776671050490/04b840309da4_480_270.png" group-title="TV360",DaVinci HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/214?exp=1795500218119&sig=cnkk6AUJ8ZCR40QbuTaNj2
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/214?exp=1795500218119&sig=cnkk6AUJ8ZCR40QbuTaNj2
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/214?exp=1795546725927&sig=ut8UAVZU6xUjvH1vcgzU0f
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/214?exp=1795546725927&sig=ut8UAVZU6xUjvH1vcgzU0f
 #EXTINF:-1 tvg-id="25" tvg-logo="https://img-evg1.tv360.vn/image1/2024/10/07/17/1728296900530/38c6e7b9cb86_480_270.png" group-title="TV360",Vĩnh Long 1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/25?exp=1795500218119&sig=-a33vNPR4IXOVF2Ov6nMs6
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/25?exp=1795500218119&sig=-a33vNPR4IXOVF2Ov6nMs6
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/25?exp=1795546725927&sig=54vMp-qPrLgoX8TGArmzhv
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/25?exp=1795546725927&sig=54vMp-qPrLgoX8TGArmzhv
 #EXTINF:-1 tvg-id="26" tvg-logo="https://img-evg1.tv360.vn/image1/2024/10/07/16/1728294117402/52d6fd6199a5_480_270.png" group-title="TV360",Vĩnh Long 2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/26?exp=1795500218119&sig=7BLKTEXfIugolDynq93JKG
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/26?exp=1795500218119&sig=7BLKTEXfIugolDynq93JKG
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/26?exp=1795546725927&sig=UurAMCUA7443pyil1UHyDG
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/26?exp=1795546725927&sig=UurAMCUA7443pyil1UHyDG
 #EXTINF:-1 tvg-id="219" tvg-logo="https://img-evg1.tv360.vn/image1/2025/04/17/22/1744905347918/48d1f6b96d4b_480_270.png" group-title="TV360",Vĩnh Long 3
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/219?exp=1795500218119&sig=4BJ1C_d38_9mlXoIOR_N4V
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/219?exp=1795500218119&sig=4BJ1C_d38_9mlXoIOR_N4V
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/219?exp=1795546725927&sig=xzV4zATlhDf9IdXg3fXmrU
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/219?exp=1795546725927&sig=xzV4zATlhDf9IdXg3fXmrU
 #EXTINF:-1 tvg-id="220" tvg-logo="https://img-evg1.tv360.vn/image1/2024/10/07/16/1728294229199/5f70465aa342_480_270.png" group-title="TV360",Vĩnh Long 4
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/220?exp=1795500218119&sig=Vbx5hZubInUPpsYAph2KkS
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/220?exp=1795500218119&sig=Vbx5hZubInUPpsYAph2KkS
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/220?exp=1795546725927&sig=5RjdsQWIseqmOQXVDQrdce
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/220?exp=1795546725927&sig=5RjdsQWIseqmOQXVDQrdce
 #EXTINF:-1 tvg-id="91" tvg-logo="https://img-evg1.tv360.vn/image1/2025/09/26/10/1758857744376/434dd0684f49_480_270.png" group-title="TV360",Vĩnh Long 5
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/91?exp=1795500218119&sig=HS1hMcZ3CYczrIluqN1tpZ
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/91?exp=1795500218119&sig=HS1hMcZ3CYczrIluqN1tpZ
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/91?exp=1795546725927&sig=uP4_yySXz-L8vpC9q7QPO2
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/91?exp=1795546725927&sig=uP4_yySXz-L8vpC9q7QPO2
 #EXTINF:-1 tvg-id="190" tvg-logo="https://img-evg1.tv360.vn/image1/2020_09_23/1600823417472/075a37be16f6_480_270.png" group-title="TV360",HTV1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/190?exp=1795500218119&sig=-vuL4BHoPj9m_hP-0d7nmT
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/190?exp=1795500218119&sig=-vuL4BHoPj9m_hP-0d7nmT
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/190?exp=1795546725927&sig=_DIBExvV6LAJ4i9bpRSx_j
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/190?exp=1795546725927&sig=_DIBExvV6LAJ4i9bpRSx_j
 #EXTINF:-1 tvg-id="191" tvg-logo="https://img-evg1.tv360.vn/image1/2020_09_23/1600823424622/fd4c849487f6_480_270.png" group-title="TV360",HTV2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/191?exp=1795500218119&sig=uTLpWcLtMrtWQyXY6g8PuM
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/191?exp=1795500218119&sig=uTLpWcLtMrtWQyXY6g8PuM
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/191?exp=1795546725927&sig=ykWxT2XG3lk4jp6WJmkjOJ
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/191?exp=1795546725927&sig=ykWxT2XG3lk4jp6WJmkjOJ
 #EXTINF:-1 tvg-id="192" tvg-logo="https://img-evg1.tv360.vn/image1/2020_09_23/1600823498725/2e64140da5c1_480_270.png" group-title="TV360",HTV3
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/192?exp=1795500218119&sig=ZZ91v9Tv9YYVrDmQ0rtxQ0
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/192?exp=1795500218119&sig=ZZ91v9Tv9YYVrDmQ0rtxQ0
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/192?exp=1795546725927&sig=FHxdOsyF_5BrOaLBjDWnnf
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/192?exp=1795546725927&sig=FHxdOsyF_5BrOaLBjDWnnf
 #EXTINF:-1 tvg-id="9" tvg-logo="https://img-evg1.tv360.vn/image1/2026/04/20/15/1776673483732/71e6c03ac958_480_270.png" group-title="TV360",HTV4
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/9?exp=1795500218119&sig=F1OoZ4BYxpPKsj7nkeWNDJ
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/9?exp=1795500218119&sig=F1OoZ4BYxpPKsj7nkeWNDJ
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/9?exp=1795546725927&sig=yD3VDeK_EG69a5FG2sB72h
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/9?exp=1795546725927&sig=yD3VDeK_EG69a5FG2sB72h
 #EXTINF:-1 tvg-id="193" tvg-logo="https://img-evg1.tv360.vn/image1/2020_09_23/1600822381421/47d2615f6141_480_270.png" group-title="TV360",HTV7 HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/193?exp=1795500218119&sig=honn0g31bpXcj_S7wH3Jrp
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/193?exp=1795500218119&sig=honn0g31bpXcj_S7wH3Jrp
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/193?exp=1795546725927&sig=KifvQd9OtHlxzZO510zJQ7
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/193?exp=1795546725927&sig=KifvQd9OtHlxzZO510zJQ7
 #EXTINF:-1 tvg-id="194" tvg-logo="https://img-evg1.tv360.vn/image1/2020_09_23/1600822390705/a9fc59138d3b_480_270.png" group-title="TV360",HTV9 HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/194?exp=1795500218119&sig=YDNYlo14Rgpf1LHH1IfhCQ
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/194?exp=1795500218119&sig=YDNYlo14Rgpf1LHH1IfhCQ
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/194?exp=1795546725927&sig=OFjWfmZrxl0tahevkZkjiE
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/194?exp=1795546725927&sig=OFjWfmZrxl0tahevkZkjiE
 #EXTINF:-1 tvg-id="195" tvg-logo="https://img-evg1.tv360.vn/image1/2023/04/03/16/1680514594557/ab2557f0b015_480_270.png" group-title="TV360",HTV Thể Thao
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/195?exp=1795500218119&sig=nuN6EXeiVr4uilyQoCHH3o
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/195?exp=1795500218119&sig=nuN6EXeiVr4uilyQoCHH3o
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/195?exp=1795546725927&sig=-vl8d0l005R5XI04it9Lkb
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/195?exp=1795546725927&sig=-vl8d0l005R5XI04it9Lkb
 #EXTINF:-1 tvg-id="11" tvg-logo="https://img-evg1.tv360.vn/image1/2020_09_23/160082347056/e8ce9503d96a_480_270.png" group-title="TV360",HTVC gia đình
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/11?exp=1795500218119&sig=_RLZ9YHnBooBemt5x_kQyU
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/11?exp=1795500218119&sig=_RLZ9YHnBooBemt5x_kQyU
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/11?exp=1795546725927&sig=iFHh-nd1F75q1V0YMtonhz
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/11?exp=1795546725927&sig=iFHh-nd1F75q1V0YMtonhz
 #EXTINF:-1 tvg-id="12" tvg-logo="https://img-evg1.tv360.vn/image1/2020_09_23/1600823432136/86f5cc6afcf6_480_270.png" group-title="TV360",HTVC phụ Nữ
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/12?exp=1795500218119&sig=Lfr-4eOulmQarxcYjb0DCy
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/12?exp=1795500218119&sig=Lfr-4eOulmQarxcYjb0DCy
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/12?exp=1795546725927&sig=In_gR5FhvGPkZDgla5wn4y
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/12?exp=1795546725927&sig=In_gR5FhvGPkZDgla5wn4y
 #EXTINF:-1 tvg-id="13" tvg-logo="https://img-evg1.tv360.vn/image1/2020_09_23/160082344024/e0032bc647da_480_270.png" group-title="TV360",HTVC thuần việt
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/13?exp=1795500218119&sig=-MWgGTX_nBOa7LYfsvoZHj
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/13?exp=1795500218119&sig=-MWgGTX_nBOa7LYfsvoZHj
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/13?exp=1795546725927&sig=PB3dI1-j-moiAox_2Ic5f9
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/13?exp=1795546725927&sig=PB3dI1-j-moiAox_2Ic5f9
 #EXTINF:-1 tvg-id="15" tvg-logo="https://img-evg1.tv360.vn/image1/2021/07/01/15/1625129239161/48401c7a9ce3_480_270.png" group-title="TV360",HTVC phim truyện HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/15?exp=1795500218119&sig=SQjR4Pz-9Xs32SWMCdE8qE
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/15?exp=1795500218119&sig=SQjR4Pz-9Xs32SWMCdE8qE
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/15?exp=1795546725927&sig=qlfPeloZPFs7Rbm-uRXBkg
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/15?exp=1795546725927&sig=qlfPeloZPFs7Rbm-uRXBkg
 #EXTINF:-1 tvg-id="132" tvg-logo="https://img-evg1.tv360.vn/image1/2020/12/25/10/160886616399/c002b68d052e_480_270.png" group-title="TV360",HTVC+ Channel B
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/132?exp=1795500218119&sig=z_9JbHlCnvJ1HBzwNcvkrM
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/132?exp=1795500218119&sig=z_9JbHlCnvJ1HBzwNcvkrM
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/132?exp=1795546725927&sig=PHudEVpDoQVP6hI9-kXHIN
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/132?exp=1795546725927&sig=PHudEVpDoQVP6hI9-kXHIN
 #EXTINF:-1 tvg-id="133" tvg-logo="https://img-evg1.tv360.vn/image1/2020/12/25/08/1608860643587/bb01290ccde1_480_270.png" group-title="TV360",HTVC du lịch & cuộc sống
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/133?exp=1795500218119&sig=DHZiTARggqNdaAGYwzU3Ee
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/133?exp=1795500218119&sig=DHZiTARggqNdaAGYwzU3Ee
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/133?exp=1795546725927&sig=OA8IXmJMdJGw6i5T5FB0Cc
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/133?exp=1795546725927&sig=OA8IXmJMdJGw6i5T5FB0Cc
 #EXTINF:-1 tvg-id="151" tvg-logo="https://img-evg1.tv360.vn/image1/2026/04/19/17/1776592892204/faf411a67b05_480_270.png" group-title="TV360",An Viên HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/151?exp=1795500218119&sig=eMbpQjRdsqwjvcsO0LUJQk
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/151?exp=1795500218119&sig=eMbpQjRdsqwjvcsO0LUJQk
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/151?exp=1795546725927&sig=CAaYduhVjFpf_4Ll80eoz8
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/151?exp=1795546725927&sig=CAaYduhVjFpf_4Ll80eoz8
 #EXTINF:-1 tvg-id="9906" tvg-logo="https://img-evg1.tv360.vn/image1/2025/03/04/21/1741100081578/f16fac473216_480_270.png" group-title="TV360",FM96
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/9906?exp=1795500218119&sig=vy8ENlfqVTZyRFCqVAajQ_
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/9906?exp=1795500218119&sig=vy8ENlfqVTZyRFCqVAajQ_
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/9906?exp=1795546725927&sig=-3gfi7A9gK8PohUfWmosSC
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/9906?exp=1795546725927&sig=-3gfi7A9gK8PohUfWmosSC
 #EXTINF:-1 tvg-id="10036" tvg-logo="https://img-evg1.tv360.vn/image1/2026/05/25/08/1779673099710/c321a9c85d33_480_270.png" group-title="TV360",VOH AM610
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/10036?exp=1795500218119&sig=kn3ATk5c2oMLArfId3VlUP
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/10036?exp=1795500218119&sig=kn3ATk5c2oMLArfId3VlUP
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/10036?exp=1795546725927&sig=I5Me1CSDbZzFqUgsd8Pp9q
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/10036?exp=1795546725927&sig=I5Me1CSDbZzFqUgsd8Pp9q
 #EXTINF:-1 tvg-id="10037" tvg-logo="https://img-evg1.tv360.vn/image1/2026/05/25/08/1779673413230/6095d75f830a_480_270.png" group-title="TV360",VOH FM99
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/10037?exp=1795500218119&sig=xltEfnjuIq-WrMJeIuQzyQ
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/10037?exp=1795500218119&sig=xltEfnjuIq-WrMJeIuQzyQ
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/10037?exp=1795546725927&sig=e_Yt2zkgZmNd6ZrNUtnW8Y
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/10037?exp=1795546725927&sig=e_Yt2zkgZmNd6ZrNUtnW8Y
 #EXTINF:-1 tvg-id="10038" tvg-logo="https://img-evg1.tv360.vn/image1/2026/05/25/08/1779673834679/564a27e6f7b6_480_270.png" group-title="TV360",VOH FM87
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/10038?exp=1795500218119&sig=7qmiJw-Q__IfZy-Wpk2rN3
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/10038?exp=1795500218119&sig=7qmiJw-Q__IfZy-Wpk2rN3
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/10038?exp=1795546725927&sig=N60ls7FLmYBF2Ax7ClVrT6
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/10038?exp=1795546725927&sig=N60ls7FLmYBF2Ax7ClVrT6
 #EXTINF:-1 tvg-id="10039" tvg-logo="https://img-evg1.tv360.vn/image1/2026/05/25/08/1779674089161/8e51d80307bf_480_270.png" group-title="TV360",VOH FM95
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/10039?exp=1795500218119&sig=DsXAjNY5tXPt1alaKBXpTX
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/10039?exp=1795500218119&sig=DsXAjNY5tXPt1alaKBXpTX
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/10039?exp=1795546725927&sig=UQiiXxNoJvtCVjKIHeIThv
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/10039?exp=1795546725927&sig=UQiiXxNoJvtCVjKIHeIThv
 #EXTINF:-1 tvg-id="10040" tvg-logo="https://img-evg1.tv360.vn/image1/2026/05/25/08/1779674230519/04eefef71c5b_480_270.png" group-title="TV360",VOH FM92 Radio
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/10040?exp=1795500218119&sig=x5UbsQBy9KqIo27tRM0c5_
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/10040?exp=1795500218119&sig=x5UbsQBy9KqIo27tRM0c5_
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/10040?exp=1795546725927&sig=xazs0VsE2BPd69U7zqpDdk
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/10040?exp=1795546725927&sig=xazs0VsE2BPd69U7zqpDdk
 #EXTINF:-1 tvg-id="232" tvg-logo="https://img-evg1.tv360.vn/image1/2025/07/23/09/1753236453485/c454ca3f905f_480_270.png" group-title="TV360",SCTV6
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/232?exp=1795500218119&sig=RN-Yk64oNS-HFAWrdXI9WE
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/232?exp=1795500218119&sig=RN-Yk64oNS-HFAWrdXI9WE
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/232?exp=1795546725927&sig=76dsQYvDrtPIF6T3pjZBby
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/232?exp=1795546725927&sig=76dsQYvDrtPIF6T3pjZBby
 #EXTINF:-1 tvg-id="201" tvg-logo="https://img-evg1.tv360.vn/image1/2025/07/23/09/1753236497766/f76b7bf7b94c_480_270.png" group-title="TV360",SCTV2 - Today TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/201?exp=1795500218119&sig=Yxmi8MbV33I8xBO3kevPLr
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/201?exp=1795500218119&sig=Yxmi8MbV33I8xBO3kevPLr
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/201?exp=1795546725927&sig=_IhvH1F9XFXuHAbctOWVNz
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/201?exp=1795546725927&sig=_IhvH1F9XFXuHAbctOWVNz
 #EXTINF:-1 tvg-id="174" tvg-logo="https://img-evg1.tv360.vn/image1/2023/04/28/09/1682650260303/bc7fe5334315_480_270.png" group-title="TV360",VTVcab 16 - On Football HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/174?exp=1795500218119&sig=ZRI7T3CxYw45O21NpJ-nUA
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/174?exp=1795500218119&sig=ZRI7T3CxYw45O21NpJ-nUA
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/174?exp=1795546725927&sig=qwJElr1WGpVCfnWN12i6a3
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/174?exp=1795546725927&sig=qwJElr1WGpVCfnWN12i6a3
 #EXTINF:-1 tvg-id="173" tvg-logo="https://img-evg1.tv360.vn/image1/2023/04/28/09/1682650417399/08d4190f7711_480_270.png" group-title="TV360",VTVcab 3 - On Sports
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/173?exp=1795500218119&sig=p1hMBs6reD_cF-oguBf-id
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/173?exp=1795500218119&sig=p1hMBs6reD_cF-oguBf-id
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/173?exp=1795546725927&sig=3NCOzcM3du-lEHFVyHgw-E
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/173?exp=1795546725927&sig=3NCOzcM3du-lEHFVyHgw-E
 #EXTINF:-1 tvg-id="170" tvg-logo="https://img-evg1.tv360.vn/image1/2023/04/28/09/1682650363143/71956aa35c78_480_270.png" group-title="TV360",VTVcab 18 - On Sports News
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/170?exp=1795500218119&sig=RovtmAlPRRlpSDMzlWHLNR
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/170?exp=1795500218119&sig=RovtmAlPRRlpSDMzlWHLNR
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/170?exp=1795546725927&sig=DMmaFZmWDBR229zC_z1lip
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/170?exp=1795546725927&sig=DMmaFZmWDBR229zC_z1lip
 #EXTINF:-1 tvg-id="169" tvg-logo="https://img-evg1.tv360.vn/image1/2023/04/28/09/1682650320416/f57f4fd63788_480_270.png" group-title="TV360",VTVcab 23 - Golf Channel
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/169?exp=1795500218119&sig=MXW5qFc5pRolClw1iEXswC
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/169?exp=1795500218119&sig=MXW5qFc5pRolClw1iEXswC
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/169?exp=1795546725927&sig=7jCHVuLx_hEVf3O0vqas24
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/169?exp=1795546725927&sig=7jCHVuLx_hEVf3O0vqas24
 #EXTINF:-1 tvg-id="183" tvg-logo="https://img-evg1.tv360.vn/image1/2023/04/28/09/1682650447548/72acfa0eca2c_480_270.png" group-title="TV360",VTVcab 6 - On Sports +
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/183?exp=1795500218119&sig=5Nu8xZj8Ssp73wsNytfhrs
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/183?exp=1795500218119&sig=5Nu8xZj8Ssp73wsNytfhrs
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/183?exp=1795546725927&sig=c8Dqb_DoaHiA0ivxBMJFhx
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/183?exp=1795546725927&sig=c8Dqb_DoaHiA0ivxBMJFhx
 #EXTINF:-1 tvg-id="180" tvg-logo="https://img-evg1.tv360.vn/image1/2024/01/02/23/1704211446236/d1503bd3566e_480_270.png" group-title="TV360",VTVcab 1 - Vie Giải Trí HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/180?exp=1795500218119&sig=8TfPUj31j3OqnmnUFLEzhF
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/180?exp=1795500218119&sig=8TfPUj31j3OqnmnUFLEzhF
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/180?exp=1795546725927&sig=H7xsBDcfnV6n8WUCPCXJ4f
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/180?exp=1795546725927&sig=H7xsBDcfnV6n8WUCPCXJ4f
 #EXTINF:-1 tvg-id="175" tvg-logo="https://img-evg1.tv360.vn/image1/2021/09/07/16/1631007494845/516efb158133_480_270.png" group-title="TV360",VTVcab 2 - Phim Việt HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/175?exp=1795500218119&sig=dI1ivtsF3fycp6NwtygZaW
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/175?exp=1795500218119&sig=dI1ivtsF3fycp6NwtygZaW
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/175?exp=1795546725927&sig=LSL6TvnaMtrz208hs4pKPF
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/175?exp=1795546725927&sig=LSL6TvnaMtrz208hs4pKPF
 #EXTINF:-1 tvg-id="176" tvg-logo="https://img-evg1.tv360.vn/image1/2021/09/07/17/1631009339636/95e9bc61877c_480_270.png" group-title="TV360",VTVcab10 - On Cine HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/176?exp=1795500218119&sig=ICjbPv89YqDTkMnhndGXD_
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/176?exp=1795500218119&sig=ICjbPv89YqDTkMnhndGXD_
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/176?exp=1795546725927&sig=JkF_WZ7u_Dya9YlP-h8fCk
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/176?exp=1795546725927&sig=JkF_WZ7u_Dya9YlP-h8fCk
 #EXTINF:-1 tvg-id="177" tvg-logo="https://img-evg1.tv360.vn/image1/2024/01/03/07/1704241415128/050934936855_480_270.png" group-title="TV360",VTVcab19 – Vie Dramas
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/177?exp=1795500218119&sig=hgWHu3Wq83JRaXIDaOQ_GP
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/177?exp=1795500218119&sig=hgWHu3Wq83JRaXIDaOQ_GP
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/177?exp=1795546725927&sig=Vss29jWcd9ONRUcAuTIU_c
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/177?exp=1795546725927&sig=Vss29jWcd9ONRUcAuTIU_c
 #EXTINF:-1 tvg-id="178" tvg-logo="https://img-evg1.tv360.vn/image1/2023/07/19/08/1689731979485/df22eff3c261_480_270.png" group-title="TV360",VTVcab 8 Bibi SD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/178?exp=1795500218119&sig=cxS1hDN7xF5b204LUItawB
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/178?exp=1795500218119&sig=cxS1hDN7xF5b204LUItawB
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/178?exp=1795546725927&sig=Cy30fo1LzfjxBGUyKFAqqT
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/178?exp=1795546725927&sig=Cy30fo1LzfjxBGUyKFAqqT
 #EXTINF:-1 tvg-id="179" tvg-logo="https://img-evg1.tv360.vn/image1/2025/07/21/14/1753083917555/313a5cc8943c_480_270.png" group-title="TV360",VTVcab 21- Cartoon Kids HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/179?exp=1795500218119&sig=Y4TT1nx-ISXOjQ1XijmYRF
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/179?exp=1795500218119&sig=Y4TT1nx-ISXOjQ1XijmYRF
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/179?exp=1795546725927&sig=ooPdQet2ThXq-9erDNAMBR
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/179?exp=1795546725927&sig=ooPdQet2ThXq-9erDNAMBR
 #EXTINF:-1 tvg-id="181" tvg-logo="https://img-evg1.tv360.vn/image1/2023/02/16/16/1676540062912/f21d4df5b545_480_270.png" group-title="TV360",Vtvcab 4 – On Movies
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/181?exp=1795500218119&sig=ealyw72NdPi0r7pdz719KT
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/181?exp=1795500218119&sig=ealyw72NdPi0r7pdz719KT
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/181?exp=1795546725927&sig=p2m_lT5f-DZWXL9_60oZmx
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/181?exp=1795546725927&sig=p2m_lT5f-DZWXL9_60oZmx
 #EXTINF:-1 tvg-id="182" tvg-logo="https://img-evg1.tv360.vn/image1/2023/07/19/15/1689755306897/935d4d4cde0d_480_270.png" group-title="TV360",VTVcab 5 - E Channel HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/182?exp=1795500218119&sig=SCrGIyE78OQ7mGJeZmq-ja
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/182?exp=1795500218119&sig=SCrGIyE78OQ7mGJeZmq-ja
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/182?exp=1795546725927&sig=h6rBCYWzQhfNX6L8y9UBKm
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/182?exp=1795546725927&sig=h6rBCYWzQhfNX6L8y9UBKm
 #EXTINF:-1 tvg-id="184" tvg-logo="https://img-evg1.tv360.vn/image1/2023/07/19/09/1689732221934/7138a2e2ade1_480_270.png" group-title="TV360",VTVcab 12 - StyleTV HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/184?exp=1795500218119&sig=AFoTMBhaiRebHBMRAw60g7
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/184?exp=1795500218119&sig=AFoTMBhaiRebHBMRAw60g7
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/184?exp=1795546725927&sig=PrmEbnRL1wFOx_zMj1dNnM
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/184?exp=1795546725927&sig=PrmEbnRL1wFOx_zMj1dNnM
 #EXTINF:-1 tvg-id="185" tvg-logo="https://img-evg1.tv360.vn/image1/2023/07/20/10/1689822524259/0f3a4d1ebfaf_480_270.png" group-title="TV360",VTVcab15 – On Music
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/185?exp=1795500218119&sig=9q5pFGPAEh_KgKK9AS6d0O
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/185?exp=1795500218119&sig=9q5pFGPAEh_KgKK9AS6d0O
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/185?exp=1795546725927&sig=lAFbomsHgWAFhQrhptHCcS
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/185?exp=1795546725927&sig=lAFbomsHgWAFhQrhptHCcS
 #EXTINF:-1 tvg-id="186" tvg-logo="https://img-evg1.tv360.vn/image1/2023/07/19/16/1689759248732/ebe66c03d7f6_480_270.png" group-title="TV360",Vtvcab17 – Trending TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/186?exp=1795500218119&sig=piRggNglQEzTcfXqrKktPU
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/186?exp=1795500218119&sig=piRggNglQEzTcfXqrKktPU
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/186?exp=1795546725927&sig=K8Ik84bRYndP2A50HkP2Er
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/186?exp=1795546725927&sig=K8Ik84bRYndP2A50HkP2Er
 #EXTINF:-1 tvg-id="187" tvg-logo="https://img-evg1.tv360.vn/image1/2023/07/19/09/1689732486538/904f55c861b5_480_270.png" group-title="TV360",VTVcab 20 - V Family HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/187?exp=1795500218119&sig=FgQV0LMj9F90gSWXEDQsjK
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/187?exp=1795500218119&sig=FgQV0LMj9F90gSWXEDQsjK
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/187?exp=1795546725927&sig=Dzk0br2kY2j-JqaJY_YT2l
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/187?exp=1795546725927&sig=Dzk0br2kY2j-JqaJY_YT2l
 #EXTINF:-1 tvg-id="188" tvg-logo="https://img-evg1.tv360.vn/image1/2023/07/19/09/1689732652862/f124f55c3587_480_270.png" group-title="TV360",VTVcab 22 - Life TV HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/188?exp=1795500218119&sig=qyMjBFOHTkzoCCuZQPV4Th
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/188?exp=1795500218119&sig=qyMjBFOHTkzoCCuZQPV4Th
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/188?exp=1795546725927&sig=4CyLQXPKm6o8JE9d3UJTXd
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/188?exp=1795546725927&sig=4CyLQXPKm6o8JE9d3UJTXd
 #EXTINF:-1 tvg-id="189" tvg-logo="https://img-evg1.tv360.vn/image1/2023/07/19/09/1689732099410/a13853e5de55_480_270.png" group-title="TV360",VTVcab 9 - InfoTV HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/189?exp=1795500218119&sig=T_xw7dqcsL2O6VcI_iLA43
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/189?exp=1795500218119&sig=T_xw7dqcsL2O6VcI_iLA43
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/189?exp=1795546725927&sig=6aUhY2rc-bMI4Bc5QbVPN4
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/189?exp=1795546725927&sig=6aUhY2rc-bMI4Bc5QbVPN4
 #EXTINF:-1 tvg-id="136" tvg-logo="https://img-evg1.tv360.vn/image1/2024/08/06/23/1722961565788/ba3ae8e7865d_480_270.png" group-title="TV360",O2TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/136?exp=1795500218119&sig=wV8UpJPpk12bR2h91xWuB5
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/136?exp=1795500218119&sig=wV8UpJPpk12bR2h91xWuB5
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/136?exp=1795546725927&sig=MJ1HFiBDycokVYAcG0M2s-
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/136?exp=1795546725927&sig=MJ1HFiBDycokVYAcG0M2s-
 #EXTINF:-1 tvg-id="134" tvg-logo="https://img-evg1.tv360.vn/image1/2024/10/03/21/1727967101708/09889ad04773_480_270.png" group-title="TV360",Quảng Ninh 3
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/134?exp=1795500218119&sig=RR-5l7Mw_4PLWQcTqmab4G
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/134?exp=1795500218119&sig=RR-5l7Mw_4PLWQcTqmab4G
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/134?exp=1795546725927&sig=rGkypXwU9f1_hRqCzeNC-V
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/134?exp=1795546725927&sig=rGkypXwU9f1_hRqCzeNC-V
 #EXTINF:-1 tvg-id="33" tvg-logo="https://img-evg1.tv360.vn/image1/2024/10/07/17/1728296855302/149490571e60_480_270.png" group-title="TV360",Hà Nội 1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/33?exp=1795500218119&sig=-9LcJ9oNwIQPT8m-YBUkkM
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/33?exp=1795500218119&sig=-9LcJ9oNwIQPT8m-YBUkkM
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/33?exp=1795546725927&sig=66pc4CD9xWteKnTuPlrYxr
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/33?exp=1795546725927&sig=66pc4CD9xWteKnTuPlrYxr
 #EXTINF:-1 tvg-id="34" tvg-logo="https://img-evg1.tv360.vn/image1/2024/10/07/16/1728293033798/d23973063be9_480_270.png" group-title="TV360",Hà Nội 2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/34?exp=1795500218119&sig=dLSRzGiJ7YH6XMZ1SQG742
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/34?exp=1795500218119&sig=dLSRzGiJ7YH6XMZ1SQG742
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/34?exp=1795546725927&sig=o5Xz7KsDo7rarqWMGuwu_M
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/34?exp=1795546725927&sig=o5Xz7KsDo7rarqWMGuwu_M
 #EXTINF:-1 tvg-id="35" tvg-logo="https://img-evg1.tv360.vn/image1/2025/07/01/15/1751358776543/87a0d91f8e5a_480_270.png" group-title="TV360",An Giang 2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/35?exp=1795500218119&sig=rkmuK-iX45gpSL-ziLErxm
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/35?exp=1795500218119&sig=rkmuK-iX45gpSL-ziLErxm
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/35?exp=1795546725927&sig=hz1jtMSw_p9WzVrc8HyU5U
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/35?exp=1795546725927&sig=hz1jtMSw_p9WzVrc8HyU5U
 #EXTINF:-1 tvg-id="9838" tvg-logo="https://img-evg1.tv360.vn/image1/2026/07/31/00/1785431520501/782bdfe129db_480_270.png" group-title="TV360",BTV6
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/9838?exp=1795500218119&sig=hz8ZpteJdO8XDVkzAEti4x
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/9838?exp=1795500218119&sig=hz8ZpteJdO8XDVkzAEti4x
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/9838?exp=1795546725927&sig=I16y9dbCCSLmRFurYv3HFC
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/9838?exp=1795546725927&sig=I16y9dbCCSLmRFurYv3HFC
 #EXTINF:-1 tvg-id="31" tvg-logo="https://img-evg1.tv360.vn/image1/2020_09_23/1600823396313/7b474bf7bbce_480_270.png" group-title="TV360",YouTV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/31?exp=1795500218119&sig=CRUlj6kQ_Zi4oU6dLTca4y
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/31?exp=1795500218119&sig=CRUlj6kQ_Zi4oU6dLTca4y
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/31?exp=1795546725927&sig=IsuhpOrq9F0bMtM6HGnygv
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/31?exp=1795546725927&sig=IsuhpOrq9F0bMtM6HGnygv
 #EXTINF:-1 tvg-id="32" tvg-logo="https://img-evg1.tv360.vn/image1/2020_09_23/1600823412691/61627b84a612_480_270.png" group-title="TV360",HITV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/32?exp=1795500218119&sig=Ow_fWnG9KX5YKRdlGbkcVu
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/32?exp=1795500218119&sig=Ow_fWnG9KX5YKRdlGbkcVu
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/32?exp=1795546725927&sig=-0_c6Wc4J2TrmoITECb3TI
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/32?exp=1795546725927&sig=-0_c6Wc4J2TrmoITECb3TI
 #EXTINF:-1 tvg-id="39" tvg-logo="https://img-evg1.tv360.vn/image1/2024/10/07/16/1728292026843/2a0e3c73a0a3_480_270.png" group-title="TV360",Bắc Ninh
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/39?exp=1795500218119&sig=BTcNJPJCJ9DvTlEv2Zi14p
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/39?exp=1795500218119&sig=BTcNJPJCJ9DvTlEv2Zi14p
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/39?exp=1795546725927&sig=Z6oRedN4gp3CXIKEn6n1Ck
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/39?exp=1795546725927&sig=Z6oRedN4gp3CXIKEn6n1Ck
 #EXTINF:-1 tvg-id="45" tvg-logo="https://img-evg1.tv360.vn/image1/2025/09/16/10/1757993660312/1082b4f9d963_480_270.png" group-title="TV360",Lâm Đồng 2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/45?exp=1795500218119&sig=70gt0SoaOGgVDnGbArY49o
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/45?exp=1795500218119&sig=70gt0SoaOGgVDnGbArY49o
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/45?exp=1795546725927&sig=coOs7nj6v6J8c_SCqRb4S-
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/45?exp=1795546725927&sig=coOs7nj6v6J8c_SCqRb4S-
 #EXTINF:-1 tvg-id="46" tvg-logo="https://img-evg1.tv360.vn/image1/2024/10/07/16/1728292350834/ec688c9d5bb2_480_270.png" group-title="TV360",Cà Mau
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/46?exp=1795500218119&sig=7J6Dwjd_KZ3pc3fGN0MJyN
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/46?exp=1795500218119&sig=7J6Dwjd_KZ3pc3fGN0MJyN
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/46?exp=1795546725927&sig=73YlY0lrmVq6EHXDG87J40
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/46?exp=1795546725927&sig=73YlY0lrmVq6EHXDG87J40
 #EXTINF:-1 tvg-id="47" tvg-logo="https://img-evg1.tv360.vn/image1/2025/11/05/16/1762336328954/07ecc9b857a5_480_270.png" group-title="TV360",Cần Thơ 1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/47?exp=1795500218119&sig=gVcy02dh6F92E9NwKdJ8ZN
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/47?exp=1795500218119&sig=gVcy02dh6F92E9NwKdJ8ZN
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/47?exp=1795546725927&sig=23yUAehoaiRV5mIsGGmKvh
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/47?exp=1795546725927&sig=23yUAehoaiRV5mIsGGmKvh
 #EXTINF:-1 tvg-id="48" tvg-logo="https://img-evg1.tv360.vn/image1/2024/10/07/16/1728292499129/aeb3499f5824_480_270.png" group-title="TV360",Cao Bằng
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/48?exp=1795500218119&sig=NmzR5io9HS_wfd58xR7sJq
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/48?exp=1795500218119&sig=NmzR5io9HS_wfd58xR7sJq
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/48?exp=1795546725927&sig=lGsz5oSB_9M995Z_9BCn3H
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/48?exp=1795546725927&sig=lGsz5oSB_9M995Z_9BCn3H
 #EXTINF:-1 tvg-id="49" tvg-logo="https://img-evg1.tv360.vn/image1/2025/07/01/09/1751337054302/df569bbaeead_480_270.png" group-title="TV360",Đà Nẵng 1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/49?exp=1795500218119&sig=95X00ex87UXzhot13jityV
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/49?exp=1795500218119&sig=95X00ex87UXzhot13jityV
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/49?exp=1795546725927&sig=jhf3at1akhKuoLRL5oQDuh
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/49?exp=1795546725927&sig=jhf3at1akhKuoLRL5oQDuh
 #EXTINF:-1 tvg-id="51" tvg-logo="https://img-evg1.tv360.vn/image1/2025/06/30/11/1751256466336/bda77a407209_480_270.png" group-title="TV360",Đắk Lắk
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/51?exp=1795500218119&sig=EAt57-FCzFBZeBcUoWVxL2
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/51?exp=1795500218119&sig=EAt57-FCzFBZeBcUoWVxL2
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/51?exp=1795546725927&sig=WU4Qk4GCkivtnWyHEzBDaH
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/51?exp=1795546725927&sig=WU4Qk4GCkivtnWyHEzBDaH
 #EXTINF:-1 tvg-id="52" tvg-logo="https://img-evg1.tv360.vn/image1/2020_09_23/1600823593760/3a9a9e608e8d_480_270.png" group-title="TV360",Điện Biên
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/52?exp=1795500218119&sig=J-4FPO8SBp_7kcNyQTxFFb
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/52?exp=1795500218119&sig=J-4FPO8SBp_7kcNyQTxFFb
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/52?exp=1795546725927&sig=jT4sGz2dQGbnK7iPxZ7ftM
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/52?exp=1795546725927&sig=jT4sGz2dQGbnK7iPxZ7ftM
 #EXTINF:-1 tvg-id="53" tvg-logo="https://img-evg1.tv360.vn/image1/2024/10/07/16/1728292646666/9cb8f84c6b6a_480_270.png" group-title="TV360",Đồng Nai 1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/53?exp=1795500218119&sig=G8ZOeF25x_HXsZsci5BVM5
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/53?exp=1795500218119&sig=G8ZOeF25x_HXsZsci5BVM5
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/53?exp=1795546725927&sig=7IbyR-_O-98jqoo78e7GlS
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/53?exp=1795546725927&sig=7IbyR-_O-98jqoo78e7GlS
 #EXTINF:-1 tvg-id="54" tvg-logo="https://img-evg1.tv360.vn/image1/2025/07/01/08/1751331689553/f287ef8d8574_480_270.png" group-title="TV360",Đồng Tháp 1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/54?exp=1795500218119&sig=nBDTZeVGKa3UDAAiiQi9Jw
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/54?exp=1795500218119&sig=nBDTZeVGKa3UDAAiiQi9Jw
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/54?exp=1795546725927&sig=xVsv2Qc6pzz8qZKCLU7YBE
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/54?exp=1795546725927&sig=xVsv2Qc6pzz8qZKCLU7YBE
 #EXTINF:-1 tvg-id="55" tvg-logo="https://img-evg1.tv360.vn/image1/2025/07/01/15/1751357063814/d3ab51ec71c8_480_270.png" group-title="TV360",Gia Lai
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/55?exp=1795500218119&sig=be3X-BAOQIjBvecBdqZbHC
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/55?exp=1795500218119&sig=be3X-BAOQIjBvecBdqZbHC
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/55?exp=1795546725927&sig=lCMLSMVHp4pVlqZKt6NWf4
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/55?exp=1795546725927&sig=lCMLSMVHp4pVlqZKt6NWf4
 #EXTINF:-1 tvg-id="58" tvg-logo="https://img-evg1.tv360.vn/image1/2025/07/01/17/1751364753117/4f1f0d74fc87_480_270.png" group-title="TV360",Hà Tĩnh
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/58?exp=1795500218119&sig=5DC68zxCe5hQjSgqhgO065
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/58?exp=1795500218119&sig=5DC68zxCe5hQjSgqhgO065
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/58?exp=1795546725927&sig=8wjpWyTDhT3tu_rW39HFwx
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/58?exp=1795546725927&sig=8wjpWyTDhT3tu_rW39HFwx
 #EXTINF:-1 tvg-id="59" tvg-logo="https://img-evg1.tv360.vn/image1/2025/07/01/08/1751332762796/cf7b86889958_480_270.png" group-title="TV360",Hải Phòng 3
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/59?exp=1795500218119&sig=XFJzpoa7gPTHW0_A7P5roA
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/59?exp=1795500218119&sig=XFJzpoa7gPTHW0_A7P5roA
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/59?exp=1795546725927&sig=-iBxHjAw-AGbbEaFF9GdwY
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/59?exp=1795546725927&sig=-iBxHjAw-AGbbEaFF9GdwY
 #EXTINF:-1 tvg-id="60" tvg-logo="https://img-evg1.tv360.vn/image1/2024/10/07/16/1728293124933/96ed2cfade28_480_270.png" group-title="TV360",Hải Phòng
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/60?exp=1795500218119&sig=5w1Z2QPHiHjn72Q12b7i9B
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/60?exp=1795500218119&sig=5w1Z2QPHiHjn72Q12b7i9B
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/60?exp=1795546725927&sig=AIj3X5BCYU2VnXk3C5gP1-
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/60?exp=1795546725927&sig=AIj3X5BCYU2VnXk3C5gP1-
 #EXTINF:-1 tvg-id="61" tvg-logo="https://img-evg1.tv360.vn/image1/2025/11/05/16/176233636246/8ded7c5a9010_480_270.png" group-title="TV360",Cần Thơ 2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/61?exp=1795500218119&sig=LO5CDVbqNFP9TSxf7PQcoV
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/61?exp=1795500218119&sig=LO5CDVbqNFP9TSxf7PQcoV
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/61?exp=1795546725927&sig=R-SvDQOw8e-WuBicpBejNB
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/61?exp=1795546725927&sig=R-SvDQOw8e-WuBicpBejNB
 #EXTINF:-1 tvg-id="63" tvg-logo="https://img-evg1.tv360.vn/image1/2025/07/01/17/1751364479653/fdd748c39c4d_480_270.png" group-title="TV360",Huế
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/63?exp=1795500218119&sig=0s8QTi1nw4TJ7au_cOwHtj
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/63?exp=1795500218119&sig=0s8QTi1nw4TJ7au_cOwHtj
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/63?exp=1795546725927&sig=kC3rhArLEcJNxPXX-KJXk5
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/63?exp=1795546725927&sig=kC3rhArLEcJNxPXX-KJXk5
 #EXTINF:-1 tvg-id="64" tvg-logo="https://img-evg1.tv360.vn/image1/2023/07/18/14/1689667110643/2aa9348c16ec_480_270.png" group-title="TV360",Hưng Yên
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/64?exp=1795500218119&sig=GTKvqfZg0_TbP4GmdspVX7
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/64?exp=1795500218119&sig=GTKvqfZg0_TbP4GmdspVX7
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/64?exp=1795546725927&sig=ayn6Nbd0m14riTC-HoNG1E
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/64?exp=1795546725927&sig=ayn6Nbd0m14riTC-HoNG1E
 #EXTINF:-1 tvg-id="65" tvg-logo="https://img-evg1.tv360.vn/image1/2023/05/16/02/1684179436941/f2452666b507_480_270.png" group-title="TV360",Khánh Hòa
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/65?exp=1795500218119&sig=yTM_4MXMJUBGEnCmgJMR81
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/65?exp=1795500218119&sig=yTM_4MXMJUBGEnCmgJMR81
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/65?exp=1795546725927&sig=iGr8DhyPpyTw8xlhgmOy2Q
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/65?exp=1795546725927&sig=iGr8DhyPpyTw8xlhgmOy2Q
 #EXTINF:-1 tvg-id="66" tvg-logo="https://img-evg1.tv360.vn/image1/2025/07/01/15/1751358809467/9f6c4f3dc4d0_480_270.png" group-title="TV360",An Giang 1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/66?exp=1795500218119&sig=DjP5PhIZbSIepYl6S2rrjW
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/66?exp=1795500218119&sig=DjP5PhIZbSIepYl6S2rrjW
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/66?exp=1795546725927&sig=Y9bLmMuRQSqTUtZpHvJ4eC
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/66?exp=1795546725927&sig=Y9bLmMuRQSqTUtZpHvJ4eC
 #EXTINF:-1 tvg-id="68" tvg-logo="https://img-evg1.tv360.vn/image1/2024/10/07/16/1728293379395/ade5683c1b92_480_270.png" group-title="TV360",Lai Châu
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/68?exp=1795500218119&sig=tpoLwxrszd7a1WoCXauKgs
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/68?exp=1795500218119&sig=tpoLwxrszd7a1WoCXauKgs
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/68?exp=1795546725927&sig=jpzByMvpYHwV18iVOvUZgi
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/68?exp=1795546725927&sig=jpzByMvpYHwV18iVOvUZgi
 #EXTINF:-1 tvg-id="69" tvg-logo="https://img-evg1.tv360.vn/image1/2025/09/16/10/1757993571149/e3bbf8cbc985_480_270.png" group-title="TV360",Lâm Đồng 1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/69?exp=1795500218119&sig=zq5A1tugAgd2rPh5XpQ4vn
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/69?exp=1795500218119&sig=zq5A1tugAgd2rPh5XpQ4vn
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/69?exp=1795546725927&sig=NVusMn96CrfjCrA3Crk5Bn
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/69?exp=1795546725927&sig=NVusMn96CrfjCrA3Crk5Bn
 #EXTINF:-1 tvg-id="70" tvg-logo="https://img-evg1.tv360.vn/image1/2023/05/16/03/1684183176485/baf863bc2690_480_270.png" group-title="TV360",Lạng Sơn
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/70?exp=1795500218119&sig=K-f1veYC4sKpaKleEh7Fu8
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/70?exp=1795500218119&sig=K-f1veYC4sKpaKleEh7Fu8
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/70?exp=1795546725927&sig=eWOmT8k5YIGYvNBXL0woH1
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/70?exp=1795546725927&sig=eWOmT8k5YIGYvNBXL0woH1
 #EXTINF:-1 tvg-id="71" tvg-logo="https://img-evg1.tv360.vn/image1/2025/07/01/07/1751329203146/5c287ccfa91a_480_270.png" group-title="TV360",Lào Cai
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/71?exp=1795500218119&sig=X4s9ikUa42UgXEV8cEQQjZ
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/71?exp=1795500218119&sig=X4s9ikUa42UgXEV8cEQQjZ
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/71?exp=1795546725927&sig=YoBdZ1zvEkrUl3tX7bwrP1
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/71?exp=1795546725927&sig=YoBdZ1zvEkrUl3tX7bwrP1
 #EXTINF:-1 tvg-id="72" tvg-logo="https://img-evg1.tv360.vn/image1/2026/01/10/08/1768009863485/1206cb944f9e_480_270.png" group-title="TV360",Tây Ninh 1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/72?exp=1795500218119&sig=9pd2_rwUAT0J4FSJQe0V0z
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/72?exp=1795500218119&sig=9pd2_rwUAT0J4FSJQe0V0z
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/72?exp=1795546725927&sig=RaLBGjOlGWaAMqVH7ywzil
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/72?exp=1795546725927&sig=RaLBGjOlGWaAMqVH7ywzil
 #EXTINF:-1 tvg-id="74" tvg-logo="https://img-evg1.tv360.vn/image1/2020_09_23/1600821989411/75bfb004e210_480_270.png" group-title="TV360",Nghệ An
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/74?exp=1795500218119&sig=xBnV-x2RoVIH7uwfDU8ZYW
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/74?exp=1795500218119&sig=xBnV-x2RoVIH7uwfDU8ZYW
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/74?exp=1795546725927&sig=8gVa4ISOGPqL4DiSQ2x0Hk
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/74?exp=1795546725927&sig=8gVa4ISOGPqL4DiSQ2x0Hk
 #EXTINF:-1 tvg-id="75" tvg-logo="https://img-evg1.tv360.vn/image1/2024/10/07/16/1728293640310/9aea44bf0f8d_480_270.png" group-title="TV360",Ninh Bình
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/75?exp=1795500218119&sig=waqvxQnqRT9sR0xKwLMy1_
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/75?exp=1795500218119&sig=waqvxQnqRT9sR0xKwLMy1_
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/75?exp=1795546725927&sig=5qgaNkERFG4Jcx-DdwNrc-
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/75?exp=1795546725927&sig=5qgaNkERFG4Jcx-DdwNrc-
 #EXTINF:-1 tvg-id="76" tvg-logo="https://img-evg1.tv360.vn/image1/2025/07/01/08/1751333362278/30e1a394f567_480_270.png" group-title="TV360",Khánh Hòa 1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/76?exp=1795500218119&sig=ucbp6Uj7bzDZUkvJcf0ZyU
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/76?exp=1795500218119&sig=ucbp6Uj7bzDZUkvJcf0ZyU
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/76?exp=1795546725927&sig=VO7RRcfwwA4DSixXPOStUD
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/76?exp=1795546725927&sig=VO7RRcfwwA4DSixXPOStUD
 #EXTINF:-1 tvg-id="77" tvg-logo="https://img-evg1.tv360.vn/image1/2023/05/16/02/168417957456/7016ca1be5fa_480_270.png" group-title="TV360",Phú Thọ
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/77?exp=1795500218119&sig=Y6GgN-zbGA_8dczHz5YNW8
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/77?exp=1795500218119&sig=Y6GgN-zbGA_8dczHz5YNW8
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/77?exp=1795546725927&sig=rboRz1zbet1c4oIfBUDIHB
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/77?exp=1795546725927&sig=rboRz1zbet1c4oIfBUDIHB
 #EXTINF:-1 tvg-id="80" tvg-logo="https://img-evg1.tv360.vn/image1/2025/07/01/09/175133702497/eded20e0d35c_480_270.png" group-title="TV360",Đà Nẵng 2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/80?exp=1795500218119&sig=mJDp4cD-Kj_fLrlRP7F5h7
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/80?exp=1795500218119&sig=mJDp4cD-Kj_fLrlRP7F5h7
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/80?exp=1795546725927&sig=4IHwPUtQvXKSvCkZFWo8sz
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/80?exp=1795546725927&sig=4IHwPUtQvXKSvCkZFWo8sz
 #EXTINF:-1 tvg-id="81" tvg-logo="https://img-evg1.tv360.vn/image1/2026/04/24/17/1777025132946/f2412266a876_480_270.png" group-title="TV360",Quảng Ngãi
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/81?exp=1795500218119&sig=RsUhyn8ekNRpLQ7-PSrwmE
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/81?exp=1795500218119&sig=RsUhyn8ekNRpLQ7-PSrwmE
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/81?exp=1795546725927&sig=yQB6qUWV1JgeLHoaoIGix1
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/81?exp=1795546725927&sig=yQB6qUWV1JgeLHoaoIGix1
 #EXTINF:-1 tvg-id="82" tvg-logo="https://img-evg1.tv360.vn/image1/2020_09_23/1600823547870/8f0cdf38412a_480_270.png" group-title="TV360",Quảng Ninh 1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/82?exp=1795500218119&sig=r2I11AYIBINWT7O10Miue8
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/82?exp=1795500218119&sig=r2I11AYIBINWT7O10Miue8
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/82?exp=1795546725927&sig=z8j6oBzLnzVHcD1RhXsV7B
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/82?exp=1795546725927&sig=z8j6oBzLnzVHcD1RhXsV7B
 #EXTINF:-1 tvg-id="83" tvg-logo="https://img-evg1.tv360.vn/image1/2025/07/01/09/1751335585476/9d5c42897302_480_270.png" group-title="TV360",Quảng Trị
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/83?exp=1795500218119&sig=3Vy3lD3gxxdrx0UVjor7F3
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/83?exp=1795500218119&sig=3Vy3lD3gxxdrx0UVjor7F3
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/83?exp=1795546725927&sig=iR6Z5rhpyz7JqmdEndyCJt
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/83?exp=1795546725927&sig=iR6Z5rhpyz7JqmdEndyCJt
 #EXTINF:-1 tvg-id="84" tvg-logo="https://img-evg1.tv360.vn/image1/2025/11/05/16/1762336060807/7b1128d4e7c7_480_270.png" group-title="TV360",Cần Thơ 3
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/84?exp=1795500218119&sig=g5QcqnvxEokRIPHLdDWaBb
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/84?exp=1795500218119&sig=g5QcqnvxEokRIPHLdDWaBb
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/84?exp=1795546725927&sig=V5iJeV4dHkG7xehlApq7l6
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/84?exp=1795546725927&sig=V5iJeV4dHkG7xehlApq7l6
 #EXTINF:-1 tvg-id="85" tvg-logo="https://img-evg1.tv360.vn/image1/2020_09_23/1600823599924/b1d77a6c01a0_480_270.png" group-title="TV360",Sơn La
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/85?exp=1795500218119&sig=QCcDVNeDFFT-n9B0eVHOc5
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/85?exp=1795500218119&sig=QCcDVNeDFFT-n9B0eVHOc5
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/85?exp=1795546725927&sig=kxDUy4Lmj2BdwRVLGGKo-u
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/85?exp=1795546725927&sig=kxDUy4Lmj2BdwRVLGGKo-u
 #EXTINF:-1 tvg-id="88" tvg-logo="https://img-evg1.tv360.vn/image1/2025/07/01/07/1751329966912/3ddadef93c24_480_270.png" group-title="TV360",Thái Nguyên
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/88?exp=1795500218119&sig=AbEaPKra4aPk50kmoK3HEs
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/88?exp=1795500218119&sig=AbEaPKra4aPk50kmoK3HEs
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/88?exp=1795546725927&sig=72BrAuiCXERE2FBEwU6glj
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/88?exp=1795546725927&sig=72BrAuiCXERE2FBEwU6glj
 #EXTINF:-1 tvg-id="89" tvg-logo="https://img-evg1.tv360.vn/image1/2020_09_23/1600821878406/58ff77e57117_480_270.png" group-title="TV360",Thanh Hóa
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/89?exp=1795500218119&sig=86h-TW_Lh2dExjfvtA6IDq
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/89?exp=1795500218119&sig=86h-TW_Lh2dExjfvtA6IDq
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/89?exp=1795546725927&sig=lSXH4zr9yBCp3iGVCoWwer
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/89?exp=1795546725927&sig=lSXH4zr9yBCp3iGVCoWwer
 #EXTINF:-1 tvg-id="90" tvg-logo="https://img-evg1.tv360.vn/image1/2025/09/16/10/1757993795684/45f17a4f3b90_480_270.png" group-title="TV360",Đồng Tháp 2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/90?exp=1795500218119&sig=Qd1ppfwVKx-KVHpScWRIxN
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/90?exp=1795500218119&sig=Qd1ppfwVKx-KVHpScWRIxN
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/90?exp=1795546725927&sig=xQ0PPoBBtwsM2UkSg9udwW
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/90?exp=1795546725927&sig=xQ0PPoBBtwsM2UkSg9udwW
 #EXTINF:-1 tvg-id="92" tvg-logo="https://img-evg1.tv360.vn/image1/2023/05/10/03/1683663305895/0f3f1e5bd284_480_270.png" group-title="TV360",Tuyên Quang
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/92?exp=1795500218119&sig=LY_ge4qPsoxi40Zs20dsqC
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/92?exp=1795500218119&sig=LY_ge4qPsoxi40Zs20dsqC
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/92?exp=1795546725927&sig=J1jEhkC-xAnc4G2-Cwb4W5
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/92?exp=1795546725927&sig=J1jEhkC-xAnc4G2-Cwb4W5
 #EXTINF:-1 tvg-id="255" tvg-logo="https://img-evg1.tv360.vn/image1/2024/10/07/14/1728286716831/f297eef035cf_480_270.png" group-title="TV360",Đồng Nai
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/license/255?exp=1795500218119&sig=DH-EBmbdIYSp_SPV5QMn5Q
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/255?exp=1795500218119&sig=DH-EBmbdIYSp_SPV5QMn5Q
+#KODIPROP:inputstream.adaptive.license_key=https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/license/255?exp=1795546725927&sig=8AKhdsMjAxYEzdghWFhoAs
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/255?exp=1795546725927&sig=8AKhdsMjAxYEzdghWFhoAs
 #EXTINF:-1 tvg-id="tflix:dfe84685-2ad8-4f48-bf56-bf804c8f106f" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_1_HR_logo_v2.png?1737563804" group-title="Sports 2",Arena Sport 1
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3Adfe84685-2ad8-4f48-bf56-bf804c8f106f?exp=1795500218119&sig=pkf1tLJgNbcwrHVX47fqsz
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3Adfe84685-2ad8-4f48-bf56-bf804c8f106f?exp=1795546725927&sig=Ao0J8RLp_aSPt3pFV8FXim
 #EXTINF:-1 tvg-id="tflix:fcf0cb4b-938b-4573-928c-431f5997ff07" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_2_HR_logo_v3.png?1737622079" group-title="Sports 2",Arena Sport 2
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3Afcf0cb4b-938b-4573-928c-431f5997ff07?exp=1795500218119&sig=recItw6QzXhztNW1k8U9Ww
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3Afcf0cb4b-938b-4573-928c-431f5997ff07?exp=1795546725927&sig=IxK0Ir1LxT3KjM0muWgByA
 #EXTINF:-1 tvg-id="tflix:ef625e1d-b21e-456f-b412-321384e3f2a5" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_3_HR_logo_v3.png?1737622697" group-title="Sports 2",Arena Sport 3
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3Aef625e1d-b21e-456f-b412-321384e3f2a5?exp=1795500218119&sig=LKLqB-WGGbAZf8k9HZKol0
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3Aef625e1d-b21e-456f-b412-321384e3f2a5?exp=1795546725927&sig=MBUshcRfmXzrN6hQEZ7fEL
 #EXTINF:-1 tvg-id="tflix:87f61090-8472-444d-be91-268575a8432b" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_4_SI_logo_v2.png?1787579122" group-title="Sports 2",Arena Sport 4
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3A87f61090-8472-444d-be91-268575a8432b?exp=1795500218119&sig=gOTA1CVzO1Jqd-orPx8N3j
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3A87f61090-8472-444d-be91-268575a8432b?exp=1795546725927&sig=CHa14LNw5B5GzVLXYRfqWc
 #EXTINF:-1 tvg-id="tflix:183dbcc8-bbe1-40e1-9160-c6746319be9e" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/2kuqly1643205772.png" group-title="Sports 2",Arena Sport 5
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3A183dbcc8-bbe1-40e1-9160-c6746319be9e?exp=1795500218119&sig=-0vXlW6US-n4vOoTvYafEZ
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3A183dbcc8-bbe1-40e1-9160-c6746319be9e?exp=1795546725927&sig=d7jj0yD_aq9kNw9LsAMjUw
 #EXTINF:-1 tvg-id="tflix:16fa1fb7c9c5a80aa3c56437bf7ed14e" tvg-logo="https://tflix.su/logos/channels/bein-arabic-1-736dadab5b.png" group-title="Sports 2",BEIN ARABIC 1
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3A16fa1fb7c9c5a80aa3c56437bf7ed14e?exp=1795500218119&sig=4_Y7yr9budQrKcKxjrfaPO
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3A16fa1fb7c9c5a80aa3c56437bf7ed14e?exp=1795546725927&sig=XCk46d1kMf8_VbhQCqgIvH
 #EXTINF:-1 tvg-id="tflix:7063717fe0ccaea35fb0a45fe7407e8f" tvg-logo="https://tflix.su/logos/channels/bein-arabic-2-4c5ef1f1bf.jpg" group-title="Sports 2",BEIN ARABIC 2
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3A7063717fe0ccaea35fb0a45fe7407e8f?exp=1795500218119&sig=wa1gNxsRcl67rb_kBd4l7w
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3A7063717fe0ccaea35fb0a45fe7407e8f?exp=1795546725927&sig=y8GsRFDRWOImHCy8rmEKSK
 #EXTINF:-1 tvg-id="tflix:602656ff2032608e9db006121cd14438" tvg-logo="https://tflix.su/logos/channels/bein-arabic-3-ee785c2282.png" group-title="Sports 2",BEIN ARABIC 3
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3A602656ff2032608e9db006121cd14438?exp=1795500218119&sig=HwFOkihPXWq1NEkYuBhBvD
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3A602656ff2032608e9db006121cd14438?exp=1795546725927&sig=PN-fkxZLwR8yiS6YVpd3uf
 #EXTINF:-1 tvg-id="tflix:dad050505247c2cec52f7a7a0471278b" tvg-logo="https://tflix.su/logos/channels/bein-arabic-4-49e9936a74.png" group-title="Sports 2",BEIN ARABIC 4
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3Adad050505247c2cec52f7a7a0471278b?exp=1795500218119&sig=nvycRcAzwmWj_k43nfosnp
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3Adad050505247c2cec52f7a7a0471278b?exp=1795546725927&sig=WD3W7VhjOvuV9zR8W2BaK9
 #EXTINF:-1 tvg-id="tflix:16811e25c885dfc1044648f7aa7de21a" tvg-logo="https://tflix.su/logos/channels/bein-arabic-5-54cacd4533.png" group-title="Sports 2",BEIN ARABIC 5
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3A16811e25c885dfc1044648f7aa7de21a?exp=1795500218119&sig=ZrJb7VuuBcBVp3tBvOekpj
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3A16811e25c885dfc1044648f7aa7de21a?exp=1795546725927&sig=P7PetQ-Vznn31v4IUt6cu6
 #EXTINF:-1 tvg-id="tflix:c4c0a9ba1f2ceb6889df61771749d10b" tvg-logo="https://tflix.su/logos/channels/bein-arabic-6-54cacd4533.png" group-title="Sports 2",BEIN ARABIC 6
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3Ac4c0a9ba1f2ceb6889df61771749d10b?exp=1795500218119&sig=rQ4lIrVAVqtZBTKbVo1I-D
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3Ac4c0a9ba1f2ceb6889df61771749d10b?exp=1795546725927&sig=WI70Dv8hWtbGN6xOBrNimg
 #EXTINF:-1 tvg-id="tflix:fda686139f1fdae3adc4dc3f2e8d7293" tvg-logo="https://tflix.su/logos/channels/bein-arabic-7-54cacd4533.png" group-title="Sports 2",BEIN ARABIC 7
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3Afda686139f1fdae3adc4dc3f2e8d7293?exp=1795500218119&sig=J7Zx2aiXYsIAqmD-ElUBrL
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3Afda686139f1fdae3adc4dc3f2e8d7293?exp=1795546725927&sig=1Mt88n9Sml-X-yPT0aqhdk
 #EXTINF:-1 tvg-id="tflix:b3bcc539d7470ec47d1e92056fb88ef9" tvg-logo="https://tflix.su/logos/channels/bein-arabic-8-54cacd4533.png" group-title="Sports 2",BEIN ARABIC 8
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3Ab3bcc539d7470ec47d1e92056fb88ef9?exp=1795500218119&sig=Nz-Xwh4lV9XT61KT2r8zdz
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3Ab3bcc539d7470ec47d1e92056fb88ef9?exp=1795546725927&sig=-DbgGnV7Zf9mw322V-xUxw
 #EXTINF:-1 tvg-id="tflix:63cb04c589ab5bdaa8b6d8e751196ccc" tvg-logo="https://tflix.su/logos/channels/bein-sports-1-tr-a8b882e4c3.webp" group-title="Sports 2",BeIN Sports 1 TR
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3A63cb04c589ab5bdaa8b6d8e751196ccc?exp=1795500218119&sig=SMaMrVxGzWZn4JbCxqLlpi
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3A63cb04c589ab5bdaa8b6d8e751196ccc?exp=1795546725927&sig=PB1udlWyYUCQDfPwQonFWD
 #EXTINF:-1 tvg-id="tflix:f98808057e74fe908798c042aa673736" tvg-logo="https://tflix.su/logos/channels/bein-sports-2-tr-9daf9b69dc.webp" group-title="Sports 2",BeIN Sports 2 TR
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3Af98808057e74fe908798c042aa673736?exp=1795500218119&sig=tmBjovowe-3_MktwH3SRo2
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3Af98808057e74fe908798c042aa673736?exp=1795546725927&sig=Pt5ucJSxf9h5oT8gnfRMcG
 #EXTINF:-1 tvg-id="tflix:8c908100c8f86715ece184b57eb3e810" tvg-logo="https://tflix.su/logos/channels/bein-usa-d01b85d0de.png" group-title="Sports 2",BeIN USA
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3A8c908100c8f86715ece184b57eb3e810?exp=1795500218119&sig=V7gf21d5GRQv4_2BTNWfwn
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3A8c908100c8f86715ece184b57eb3e810?exp=1795546725927&sig=TgNyFdODIWmXYzGd66dcoH
 #EXTINF:-1 tvg-id="tflix:303caff6d879b1eced304ed2a21a9143" tvg-logo="https://tflix.su/logos/channels/bein-sports-1-fr-dec85dcaaa.png" group-title="Sports 2",Bein Sports 1 FR
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3A303caff6d879b1eced304ed2a21a9143?exp=1795500218119&sig=0fBJ9rn_36cXdomA5Yi_YC
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3A303caff6d879b1eced304ed2a21a9143?exp=1795546725927&sig=xNJyN-0Kj-g_z29dv3eDcQ
 #EXTINF:-1 tvg-id="tflix:285b81c660839f4b267061c8acdf1e63" tvg-logo="https://tflix.su/logos/channels/bein-sports-2-fr-311366c894.png" group-title="Sports 2",Bein Sports 2 FR
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3A285b81c660839f4b267061c8acdf1e63?exp=1795500218120&sig=ls_280bqYu1ayj_HMgtBFk
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3A285b81c660839f4b267061c8acdf1e63?exp=1795546725927&sig=hg7TRZhxxG_zz5nFyMJBdf
 #EXTINF:-1 tvg-id="tflix:77322109eec772f284379e0446f54ee5" tvg-logo="https://tflix.su/logos/channels/caze-tv-aq-d0c516f224.webp" group-title="Sports 2",CAZE TV AQ
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3A77322109eec772f284379e0446f54ee5?exp=1795500218120&sig=-GMMAdGylUcWYn614wJbfW
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3A77322109eec772f284379e0446f54ee5?exp=1795546725927&sig=NBf412DlsTNEKHEu49Y3fB
 #EXTINF:-1 tvg-id="tflix:e18dac022f0f7f7ca85bb89aa8921a02" tvg-logo="https://tflix.su/logos/channels/cbs-goalzo-6e72a8cc8a.png" group-title="Sports 2",CBS GOALZO
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3Ae18dac022f0f7f7ca85bb89aa8921a02?exp=1795500218120&sig=Ktq8tYVfy89uFd6Sai0bbi
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3Ae18dac022f0f7f7ca85bb89aa8921a02?exp=1795546725927&sig=hP644s3h6JrvxVNM2s7Ahp
 #EXTINF:-1 tvg-id="tflix:5f939c6da5c91aca68ee629c53eb8de3" tvg-logo="https://tflix.su/logos/channels/cbs-goalzo-6e72a8cc8a.png" group-title="Sports 2",CBS GOLAZO AQ
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3A5f939c6da5c91aca68ee629c53eb8de3?exp=1795500218120&sig=uaHL7dXCh1Sn_XlKKLVR4i
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3A5f939c6da5c91aca68ee629c53eb8de3?exp=1795546725927&sig=hrUHOpvC4t1ZTGLFK6NPXd
 #EXTINF:-1 tvg-id="tflix:a50ccbbe-a2af-4119-9e96-5a84941d9b54" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/CBS_Sports_Network_2021_%28Blue%29.svg/1280px-CBS_Sports_Network_2021_%28Blue%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Sports 2",CBS Sports Network
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3Aa50ccbbe-a2af-4119-9e96-5a84941d9b54?exp=1795500218120&sig=PwgRo4PzKKCzgf4iZEw1y0
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3Aa50ccbbe-a2af-4119-9e96-5a84941d9b54?exp=1795546725927&sig=jjqhMg6j6XWRXHj_91Y7o7
 #EXTINF:-1 tvg-id="tflix:defba8e0-d82e-4290-bd57-0ca3f09382ad" tvg-logo="https://i.logos-download.com/115060/37516-s1280-25e6c5caac156ed9c219a39ea7160f31.png/DAZN_1_Logo_2024-s1280.png" group-title="Sports 2",DAZN 1 DE
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3Adefba8e0-d82e-4290-bd57-0ca3f09382ad?exp=1795500218120&sig=zbR_3QNublji_R58kMcsz5
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3Adefba8e0-d82e-4290-bd57-0ca3f09382ad?exp=1795546725927&sig=7wkpCIt4EV5C9f-aTGWLRF
 #EXTINF:-1 tvg-id="tflix:e202071effa82a941331500c16f57ef4" tvg-logo="https://tflix.su/logos/channels/dazn-1-es-17ec453165.png" group-title="Sports 2",DAZN 1 ES
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3Ae202071effa82a941331500c16f57ef4?exp=1795500218120&sig=ln5nvyK0Lac3p2jNqiFcGC
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3Ae202071effa82a941331500c16f57ef4?exp=1795546725927&sig=tX6dS0NB2AubW5rkTUXoaw
 #EXTINF:-1 tvg-id="tflix:94f350817977311856994b619fd6eb8c" tvg-logo="https://i.logos-download.com/115060/37516-s1280-25e6c5caac156ed9c219a39ea7160f31.png/DAZN_1_Logo_2024-s1280.png" group-title="Sports 2",DAZN 1 IT
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3A94f350817977311856994b619fd6eb8c?exp=1795500218120&sig=xLz2CacYt7XFLGokzuhmnV
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3A94f350817977311856994b619fd6eb8c?exp=1795546725927&sig=4-lJBKYXIqetq0_pCNnufA
 #EXTINF:-1 tvg-id="tflix:7db8c79ace3f7c2df248140cf0041c7d" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThYOdbrCccNfIHurBHh1NtOT2bSQQP9gkvCUNgmVMNvA&s=10" group-title="Sports 2",DAZN 2 DE
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3A7db8c79ace3f7c2df248140cf0041c7d?exp=1795500218120&sig=NebvhI6hk5x_bP8E5j6LZj
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3A7db8c79ace3f7c2df248140cf0041c7d?exp=1795546725927&sig=pMC80HDoLyG1VeBCh4LrWz
 #EXTINF:-1 tvg-id="tflix:c3bcb0712dae9a92f7f39542d4731975" tvg-logo="https://tflix.su/logos/channels/dazn-2-es-9bb04d84a9.png" group-title="Sports 2",DAZN 2 ES
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3Ac3bcb0712dae9a92f7f39542d4731975?exp=1795500218120&sig=5n4NDulpn1JK0PuTqBtV6U
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3Ac3bcb0712dae9a92f7f39542d4731975?exp=1795546725927&sig=JfjdcIeE-m51vQ-_Vzl_c8
 #EXTINF:-1 tvg-id="tflix:32dfaa424cdb2725199e7d16930c3044" tvg-logo="https://tflix.su/logos/channels/dazn-3-es-f96817d91e.jpg" group-title="Sports 2",DAZN 3 ES
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3A32dfaa424cdb2725199e7d16930c3044?exp=1795500218120&sig=sb6bgrO89UQ8tJXu38Fxa-
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3A32dfaa424cdb2725199e7d16930c3044?exp=1795546725927&sig=tfesMKjjdoa6GPTbNN080Y
 #EXTINF:-1 tvg-id="tflix:639e3605d3ff569fb6b7225c3e921e93" tvg-logo="https://tflix.su/logos/channels/dazn-4-es-9a378bfdbb.png" group-title="Sports 2",DAZN 4 ES
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3A639e3605d3ff569fb6b7225c3e921e93?exp=1795500218120&sig=uu_kN1VTuhHkiwN6UNPVsh
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3A639e3605d3ff569fb6b7225c3e921e93?exp=1795546725927&sig=OnQZrXSWEUbR216AqZwYmb
 #EXTINF:-1 tvg-id="tflix:a2695d0c-f56e-483e-8d57-83011e391587" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlHcFvfw90qKCWmO6fl2b8Gviu6TAehIagHTxc3jiRFH9FFuwJ2PbSyO8p&s=10" group-title="Sports 2",DAZN LALIGA
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3Aa2695d0c-f56e-483e-8d57-83011e391587?exp=1795500218120&sig=Mo2sBg-N8mOn-k6e8HR7Ir
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3Aa2695d0c-f56e-483e-8d57-83011e391587?exp=1795546725927&sig=MSihl0TLBBFjnsfE-V4wXy
 #EXTINF:-1 tvg-id="tflix:2e1e7a37-777d-4a5a-8264-5f087a98d45f" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Sports 2",ESPN 1 USA
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3A2e1e7a37-777d-4a5a-8264-5f087a98d45f?exp=1795500218120&sig=youeFVbRc3F4L-vRO29hSc
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3A2e1e7a37-777d-4a5a-8264-5f087a98d45f?exp=1795546725927&sig=8RmR5iuXPBL7Z0QL0ikTw4
 #EXTINF:-1 tvg-id="tflix:59230295-512e-4f69-addd-0841fe00ad62" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Sports 2",ESPN 2 USA
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3A59230295-512e-4f69-addd-0841fe00ad62?exp=1795500218120&sig=U1hSztJ7PiJax1PUyNWLdO
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3A59230295-512e-4f69-addd-0841fe00ad62?exp=1795546725927&sig=fMlnmDfNEOlB_m7cCQCYdf
 #EXTINF:-1 tvg-id="tflix:cb4af27ffaee550e8d3e0f4aa8c40e8e" tvg-logo="https://tflix.su/logos/channels/espn-deportes-7620d6fd5a.webp" group-title="Sports 2",ESPN Deportes
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3Acb4af27ffaee550e8d3e0f4aa8c40e8e?exp=1795500218120&sig=gqM4y7NsKDCU7vl2wOrdCe
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3Acb4af27ffaee550e8d3e0f4aa8c40e8e?exp=1795546725927&sig=8H4KxE8FeVwEkMW4jSuwP9
 #EXTINF:-1 tvg-id="tflix:2aa356d9-9bf8-4bae-9b45-9c0eaa3609c5" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4dff12f1-efa0-4572-ada1-cf3e8cc13ede/dhttlue-2f60c60f-c76e-422f-9834-69e8dce2d944.png/v1/fill/w_1450,h_463/espnu_proposed_logo_by_subwooferlabs_dhttlue-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDYzIiwicGF0aCI6Ii9mLzRkZmYxMmYxLWVmYTAtNDU3Mi1hZGExLWNmM2U4Y2MxM2VkZS9kaHR0bHVlLTJmNjBjNjBmLWM3NmUtNDIyZi05ODM0LTY5ZThkY2UyZDk0NC5wbmciLCJ3aWR0aCI6Ijw9MTQ1MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.n5m5ACU0P78UWsOFOFhFsVBYG75oSD_IOjdfcP5pN_M" group-title="Sports 2",ESPNU USA
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3A2aa356d9-9bf8-4bae-9b45-9c0eaa3609c5?exp=1795500218120&sig=DB2MyC3yqYpT6rXbz5HaPM
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3A2aa356d9-9bf8-4bae-9b45-9c0eaa3609c5?exp=1795546725927&sig=7wiiM29quQ34ggrweCpZ9B
 #EXTINF:-1 tvg-id="tflix:4b398ee2-8834-480f-83fe-9f2cfd27b9b3" tvg-logo="https://cms.dreamsports.group/wp-content/uploads/2021/05/5ec7bd164133673.Y3JvcCwxMzgwLDEwODAsMjcwLDA.png" group-title="Sports 2",FANCODE
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3A4b398ee2-8834-480f-83fe-9f2cfd27b9b3?exp=1795500218120&sig=iy1XEjvfYJW0fZJNdpkCej
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3A4b398ee2-8834-480f-83fe-9f2cfd27b9b3?exp=1795546725927&sig=cgdjwZI5EkaC0nB2Y_Nj_-
 #EXTINF:-1 tvg-id="tflix:5e66451b6679b83697dab5c42954c5c9" tvg-logo="https://tflix.su/logos/channels/fancode-2-095e05a2ab.webp" group-title="Sports 2",FANCODE 2
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3A5e66451b6679b83697dab5c42954c5c9?exp=1795500218120&sig=PyswBAqzH7WKNhgqSPLcBJ
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3A5e66451b6679b83697dab5c42954c5c9?exp=1795546725927&sig=Iv4biD03ZeiUEZZ2RjNOM3
 #EXTINF:-1 tvg-id="tflix:3919f129-695f-42be-806c-d726dcd75244" tvg-logo="https://tflix.su/logos/channels/fox-deports-45d212f072.png" group-title="Sports 2",FOX DEPORTES AQ
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3A3919f129-695f-42be-806c-d726dcd75244?exp=1795500218120&sig=grfWpKRSgVnGlALxQBdiiC
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3A3919f129-695f-42be-806c-d726dcd75244?exp=1795546725927&sig=4BdCl5U-KNncuTVuRPHGHx
 #EXTINF:-1 tvg-id="tflix:9ef31b3b4b4aace3d69e17c0cb2b346c" tvg-logo="https://tflix.su/logos/channels/fox-sports-1-4de6d09b5b.png" group-title="Sports 2",FOX SPORTS 1
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3A9ef31b3b4b4aace3d69e17c0cb2b346c?exp=1795500218120&sig=GBn6EkM26dr6qNkH07MGs4
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3A9ef31b3b4b4aace3d69e17c0cb2b346c?exp=1795546725927&sig=R6MZc_jngDBaVYs22IrBNH
 #EXTINF:-1 tvg-id="tflix:e598b7d9894601bfb49259c9656bca4f" tvg-logo="https://tflix.su/logos/channels/fox-sports-2-d58b157298.png" group-title="Sports 2",FOX SPORTS 2
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3Ae598b7d9894601bfb49259c9656bca4f?exp=1795500218120&sig=fYbMLWkC0YPouRIG8_xK30
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3Ae598b7d9894601bfb49259c9656bca4f?exp=1795546725927&sig=oAwkw1jnNSOoKFefUVX6cf
 #EXTINF:-1 tvg-id="tflix:aabe6a2a-7e7f-46e8-a43e-4a28b182fd23" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/250px-FS2_logo_2015.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Sports 2",FOX SPORTS 2 AQ
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3Aaabe6a2a-7e7f-46e8-a43e-4a28b182fd23?exp=1795500218120&sig=7aDOEqx55jRKuf504CyS9C
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3Aaabe6a2a-7e7f-46e8-a43e-4a28b182fd23?exp=1795546725927&sig=1iXxXC4ocxX7Kd4IYPiuhK
+#EXTINF:-1 tvg-id="tflix:eae18e41aa6ea4a4ccdeaea09f77a637" tvg-logo="https://tflix.su/logos/channels/fubo-sports-800d907c6d.webp" group-title="Sports 2",FUBO SPORTS AQ
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3Aeae18e41aa6ea4a4ccdeaea09f77a637?exp=1795546725927&sig=DVL5oL5z8Baa-VqlqOidTp
 #EXTINF:-1 tvg-id="tflix:6f687086e8b0035798d5405153db2214" tvg-logo="https://tflix.su/logos/channels/fox-soccer-plus-2-69296fe7a4.webp" group-title="Sports 2",Fox Soccer Plus
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3A6f687086e8b0035798d5405153db2214?exp=1795500218120&sig=z6Ry7668rcnHdQhMayLlpU
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3A6f687086e8b0035798d5405153db2214?exp=1795546725927&sig=If1ISpf5SweGCf6nGRAYj_
 #EXTINF:-1 tvg-id="tflix:00fd20dbf245a4f764ccf361b9b69b25" tvg-logo="https://tflix.su/logos/channels/fox-sports-501-4a6e873d66.svg" group-title="Sports 2",Fox Sports 501
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3A00fd20dbf245a4f764ccf361b9b69b25?exp=1795500218120&sig=ilUbX-M4bRtCovqynNbb5y
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3A00fd20dbf245a4f764ccf361b9b69b25?exp=1795546725927&sig=peKSSPsuCxkd62halL3vjM
 #EXTINF:-1 tvg-id="tflix:e4ff108dee40ab891860a7870f953efe" tvg-logo="https://tflix.su/logos/channels/fox-sports-502-4a4dad09ee.webp" group-title="Sports 2",Fox Sports 502
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3Ae4ff108dee40ab891860a7870f953efe?exp=1795500218120&sig=qGkDEC-8uJLNipR484jk0R
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3Ae4ff108dee40ab891860a7870f953efe?exp=1795546725927&sig=PEdEK8EaRSnnVzcavCaRSX
 #EXTINF:-1 tvg-id="tflix:0e98187d3064c45925f01e606ced608e" tvg-logo="https://tflix.su/logos/channels/fox-sports-503-1966c9f38a.svg" group-title="Sports 2",Fox Sports 503
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3A0e98187d3064c45925f01e606ced608e?exp=1795500218120&sig=FqCCI04jbgN-RKkIRnyHUb
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3A0e98187d3064c45925f01e606ced608e?exp=1795546725927&sig=Xo_76cvkvgFnr_y62YBMRT
 #EXTINF:-1 tvg-id="tflix:22b9436b9ccfbfa219033b2b007ccba2" tvg-logo="https://tflix.su/logos/channels/fox-sports-504-688f0352e1.webp" group-title="Sports 2",Fox Sports 504
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3A22b9436b9ccfbfa219033b2b007ccba2?exp=1795500218120&sig=67HqF8I3BQqApdZe1ItGQj
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3A22b9436b9ccfbfa219033b2b007ccba2?exp=1795546725927&sig=9MPsLYOMa_pCYP7YZ1dKfr
 #EXTINF:-1 tvg-id="tflix:57417b31bae4e43bd73d179c8e60238b" tvg-logo="https://tflix.su/logos/channels/fox-sports-505-f5c132f12b.svg" group-title="Sports 2",Fox Sports 505
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3A57417b31bae4e43bd73d179c8e60238b?exp=1795500218120&sig=JJt7lrf08X_5AylvTfGx_Y
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3A57417b31bae4e43bd73d179c8e60238b?exp=1795546725927&sig=758JNDldGCJS_kuF9XyZeQ
 #EXTINF:-1 tvg-id="tflix:4ba94b7438e55c81e8abdd057884ada5" tvg-logo="https://tflix.su/logos/channels/fox-sports-506-1390484784.svg" group-title="Sports 2",Fox Sports 506
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3A4ba94b7438e55c81e8abdd057884ada5?exp=1795500218120&sig=l5pRAOZqyl_FidPvVOrRVH
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3A4ba94b7438e55c81e8abdd057884ada5?exp=1795546725927&sig=DDRFggojA8LZ-y_2CCKWDU
 #EXTINF:-1 tvg-id="tflix:cf3bdb8460fad8e7813c701df03f0a0a" tvg-logo="https://tflix.su/logos/channels/fox-sports-507-2b7278bd0f.webp" group-title="Sports 2",Fox Sports 507
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3Acf3bdb8460fad8e7813c701df03f0a0a?exp=1795500218120&sig=2z63ISz66GcQCpUIqySA5e
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3Acf3bdb8460fad8e7813c701df03f0a0a?exp=1795546725928&sig=Rdbw-Er2N_24jmdAbY0lh9
 #EXTINF:-1 tvg-id="tflix:a0c47d8f699c69b67798b7dacc704b8a" tvg-logo="https://tflix.su/logos/channels/itv-1-uk-e6212639bc.webp" group-title="Sports 2",ITV 1 UK
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3Aa0c47d8f699c69b67798b7dacc704b8a?exp=1795500218120&sig=CuF8uhmJu8LddDXHuLB5pD
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3Aa0c47d8f699c69b67798b7dacc704b8a?exp=1795546725928&sig=BPsT4zaZLeueVoc-8pe21C
 #EXTINF:-1 tvg-id="tflix:8423e9c67c3e8bb9bfd411531f818828" tvg-logo="https://tflix.su/logos/channels/itv-2-uk-ad89364852.webp" group-title="Sports 2",ITV 2 UK
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3A8423e9c67c3e8bb9bfd411531f818828?exp=1795500218120&sig=vbRyE2o1lxgVpqi5Eps-6U
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3A8423e9c67c3e8bb9bfd411531f818828?exp=1795546725928&sig=a9KOXwjqfupcu1RBPoTeuz
 #EXTINF:-1 tvg-id="tflix:c437e4db9358cc58c6869c3bf5a2f8cb" tvg-logo="https://tflix.su/logos/channels/itv-3-uk-baddf9c57c.svg" group-title="Sports 2",ITV 3 UK
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3Ac437e4db9358cc58c6869c3bf5a2f8cb?exp=1795500218120&sig=ObwvimTWNy_b2t8s9u3XXG
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3Ac437e4db9358cc58c6869c3bf5a2f8cb?exp=1795546725928&sig=0XAg5vm5gkcJAFfL9dQqQ5
 #EXTINF:-1 tvg-id="tflix:f493556f62a75d42908d61c0f021670d" tvg-logo="https://tflix.su/logos/channels/itv-4-uk-d8830ddf5b.webp" group-title="Sports 2",ITV 4 UK
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3Af493556f62a75d42908d61c0f021670d?exp=1795500218120&sig=tZB76-mQOzZwRuz7e-jM-Q
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3Af493556f62a75d42908d61c0f021670d?exp=1795546725928&sig=20IMBt-RRjOPng13_-VsFL
 #EXTINF:-1 tvg-id="tflix:1ba2184e-3172-44d0-b3e2-5c6272ea7095" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/960px-LaLiga_TV_Hypermotion_2023_Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Sports 2",LALIGA HYPERMOTION
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3A1ba2184e-3172-44d0-b3e2-5c6272ea7095?exp=1795500218120&sig=3a-FubTC1-FC2CP7JhR_qR
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3A1ba2184e-3172-44d0-b3e2-5c6272ea7095?exp=1795546725928&sig=D_b-dRH78cove9Gm95h1QF
 #EXTINF:-1 tvg-id="tflix:80221af5-cba0-44df-a7e1-4d9342d23b86" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/960px-LaLiga_TV_Hypermotion_2023_Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Sports 2",LALIGA HYPERMOTION AQ
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3A80221af5-cba0-44df-a7e1-4d9342d23b86?exp=1795500218120&sig=iKD_Gkhmc_pQmD7zvjKgZ_
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3A80221af5-cba0-44df-a7e1-4d9342d23b86?exp=1795546725928&sig=mLoo0qFDDz5nJintvACeSh
 #EXTINF:-1 tvg-id="tflix:1c72b30e-5a0c-4af9-a979-5997f6e73876" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/23v0bw1692438187.png" group-title="Sports 2",M+ LALIGA
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3A1c72b30e-5a0c-4af9-a979-5997f6e73876?exp=1795500218120&sig=7tzRUBDzohZpvAnLM60xZ2
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3A1c72b30e-5a0c-4af9-a979-5997f6e73876?exp=1795546725928&sig=_k4mCHnjAZcNTC15GoagFd
 #EXTINF:-1 tvg-id="tflix:3f8735d4-c153-4f58-8993-8ed5f6f911ea" tvg-logo="" group-title="Sports 2",NETFLIX PPV
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3A3f8735d4-c153-4f58-8993-8ed5f6f911ea?exp=1795500218120&sig=DhZM4FMrl7TB9SN0aP5MgW
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3A3f8735d4-c153-4f58-8993-8ed5f6f911ea?exp=1795546725928&sig=VycRmvYs4RjK9UDrHPEnoc
 #EXTINF:-1 tvg-id="tflix:90dcb172-6dfd-414a-a37a-cc475af5c7b2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/OneSoccer_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Sports 2",ONE SOCCER
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3A90dcb172-6dfd-414a-a37a-cc475af5c7b2?exp=1795500218120&sig=r-8GRqMaRQdKSh01smGB6J
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3A90dcb172-6dfd-414a-a37a-cc475af5c7b2?exp=1795546725928&sig=MjziG6sotNMdMzbBiK-UAf
 #EXTINF:-1 tvg-id="tflix:7ad4034c95e647879f82eda586ca502a" tvg-logo="https://tflix.su/logos/channels/premier-sports-1-0e065fbd14.svg" group-title="Sports 2",Premier Sports 1
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3A7ad4034c95e647879f82eda586ca502a?exp=1795500218120&sig=fXe6u-DQpR8kxOT7LRn-7N
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3A7ad4034c95e647879f82eda586ca502a?exp=1795546725928&sig=Ut_shhKcPY4sOJTA51qM-6
 #EXTINF:-1 tvg-id="tflix:6b06e8a716d744ce48fb4f383860561d" tvg-logo="https://tflix.su/logos/channels/premier-sports-1-aq-0e065fbd14.svg" group-title="Sports 2",Premier Sports 1 AQ
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3A6b06e8a716d744ce48fb4f383860561d?exp=1795500218120&sig=2Fg4N3bYJLpU-qus3XL5-n
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3A6b06e8a716d744ce48fb4f383860561d?exp=1795546725928&sig=eYtwQbjqHy8uXoZ_gcd89r
 #EXTINF:-1 tvg-id="tflix:b651864892a9b787b8d80ea37aed3e0e" tvg-logo="https://tflix.su/logos/channels/premier-sports-2-7ebd4553bc.svg" group-title="Sports 2",Premier Sports 2
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3Ab651864892a9b787b8d80ea37aed3e0e?exp=1795500218120&sig=j4ocAbPhmoSrCrMX8Sn8J7
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3Ab651864892a9b787b8d80ea37aed3e0e?exp=1795546725928&sig=8_nsE0Vo2S9GhN6MStgff-
 #EXTINF:-1 tvg-id="tflix:3ec963a949692a96d9003133d6511cb0" tvg-logo="https://tflix.su/logos/channels/premier-sports-2-aq-7ebd4553bc.svg" group-title="Sports 2",Premier Sports 2 AQ
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3A3ec963a949692a96d9003133d6511cb0?exp=1795500218120&sig=S4Iwyq-0h3RJRXVh5xUOO-
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3A3ec963a949692a96d9003133d6511cb0?exp=1795546725928&sig=P08Oy0ekhr1mrnvWJnyLPR
 #EXTINF:-1 tvg-id="tflix:6b96b4c0e4f5fda6e6709bd679599882" tvg-logo="https://tflix.su/logos/channels/sport-tv-1-pt-dd9e63aa7f.svg" group-title="Sports 2",SPORT TV 1 PT
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3A6b96b4c0e4f5fda6e6709bd679599882?exp=1795500218120&sig=5NHt2h8ByIkBwlCUVzUKRX
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3A6b96b4c0e4f5fda6e6709bd679599882?exp=1795546725928&sig=2HjeOmoMRwTXoiT8Ynei8l
 #EXTINF:-1 tvg-id="tflix:e7ea56345e19b2f6419f7d04905b94b5" tvg-logo="https://tflix.su/logos/channels/sport-tv-2-pt-1d7769c5d7.svg" group-title="Sports 2",SPORT TV 2 PT
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3Ae7ea56345e19b2f6419f7d04905b94b5?exp=1795500218120&sig=Z6wAB63155zSp7QhEZKWHp
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3Ae7ea56345e19b2f6419f7d04905b94b5?exp=1795546725928&sig=1m1oVDtvcz5h8eUZ-kkwsP
 #EXTINF:-1 tvg-id="tflix:c4685ec78d958e2d8aade87d6b9b3e63" tvg-logo="https://tflix.su/logos/channels/sport-tv-3-pt-86f0f628a7.svg" group-title="Sports 2",SPORT TV 3 PT
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3Ac4685ec78d958e2d8aade87d6b9b3e63?exp=1795500218120&sig=uWDR02diqvLM5FPngsXfjk
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3Ac4685ec78d958e2d8aade87d6b9b3e63?exp=1795546725928&sig=lFimWof5e6DRcvYynScA_V
 #EXTINF:-1 tvg-id="tflix:899e1c6d5038b7f74ee61a647c3c91f2" tvg-logo="https://tflix.su/logos/channels/sport-tv-4-pt-a97b9f25eb.svg" group-title="Sports 2",SPORT TV 4 PT
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3A899e1c6d5038b7f74ee61a647c3c91f2?exp=1795500218120&sig=-TFE7PkZ5wG6KvS9NBYgZT
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3A899e1c6d5038b7f74ee61a647c3c91f2?exp=1795546725928&sig=UIY9DtK-XJmJk6kWgl7sXC
 #EXTINF:-1 tvg-id="tflix:0cc07749d81f4a4d895ed2c671860b5f" tvg-logo="https://tflix.su/logos/channels/sport-tv-5-pt-d366aad86e.svg" group-title="Sports 2",SPORT TV 5 PT
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3A0cc07749d81f4a4d895ed2c671860b5f?exp=1795500218120&sig=NK6QET30y_Hutg8jBhiM0p
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3A0cc07749d81f4a4d895ed2c671860b5f?exp=1795546725928&sig=wTnxxlR1RIeSYUIg-1xlr_
 #EXTINF:-1 tvg-id="tflix:7c0847e6198a7261301989a95e6c9e49" tvg-logo="https://tflix.su/logos/channels/sport-tv-6-pt-f65bb62012.svg" group-title="Sports 2",SPORT TV 6 PT
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3A7c0847e6198a7261301989a95e6c9e49?exp=1795500218120&sig=of7K1IYNUUZUAmYHcArxtU
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3A7c0847e6198a7261301989a95e6c9e49?exp=1795546725928&sig=Lnleha3xzbneMy3A_qHIYG
 #EXTINF:-1 tvg-id="tflix:430bd109ecddacce816f7ab554d12298" tvg-logo="https://tflix.su/logos/channels/sky-sport-1-nz-6b95049cd5.webp" group-title="Sports 2",Sky Sport 1 NZ
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3A430bd109ecddacce816f7ab554d12298?exp=1795500218120&sig=M8kmbkuNpPJpd71DjJehUS
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3A430bd109ecddacce816f7ab554d12298?exp=1795546725928&sig=21xyjXUJLwBMjK8QwuOwcx
 #EXTINF:-1 tvg-id="tflix:bf5ffc9612f841c835d2544ddb8bd6f2" tvg-logo="https://tflix.su/logos/channels/sky-sport-2-nz-63e4cf871a.webp" group-title="Sports 2",Sky Sport 2 NZ
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3Abf5ffc9612f841c835d2544ddb8bd6f2?exp=1795500218120&sig=eSCW3dsuHUXBjGFdM717zz
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3Abf5ffc9612f841c835d2544ddb8bd6f2?exp=1795546725928&sig=ZXNUDclkgWX0vYKjDljqnu
 #EXTINF:-1 tvg-id="tflix:48e372f838edcc514d3385387bf61c12" tvg-logo="https://tflix.su/logos/channels/sky-sport-3-nz-4c1b7f9f6a.webp" group-title="Sports 2",Sky Sport 3 NZ
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3A48e372f838edcc514d3385387bf61c12?exp=1795500218120&sig=UoUWbqRUpvLfJc98y9eBCT
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3A48e372f838edcc514d3385387bf61c12?exp=1795546725928&sig=Df0r2lG6VZfBZAaaogqNx0
 #EXTINF:-1 tvg-id="tflix:ce1bdeacb135c5317a390845070e8dd7" tvg-logo="https://tflix.su/logos/channels/sky-sport-4-nz-8fd8d03bcc.webp" group-title="Sports 2",Sky Sport 4 NZ
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3Ace1bdeacb135c5317a390845070e8dd7?exp=1795500218120&sig=iHeI3PxxNxunmjYXp6PBIQ
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3Ace1bdeacb135c5317a390845070e8dd7?exp=1795546725928&sig=DlW5xGHOYRy7nYN_5m_TBL
 #EXTINF:-1 tvg-id="tflix:c4d6c5537f69c4d4238220da247a0edc" tvg-logo="https://tflix.su/logos/channels/sky-sport-5-nz-08e71a51b7.webp" group-title="Sports 2",Sky Sport 5 NZ
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3Ac4d6c5537f69c4d4238220da247a0edc?exp=1795500218120&sig=yF3qy2bvR2eaxPd0iLUlg-
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3Ac4d6c5537f69c4d4238220da247a0edc?exp=1795546725928&sig=TXXoL4TYSGajMVAPMiXAWa
 #EXTINF:-1 tvg-id="tflix:91d58e3ce7dacd422d6c38758c50173f" tvg-logo="https://tflix.su/logos/channels/sky-sport-6-nz-4663933be1.svg" group-title="Sports 2",Sky Sport 6 NZ
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3A91d58e3ce7dacd422d6c38758c50173f?exp=1795500218120&sig=X01KzuU4vwATmuQvYnZWaP
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3A91d58e3ce7dacd422d6c38758c50173f?exp=1795546725928&sig=NGp1EBb4kXBuGL4MV4gflB
 #EXTINF:-1 tvg-id="tflix:f604f14fa07a066a4585673abd718c26" tvg-logo="https://tflix.su/logos/channels/sky-sport-7-nz-4286fec492.svg" group-title="Sports 2",Sky Sport 7 NZ
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3Af604f14fa07a066a4585673abd718c26?exp=1795500218120&sig=Eq4VV5rk5Z4xIPno-KVUFx
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3Af604f14fa07a066a4585673abd718c26?exp=1795546725928&sig=KQmA0Od7LPDB6wQihr33Y0
 #EXTINF:-1 tvg-id="tflix:8230cc3b6b09ee2e4efdee6e16f584ab" tvg-logo="https://tflix.su/logos/channels/sky-sport-8-nz-9a3c9da8b7.svg" group-title="Sports 2",Sky Sport 8 NZ
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3A8230cc3b6b09ee2e4efdee6e16f584ab?exp=1795500218120&sig=GS34_W4AvPDO3T0nGByC3q
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3A8230cc3b6b09ee2e4efdee6e16f584ab?exp=1795546725928&sig=VJJNqxiH_6sv0gt0yc6skq
 #EXTINF:-1 tvg-id="tflix:386d6d744633c922001128e7c3f7e5c1" tvg-logo="https://tflix.su/logos/channels/sky-sport-9-nz-dd6af96d24.svg" group-title="Sports 2",Sky Sport 9 NZ
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3A386d6d744633c922001128e7c3f7e5c1?exp=1795500218120&sig=6NpwUHe-faE2yjLsuBwski
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3A386d6d744633c922001128e7c3f7e5c1?exp=1795546725928&sig=TIbvbR2AW2eCmJUSPAnNpF
 #EXTINF:-1 tvg-id="tflix:3237a0b5f1554a0e61998ce773557d6f" tvg-logo="https://tflix.su/logos/channels/sky-sport-select-nz-a28cc62513.webp" group-title="Sports 2",Sky Sport Select NZ
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3A3237a0b5f1554a0e61998ce773557d6f?exp=1795500218120&sig=PLKJ_a_Mzm7-Ex1fsRpJ5m
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3A3237a0b5f1554a0e61998ce773557d6f?exp=1795546725928&sig=vsIavK_VNm9Le-4maAK0Q2
 #EXTINF:-1 tvg-id="tflix:c91ee74d25c88f990e9bb8d67fa245aa" tvg-logo="https://tflix.su/logos/channels/sky-sports-action-ebcd0c3044.webp" group-title="Sports 2",Sky Sports Action/NFL
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3Ac91ee74d25c88f990e9bb8d67fa245aa?exp=1795500218120&sig=mLmEDbgHi4jzyPAc1gxLfK
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3Ac91ee74d25c88f990e9bb8d67fa245aa?exp=1795546725928&sig=iIT2ZEZFTZ1UcsNG46L8Sx
 #EXTINF:-1 tvg-id="tflix:32675e9402d2072f3676c3cf5930392d" tvg-logo="https://tflix.su/logos/channels/sky-sports-cricket-e74ee16f4e.webp" group-title="Sports 2",Sky Sports Cricket FHD
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3A32675e9402d2072f3676c3cf5930392d?exp=1795500218120&sig=63Jm6NO8hceLr0qz-IxMa2
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3A32675e9402d2072f3676c3cf5930392d?exp=1795546725928&sig=4S8ncm2ixk5wdz43qa9iFk
 #EXTINF:-1 tvg-id="tflix:7177200f6e76bfe9e65e1a757f9eec12" tvg-logo="https://tflix.su/logos/channels/sky-sports-f1-fhd-1b7a89be01.png" group-title="Sports 2",Sky Sports F1 FHD
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3A7177200f6e76bfe9e65e1a757f9eec12?exp=1795500218120&sig=wbwH0ytkHZTysKvHx8By7V
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3A7177200f6e76bfe9e65e1a757f9eec12?exp=1795546725928&sig=QpwRs9gUJkbkT92lICpIGj
 #EXTINF:-1 tvg-id="tflix:0f0c189410f11e615d9d1c2c3cf9d820" tvg-logo="https://tflix.su/logos/channels/sky-sports-football-f3c8c11479.webp" group-title="Sports 2",Sky Sports Football FHD
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3A0f0c189410f11e615d9d1c2c3cf9d820?exp=1795500218120&sig=h0MocpH84eE3Bzi2WJYwO-
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3A0f0c189410f11e615d9d1c2c3cf9d820?exp=1795546725928&sig=U5kADXU0qjbTxkX7eaiCF4
 #EXTINF:-1 tvg-id="tflix:2512a6bd181e2d2a94310cd0a9b7b569" tvg-logo="https://tflix.su/logos/channels/sky-sports-golf-473375ce60.webp" group-title="Sports 2",Sky Sports Golf FHD
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3A2512a6bd181e2d2a94310cd0a9b7b569?exp=1795500218120&sig=szA8kSqHeQC6p8YMNRAlqb
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3A2512a6bd181e2d2a94310cd0a9b7b569?exp=1795546725928&sig=Qr04hxsE5wTaoC1zzgszap
 #EXTINF:-1 tvg-id="tflix:34cd051a5ba7f71e88c65ef52889215b" tvg-logo="https://tflix.su/logos/channels/sky-sports-main-event-dd40d1c38c.webp" group-title="Sports 2",Sky Sports Main Event FHD
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3A34cd051a5ba7f71e88c65ef52889215b?exp=1795500218120&sig=qmP1n1CV68zmY7PI6nPG3M
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3A34cd051a5ba7f71e88c65ef52889215b?exp=1795546725928&sig=btq2QYoiVcmoAxPk1SC0wj
 #EXTINF:-1 tvg-id="tflix:9da3ed37-dcee-4978-a285-82053ef45635" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Sky_Sports_Main_Event_UHD.svg/revision/latest/scale-to-width-down/250?cb=20230210154620" group-title="Sports 2",Sky Sports Main Event Ultra
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3A9da3ed37-dcee-4978-a285-82053ef45635?exp=1795500218120&sig=nVl_rvIQcnUZ5V3F7Z9IGd
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3A9da3ed37-dcee-4978-a285-82053ef45635?exp=1795546725928&sig=IPwY20wLggrH_bQ54sVTzQ
 #EXTINF:-1 tvg-id="tflix:465c8f3f08dba82ddbd56633c6e5a964" tvg-logo="https://tflix.su/logos/channels/sky-sports-mix-ce2d9b724c.webp" group-title="Sports 2",Sky Sports Mix FHD
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3A465c8f3f08dba82ddbd56633c6e5a964?exp=1795500218120&sig=HmjSBUUFr0ftVAyNbko4nm
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3A465c8f3f08dba82ddbd56633c6e5a964?exp=1795546725928&sig=KypUEIDu3cP3uc3vjZBphL
 #EXTINF:-1 tvg-id="tflix:e8b0c28bcd64eb12342ca3f7d40f16b8" tvg-logo="https://tflix.su/logos/channels/sky-sports-news-954389beee.webp" group-title="Sports 2",Sky Sports News FHD
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3Ae8b0c28bcd64eb12342ca3f7d40f16b8?exp=1795500218120&sig=kY7bnnI3GHHgLwju7-p-Gb
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3Ae8b0c28bcd64eb12342ca3f7d40f16b8?exp=1795546725928&sig=9PzrjtimsGJ1r6JF4lLopP
 #EXTINF:-1 tvg-id="tflix:cc8ceab4c8fb546e9bdb3b8bccd89b01" tvg-logo="https://tflix.su/logos/channels/sky-sports-arena-fc02d0116f.webp" group-title="Sports 2",Sky Sports Plus FHD
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3Acc8ceab4c8fb546e9bdb3b8bccd89b01?exp=1795500218120&sig=Q7TmbzpxzYIMdfdWmfhwaY
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3Acc8ceab4c8fb546e9bdb3b8bccd89b01?exp=1795546725928&sig=40D49WXH2COjdjtxU04isN
 #EXTINF:-1 tvg-id="tflix:f7a57c88081e04f13a321ec277cb3361" tvg-logo="https://tflix.su/logos/channels/sky-sports-premier-league-60897db052.jpg" group-title="Sports 2",Sky Sports Premier League FHD
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3Af7a57c88081e04f13a321ec277cb3361?exp=1795500218120&sig=DqbeJihQUZk1aN-BWu_gd7
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3Af7a57c88081e04f13a321ec277cb3361?exp=1795546725928&sig=vgD9a-Ju71x8Jllb5lX85I
 #EXTINF:-1 tvg-id="tflix:ed13e1926b6842a7984ac98bf1903af9" tvg-logo="https://tflix.su/logos/channels/sky-sports-racing-9396ea12ed.webp" group-title="Sports 2",Sky Sports Racing
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3Aed13e1926b6842a7984ac98bf1903af9?exp=1795500218120&sig=4EK1-c6PZeoVkmcVYlR2UY
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3Aed13e1926b6842a7984ac98bf1903af9?exp=1795546725928&sig=ARJOgw8TMoQ1muT8_ru4m6
 #EXTINF:-1 tvg-id="tflix:92642a26a49fe7b61413964d35d423ca" tvg-logo="https://tflix.su/logos/channels/sky-sports-tennis-f87a91014f.webp" group-title="Sports 2",Sky Sports Tennis
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3A92642a26a49fe7b61413964d35d423ca?exp=1795500218120&sig=rq5sLR2_nKMTOokjN65kci
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3A92642a26a49fe7b61413964d35d423ca?exp=1795546725928&sig=jQQxyS9YEgwwC4REnaRy0-
 #EXTINF:-1 tvg-id="tflix:45f705a1-12a0-443a-a8d0-c2fc67b6af65" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/TBS_2020.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Sports 2",TBS USA
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3A45f705a1-12a0-443a-a8d0-c2fc67b6af65?exp=1795500218120&sig=ezW-mX6xKrEArX92PyohDM
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3A45f705a1-12a0-443a-a8d0-c2fc67b6af65?exp=1795546725928&sig=nsFM9HxJ2C7szrHvlLQT_s
 #EXTINF:-1 tvg-id="tflix:f9df77ee5201fa7a6ab202fbb663b1da" tvg-logo="https://tflix.su/logos/channels/tnt-sports-1-360cc1265a.png" group-title="Sports 2",TNT SPORTS 1
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3Af9df77ee5201fa7a6ab202fbb663b1da?exp=1795500218120&sig=hTf0AuElNhtTrrl5ef_oBa
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3Af9df77ee5201fa7a6ab202fbb663b1da?exp=1795546725928&sig=BuVZUGHgM3obt9zF4IDCvX
 #EXTINF:-1 tvg-id="tflix:719f55d4532eeb4325770a65e76cd9f3" tvg-logo="https://tflix.su/logos/channels/tnt-sports-1-aq-360cc1265a.png" group-title="Sports 2",TNT SPORTS 1 AQ
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3A719f55d4532eeb4325770a65e76cd9f3?exp=1795500218120&sig=m-Vg2k7BiKccYXzPkEfXcR
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3A719f55d4532eeb4325770a65e76cd9f3?exp=1795546725928&sig=vtoyLQMo2g6brgeQsdE92F
 #EXTINF:-1 tvg-id="tflix:f0c1361d752604f5356de41ef22009b0" tvg-logo="https://tflix.su/logos/channels/tnt-sports-2-020f343d5f.png" group-title="Sports 2",TNT SPORTS 2
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3Af0c1361d752604f5356de41ef22009b0?exp=1795500218120&sig=XaDBU9NbQ1356rfenMAZTO
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3Af0c1361d752604f5356de41ef22009b0?exp=1795546725928&sig=ClAuHWwqqPfkbVlOibveQH
 #EXTINF:-1 tvg-id="tflix:945a68e5244d6d30b48b01286acde55e" tvg-logo="https://tflix.su/logos/channels/tnt-sports-2-aq-020f343d5f.png" group-title="Sports 2",TNT SPORTS 2 AQ
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3A945a68e5244d6d30b48b01286acde55e?exp=1795500218120&sig=uYB2NUuN9fyLsTr9zt3TJd
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3A945a68e5244d6d30b48b01286acde55e?exp=1795546725928&sig=TPNwvc5H6dsHVUqVNbjYw2
 #EXTINF:-1 tvg-id="tflix:8673c9194eb278eafe1391af2594cc41" tvg-logo="https://tflix.su/logos/channels/tnt-sports-3-e27dd069a0.png" group-title="Sports 2",TNT SPORTS 3
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3A8673c9194eb278eafe1391af2594cc41?exp=1795500218120&sig=hDCK_zRt9Ej6l0E65Twj9Q
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3A8673c9194eb278eafe1391af2594cc41?exp=1795546725928&sig=kp1YS0cPyTxQfsfOrQXYMe
 #EXTINF:-1 tvg-id="tflix:9a953d94f48b70b70d6ae13b9ac3e4b6" tvg-logo="https://tflix.su/logos/channels/tnt-sports-3-aq-e27dd069a0.png" group-title="Sports 2",TNT SPORTS 3 AQ
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3A9a953d94f48b70b70d6ae13b9ac3e4b6?exp=1795500218120&sig=mb8fwfxvHKiX7n-qsQgpWD
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3A9a953d94f48b70b70d6ae13b9ac3e4b6?exp=1795546725928&sig=5Rs6BZcU5viBzDVZo-phIy
 #EXTINF:-1 tvg-id="tflix:0fe02417a040b09f432dd11ffcd9b667" tvg-logo="https://tflix.su/logos/channels/tnt-sports-4-b17a02eb4b.png" group-title="Sports 2",TNT SPORTS 4
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3A0fe02417a040b09f432dd11ffcd9b667?exp=1795500218120&sig=5lDwLoorsuWMQ3NzsBoz4Z
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3A0fe02417a040b09f432dd11ffcd9b667?exp=1795546725928&sig=qmBBRACCyPt8rRJQqlrtkr
 #EXTINF:-1 tvg-id="tflix:e0e4d4d667a27d86f931171cae8de201" tvg-logo="https://tflix.su/logos/channels/tnt-sports-4-aq-b17a02eb4b.png" group-title="Sports 2",TNT SPORTS 4 AQ
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3Ae0e4d4d667a27d86f931171cae8de201?exp=1795500218120&sig=KIewBa8hEdeNkgR7osdAuJ
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3Ae0e4d4d667a27d86f931171cae8de201?exp=1795546725928&sig=PCVqUDl_wIrUL43PScksKQ
 #EXTINF:-1 tvg-id="tflix:197abada80543284a5cc23d14ab5120d" tvg-logo="https://tflix.su/logos/channels/tnt-sports-5-4307502673.png" group-title="Sports 2",TNT SPORTS 5
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3A197abada80543284a5cc23d14ab5120d?exp=1795500218120&sig=2VSZD4iv-epe84BnGdZ856
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3A197abada80543284a5cc23d14ab5120d?exp=1795546725928&sig=aHU8ljTlchG8Sq1DSEAQC3
 #EXTINF:-1 tvg-id="tflix:5a6ca097062fefdec432d7656feb890c" tvg-logo="https://tflix.su/logos/channels/tnt-sports-6-cfe9f42bea.webp" group-title="Sports 2",TNT SPORTS 6
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3A5a6ca097062fefdec432d7656feb890c?exp=1795500218120&sig=TLVJpRdWYxOTAzK4QH2q6l
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3A5a6ca097062fefdec432d7656feb890c?exp=1795546725928&sig=ZCmHlMpbiZa1u-nU8-faNN
 #EXTINF:-1 tvg-id="tflix:688c03ef2e47bba379ea13980a608504" tvg-logo="https://tflix.su/logos/channels/tnt-sports-7-5b9a1077b0.webp" group-title="Sports 2",TNT SPORTS 7
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3A688c03ef2e47bba379ea13980a608504?exp=1795500218120&sig=MYHUEaaCOPPIK3Zx8C_6VD
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3A688c03ef2e47bba379ea13980a608504?exp=1795546725928&sig=9bDrU3U9_MwrjWkIGUKLr4
 #EXTINF:-1 tvg-id="tflix:2cbc057fc231a84b17ad0a180b631006" tvg-logo="https://tflix.su/logos/channels/tnt-sports-8-5b9a1077b0.webp" group-title="Sports 2",TNT SPORTS 8
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3A2cbc057fc231a84b17ad0a180b631006?exp=1795500218120&sig=XZDocrn-dJqyjVa-ZgRuWl
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3A2cbc057fc231a84b17ad0a180b631006?exp=1795546725928&sig=OVGOFsV8GmAiy0UCoQo4lb
 #EXTINF:-1 tvg-id="tflix:e683ccb0-c08c-4a07-96b6-02fabde15b7b" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/TNT_2016_%28Dark_Pink%29.svg/revision/latest/scale-to-width-down/250?cb=20250910014813" group-title="Sports 2",TNT USA
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3Ae683ccb0-c08c-4a07-96b6-02fabde15b7b?exp=1795500218120&sig=0SNTQPjPtJYbIgboabqR1K
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3Ae683ccb0-c08c-4a07-96b6-02fabde15b7b?exp=1795546725928&sig=cBLJRK5-ofL7UsA4z6tplX
 #EXTINF:-1 tvg-id="tflix:0e9920a0bdba2ce0ecab0a539446a5d8" tvg-logo="https://tflix.su/logos/channels/tsn-1-aq-605c24c033.png" group-title="Sports 2",TSN 1 AQ
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3A0e9920a0bdba2ce0ecab0a539446a5d8?exp=1795500218120&sig=se_0DeQWtuyT_ruBBH4iSj
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3A0e9920a0bdba2ce0ecab0a539446a5d8?exp=1795546725928&sig=6ZO2kfso90CDTJ7rM6h1u6
 #EXTINF:-1 tvg-id="tflix:f30e79a397cc136252929d54dfcde43b" tvg-logo="https://tflix.su/logos/channels/tsn-2-aq-76a4cd1bfc.png" group-title="Sports 2",TSN 2 AQ
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3Af30e79a397cc136252929d54dfcde43b?exp=1795500218120&sig=q3z2NMu3Zq69P-Hjjz3FcA
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3Af30e79a397cc136252929d54dfcde43b?exp=1795546725928&sig=dtfbwmD-dLfWGP5QoBmBjx
 #EXTINF:-1 tvg-id="tflix:a3d86c73a6f592bd29276e84d8716165" tvg-logo="https://tflix.su/logos/channels/tsn-3-aq-412ff126d3.png" group-title="Sports 2",TSN 3 AQ
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3Aa3d86c73a6f592bd29276e84d8716165?exp=1795500218120&sig=Pb59M53g-_BW1tiwyihVya
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3Aa3d86c73a6f592bd29276e84d8716165?exp=1795546725928&sig=HLyhvUukDLLUqoFEGy9dj2
 #EXTINF:-1 tvg-id="tflix:d6ce48bb0455285751c8842d42a5411f" tvg-logo="https://tflix.su/logos/channels/tsn-4-aq-fb1d1aba3a.png" group-title="Sports 2",TSN 4 AQ
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3Ad6ce48bb0455285751c8842d42a5411f?exp=1795500218120&sig=lJpy9sSCxWpe33UXZk8zvD
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3Ad6ce48bb0455285751c8842d42a5411f?exp=1795546725928&sig=LAC2TrMQdLWzAvg4cVnXhG
 #EXTINF:-1 tvg-id="tflix:2177f0d35602356b1fdb11795f1a3bfb" tvg-logo="https://tflix.su/logos/channels/tsn-5-aq-6529f7d214.png" group-title="Sports 2",TSN 5 AQ
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3A2177f0d35602356b1fdb11795f1a3bfb?exp=1795500218120&sig=Y5_ehAX2KshQs3hSTE9M-t
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3A2177f0d35602356b1fdb11795f1a3bfb?exp=1795546725928&sig=DeA-cgtLNsIsFTRyI8GUVt
 #EXTINF:-1 tvg-id="tflix:5e7be851f8b00aae2ec4b9d8a9380be8" tvg-logo="https://tflix.su/logos/channels/usa-network-c4312957d3.webp" group-title="Sports 2",USA NETWORK
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3A5e7be851f8b00aae2ec4b9d8a9380be8?exp=1795500218120&sig=4gs1NpB2lsmG63MhEFl5m7
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3A5e7be851f8b00aae2ec4b9d8a9380be8?exp=1795546725928&sig=g9Zhx1lrkW8S4WtHcOqjUK
 #EXTINF:-1 tvg-id="tflix:45d59d675ba1859e4c62297c9e06e018" tvg-logo="https://tflix.su/logos/channels/ziggo-sport-1-34e2b1d84a.webp" group-title="Sports 2",ZIGGO SPORT 1
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3A45d59d675ba1859e4c62297c9e06e018?exp=1795500218120&sig=qlQzfxTRYbaVDcLxlxx97K
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3A45d59d675ba1859e4c62297c9e06e018?exp=1795546725928&sig=hF8ukWTw4xkex7Ux3ref5d
 #EXTINF:-1 tvg-id="tflix:bbcf8a0854bb2267185a0f2bc2ec2a96" tvg-logo="https://tflix.su/logos/channels/ziggo-sport-2-88b1df2896.png" group-title="Sports 2",ZIGGO SPORT 2
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3Abbcf8a0854bb2267185a0f2bc2ec2a96?exp=1795500218120&sig=Go2me2Y8Aqk39np5toWC0e
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3Abbcf8a0854bb2267185a0f2bc2ec2a96?exp=1795546725928&sig=AbK5TZDDtLyCriIC4BOWdn
 #EXTINF:-1 tvg-id="tflix:1d5e6320cad3dc8b24838a8b3f3937d3" tvg-logo="https://tflix.su/logos/channels/ziggo-sport-3-c3aa5efaf4.webp" group-title="Sports 2",ZIGGO SPORT 3
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3A1d5e6320cad3dc8b24838a8b3f3937d3?exp=1795500218120&sig=GdcsEmBqoIoHF9q135dAvz
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3A1d5e6320cad3dc8b24838a8b3f3937d3?exp=1795546725928&sig=cRirnUGZv3Gpo9wla0tZ0B
 #EXTINF:-1 tvg-id="tflix:b339ba6e2e35776d21cd0fd4cf6bc9cc" tvg-logo="https://tflix.su/logos/channels/ziggo-sport-4-2d8882370f.webp" group-title="Sports 2",ZIGGO SPORT 4
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3Ab339ba6e2e35776d21cd0fd4cf6bc9cc?exp=1795500218120&sig=TEwMFvWMfsrySMyVe-gjuH
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3Ab339ba6e2e35776d21cd0fd4cf6bc9cc?exp=1795546725928&sig=jzmXWLcltI5TGeRGrld759
 #EXTINF:-1 tvg-id="tflix:4220d834e2b2a5cafc21c0e52e3e9187" tvg-logo="https://tflix.su/logos/channels/bein-eng-1-au-aq-ea26a418af.png" group-title="Sports 2",beIN ENG 1 AU AQ
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3A4220d834e2b2a5cafc21c0e52e3e9187?exp=1795500218120&sig=i9nGvJyQAt8reU3OEBXT5F
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3A4220d834e2b2a5cafc21c0e52e3e9187?exp=1795546725928&sig=8UTxXqp1IsbSCW-ML8K-9K
 #EXTINF:-1 tvg-id="tflix:a6be318361ab45df7f4cc1e4d971fd8c" tvg-logo="https://tflix.su/logos/channels/bein-eng-2-au-aq-2b73d7846b.png" group-title="Sports 2",beIN ENG 2 AU AQ
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3Aa6be318361ab45df7f4cc1e4d971fd8c?exp=1795500218120&sig=cM4FmAtZaImA6zYX8zXpiF
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3Aa6be318361ab45df7f4cc1e4d971fd8c?exp=1795546725928&sig=rpg-AN7pzIB9DxAD2GRdxH
 #EXTINF:-1 tvg-id="tflix:7375cedfe3764ee30e266df2be0bbd97" tvg-logo="https://tflix.su/logos/channels/bein-eng-3-au-aq-9531a6e146.png" group-title="Sports 2",beIN ENG 3 AU AQ
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/tflix%3A7375cedfe3764ee30e266df2be0bbd97?exp=1795500218120&sig=_jNptkrq-0ABDvsC1F-CY5
-#EXTINF:-1 tvg-id="skych:6" tvg-logo="/api/skych/logo/6" group-title="Custom",Sky Sport 02 HD
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/skych%3A6?exp=1795500218120&sig=82t5zGmASrb3deQ-2JzlTB
-#EXTINF:-1 tvg-id="skych:363" tvg-logo="/api/skych/logo/363" group-title="Custom",Sky Sport Premier League
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/skych%3A363?exp=1795500218120&sig=0G1uFytq0dn1SuuvAMZi-L
-#EXTINF:-1 tvg-id="skych:367" tvg-logo="/api/skych/logo/367" group-title="Custom",Sky Sport Golf
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/skych%3A367?exp=1795500218120&sig=zctzdnhEQE1dc4qMcC1BC2
-#EXTINF:-1 tvg-id="skych:298" tvg-logo="/api/skych/logo/298" group-title="Custom",Sky Sport F1 HD
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/skych%3A298?exp=1795500218120&sig=TiIGIpEzhPXjzhOLFVbfKp
-#EXTINF:-1 tvg-id="skych:141" tvg-logo="/api/skych/logo/141" group-title="Custom",RMC Sport 1
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/skych%3A141?exp=1795500218120&sig=QJ_53E-mJ7pmudZdSomYVv
-#EXTINF:-1 tvg-id="skych:365" tvg-logo="/api/skych/logo/365" group-title="Custom",Sky Sport Bundesliga
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/skych%3A365?exp=1795500218121&sig=R78INyj7i9KIZeF5wfXq3-
-#EXTINF:-1 tvg-id="skych:364" tvg-logo="/api/skych/logo/364" group-title="Custom",Sky Sport Tennis
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/skych%3A364?exp=1795500218121&sig=8Xv9_v36LONcMXE8ePKmbm
-#EXTINF:-1 tvg-id="skych:362" tvg-logo="/api/skych/logo/362" group-title="Custom",Sky Sport Top Event
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/skych%3A362?exp=1795500218121&sig=jUZSMeTG_a6ZehLEuCn9LG
-#EXTINF:-1 tvg-id="skych:523" tvg-logo="/api/skych/logo/523" group-title="Custom",Sky Sport NFL HD
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/skych%3A523?exp=1795500218121&sig=TwHoc_3Ot11Dh5-LWpKBXU
-#EXTINF:-1 tvg-id="skych:306" tvg-logo="/api/skych/logo/306" group-title="Custom",Sky Sport Serie A 1
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/skych%3A306?exp=1795500218121&sig=Y-w4RcIgi_ujYlCaI3S3zm
-#EXTINF:-1 tvg-id="skych:261" tvg-logo="/api/skych/logo/261" group-title="Custom",Blue Sport F
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/skych%3A261?exp=1795500218121&sig=FJZ11vF1cIoEhWHpJk4wgE
-#EXTINF:-1 tvg-id="skych:262" tvg-logo="/api/skych/logo/262" group-title="Custom",Blue Sport 1 Direct
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/skych%3A262?exp=1795500218121&sig=ZBrEKbpcF6Zc_oNjh3ZzJl
-#EXTINF:-1 tvg-id="skych:263" tvg-logo="/api/skych/logo/263" group-title="Custom",Blue Sport 2 Direct
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/skych%3A263?exp=1795500218121&sig=ZBFQUU8Bfd7pvOZ3fRattO
-#EXTINF:-1 tvg-id="skych:129" tvg-logo="/api/skych/logo/129" group-title="Custom",MySports Eins
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/skych%3A129?exp=1795500218121&sig=CB2952JiILI5SozE09K-8V
-#EXTINF:-1 tvg-id="skych:121" tvg-logo="/api/skych/logo/121" group-title="Custom",MySports 2
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/skych%3A121?exp=1795500218121&sig=Z56vi4WfPEijkaEa6gp09L
-#EXTINF:-1 tvg-id="skych:122" tvg-logo="/api/skych/logo/122" group-title="Custom",MySports 3
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/skych%3A122?exp=1795500218121&sig=3AO8kIe7yhPDFDB7G-UMRf
-#EXTINF:-1 tvg-id="skych:103" tvg-logo="/api/skych/logo/103" group-title="Custom",SportDigital Fussball
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/skych%3A103?exp=1795500218121&sig=NkN6hQhOmq7NKuEbmCupOR
-#EXTINF:-1 tvg-id="skych:173" tvg-logo="/api/skych/logo/173" group-title="Custom",TV8 Italy
-https://film4k.pl/api/m3u/42ad8d77fabf480d020ce3594fe143c7/stream/skych%3A173?exp=1795500218121&sig=b9qGj7Unhjctq6-_jUs_w5
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/tflix%3A7375cedfe3764ee30e266df2be0bbd97?exp=1795546725928&sig=vUGOwBvEMkrl0slMF0432H
+#EXTINF:-1 tvg-id="nowtv:4002" tvg-logo="/api/nowtv/logo/4002" group-title="Custom",Sky Sports Main Event
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/nowtv%3A4002?exp=1795546725928&sig=wtdE6ohhN1Yym18a5v6Dgr
+#EXTINF:-1 tvg-id="nowtv:3940" tvg-logo="/api/nowtv/logo/3940" group-title="Custom",Sky Sports Plus
+https://film4k.pl/api/m3u/1ee23160930be4077b4b821369b762f7/stream/nowtv%3A3940?exp=1795546725928&sig=rlbD69AU0MRtLSYNtaZ1is
